@@ -1,0 +1,32 @@
+{
+  "$id": "3",
+  "AutoRefresh": true,
+  "AutoRefreshRemotes": true,
+  "CommitTextLinks": null,
+  "DraftCommitMsg": "",
+  "IncomingSavedCount": 0,
+  "LastCheckedRemotes": "2019-09-21T12:01:47.3159461+02:00",
+  "LastUsedView": 0,
+  "LogBranchFilterIndex": 0,
+  "OutgoingSavedCount": 0,
+  "SidebarExpandedItems": [
+    "Branches"
+  ],
+  "SidebarWidth": 210.0,
+  "SubtreeLinks": [],
+  "RemoteProjectLinks": [
+    {
+      "$id": "4",
+      "BaseUrl": "https://bitbucket.org/",
+      "Identifier": "",
+      "RemoteName": "default",
+      "Type": 0,
+      "Username": "dougronthebold",
+      "CloneUrl": "https://dougronthebold@bitbucket.org/dougronthebold/chordprogressiontestfiles",
+      "ProjectUrl": "https://bitbucket.org/dougronthebold/chordprogressiontestfiles",
+      "AccountId": "dougronthebold@bitbucket.org",
+      "AvatarUrl": "https://bytebucket.org/ravatar/%7B114dbfb5-aaf1-45b9-8394-3c25da0059f0%7D?ts=default",
+      "DisplayName": "default: https://bitbucket.org/"
+    }
+  ]
+}

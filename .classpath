@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/DAUtils"/>
+	<classpathentry kind="lib" path="D:/Documents/DougzJavaz/javajar/acm.jar" sourcepath="D:/DougzJavaz/javajar/acm.jar"/>
+	<classpathentry kind="lib" path="D:/Documents/DougzJavaz/javajar/max.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

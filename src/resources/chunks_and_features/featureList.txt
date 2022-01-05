@@ -1,0 +1,5467 @@
+feature position=-1.0: 
+ChunkList contents -------------------------------
+NoteChunk #1058: position=-1.0 length=1.0
+    note 52 -1.0 1.0 109 0 E2
+   absoluteNoteString=E2
+NotePatternAnalysis list:-
+Enote
+nextNoteChunk(): NoteChunk-1057
+previousNoteChunk(): NoteChunk-1130 beginningClone of NoteChunk-988
+nextListObject: NoteChunk-1057
+NoteChunk #1057: position=0.0 length=2.5
+    note 60 0.0 2.5 109 0 C3
+   absoluteNoteString=C3
+NotePatternAnalysis list:-
+Cnote
+nextNoteChunk(): NoteChunk-1056
+previousNoteChunk(): NoteChunk-1058
+nextListObject: NoteChunk-1056
+NoteChunk #1056: position=2.5 length=0.5
+    note 59 2.5 0.5 109 0 B2
+   absoluteNoteString=B2
+NotePatternAnalysis list:-
+Bnote
+nextNoteChunk(): NoteChunk-1055
+previousNoteChunk(): NoteChunk-1057
+nextListObject: NoteChunk-1055
+featureHandler index=0
+FeatureInfo: isNull=false null isInt=true
+  as Value:52_60_59_
+featureHandler index=1
+FeatureInfo: isNull=false null isInt=true
+  as Value:4_0_11_
+featureHandler index=2
+FeatureInfo: isNull=false GAP_VALUE isInt=false
+  as Value:1.0_2.5_1.0_
+featureHandler index=3
+FeatureInfo: isNull=false ABSOLUTE_DURATION isInt=false
+  as Value:1.0_2.5_0.5_
+featureHandler index=4
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_PITCH isInt=true
+  as Value:52_60_59_
+featureHandler index=5
+FeatureInfo: isNull=false LOUD_SOFT_DYNAMICS isInt=true
+  as Value:96_96_96_
+featureHandler index=6
+FeatureInfo: isNull=false MOD_TOP_NOTE_PITCH isInt=true
+  as Value:4_0_11_
+featureHandler index=7
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_INTERVAL isInt=true
+  as Value:-5_8_-1_
+featureHandler index=8
+FeatureInfo: isNull=false CHROMATIC_SCALE_DEGREE isInt=true
+  as Value:7_7_6_
+featureHandler index=9
+FeatureInfo: isNull=false CHROMATIC_CHORD_TONE isInt=true
+  as Value:0_3_2_
+featureHandler index=10
+FeatureInfo: isNull=false DIATONIC_KEY_SCALE_TONE isInt=true
+  as Value:5,0_5,0_4,1_
+featureHandler index=11
+FeatureInfo: isNull=false DIATONIC_CHORD_FUNCTION_TONE isInt=true
+  as Value:1,0_3,0_2,1_
+featureHandler index=12
+FeatureInfo: isNull=false SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:-1_1_-1_
+featureHandler index=13
+FeatureInfo: isNull=false HALF_SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:-2_2_-1_
+featureHandler index=14
+FeatureInfo: isNull=false SIMPLE_DYNAMICS isInt=true
+  as Value:2_2_2_
+featureHandler index=15
+FeatureInfo: isNull=false STACCATO_PORTATO_TENUTO isInt=false
+  as Value:1.0_1.0_0.0_
+featureHandler index=16
+FeatureInfo: isNull=false CHORD_SCALE_NONSCALE_TONE isInt=true
+  as Value:0_0_2_
+feature position=0.0: 
+ChunkList contents -------------------------------
+NoteChunk #1057: position=0.0 length=2.5
+    note 60 0.0 2.5 109 0 C3
+   absoluteNoteString=C3
+NotePatternAnalysis list:-
+Cnote
+nextNoteChunk(): NoteChunk-1056
+previousNoteChunk(): NoteChunk-1058
+nextListObject: NoteChunk-1056
+NoteChunk #1056: position=2.5 length=0.5
+    note 59 2.5 0.5 109 0 B2
+   absoluteNoteString=B2
+NotePatternAnalysis list:-
+Bnote
+nextNoteChunk(): NoteChunk-1055
+previousNoteChunk(): NoteChunk-1057
+nextListObject: NoteChunk-1055
+NoteChunk #1055: position=3.5 length=0.5
+    note 57 3.5 0.5 109 0 A2
+   absoluteNoteString=A2
+NotePatternAnalysis list:-
+Anote
+nextNoteChunk(): NoteChunk-1054
+previousNoteChunk(): NoteChunk-1056
+nextListObject: NoteChunk-1054
+featureHandler index=0
+FeatureInfo: isNull=false null isInt=true
+  as Value:60_59_57_
+featureHandler index=1
+FeatureInfo: isNull=false null isInt=true
+  as Value:0_11_9_
+featureHandler index=2
+FeatureInfo: isNull=false GAP_VALUE isInt=false
+  as Value:2.5_1.0_0.5_
+featureHandler index=3
+FeatureInfo: isNull=false ABSOLUTE_DURATION isInt=false
+  as Value:2.5_0.5_0.5_
+featureHandler index=4
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_PITCH isInt=true
+  as Value:60_59_57_
+featureHandler index=5
+FeatureInfo: isNull=false LOUD_SOFT_DYNAMICS isInt=true
+  as Value:96_96_96_
+featureHandler index=6
+FeatureInfo: isNull=false MOD_TOP_NOTE_PITCH isInt=true
+  as Value:0_11_9_
+featureHandler index=7
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_INTERVAL isInt=true
+  as Value:8_-1_-2_
+featureHandler index=8
+FeatureInfo: isNull=false CHROMATIC_SCALE_DEGREE isInt=true
+  as Value:7_6_4_
+featureHandler index=9
+FeatureInfo: isNull=false CHROMATIC_CHORD_TONE isInt=true
+  as Value:3_2_0_
+featureHandler index=10
+FeatureInfo: isNull=false DIATONIC_KEY_SCALE_TONE isInt=true
+  as Value:5,0_4,1_3,0_
+featureHandler index=11
+FeatureInfo: isNull=false DIATONIC_CHORD_FUNCTION_TONE isInt=true
+  as Value:3,0_2,1_1,0_
+featureHandler index=12
+FeatureInfo: isNull=false SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:1_-1_-1_
+featureHandler index=13
+FeatureInfo: isNull=false HALF_SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:2_-1_-1_
+featureHandler index=14
+FeatureInfo: isNull=false SIMPLE_DYNAMICS isInt=true
+  as Value:2_2_2_
+featureHandler index=15
+FeatureInfo: isNull=false STACCATO_PORTATO_TENUTO isInt=false
+  as Value:1.0_0.0_1.0_
+featureHandler index=16
+FeatureInfo: isNull=false CHORD_SCALE_NONSCALE_TONE isInt=true
+  as Value:0_2_0_
+feature position=2.5: 
+ChunkList contents -------------------------------
+NoteChunk #1056: position=2.5 length=0.5
+    note 59 2.5 0.5 109 0 B2
+   absoluteNoteString=B2
+NotePatternAnalysis list:-
+Bnote
+nextNoteChunk(): NoteChunk-1055
+previousNoteChunk(): NoteChunk-1057
+nextListObject: NoteChunk-1055
+NoteChunk #1055: position=3.5 length=0.5
+    note 57 3.5 0.5 109 0 A2
+   absoluteNoteString=A2
+NotePatternAnalysis list:-
+Anote
+nextNoteChunk(): NoteChunk-1054
+previousNoteChunk(): NoteChunk-1056
+nextListObject: NoteChunk-1054
+NoteChunk #1054: position=4.0 length=1.5
+    note 57 4.0 1.5 109 0 A2
+   absoluteNoteString=A2
+NotePatternAnalysis list:-
+Anote
+nextNoteChunk(): NoteChunk-1053
+previousNoteChunk(): NoteChunk-1055
+nextListObject: NoteChunk-1053
+featureHandler index=0
+FeatureInfo: isNull=false null isInt=true
+  as Value:59_57_57_
+featureHandler index=1
+FeatureInfo: isNull=false null isInt=true
+  as Value:11_9_9_
+featureHandler index=2
+FeatureInfo: isNull=false GAP_VALUE isInt=false
+  as Value:1.0_0.5_1.5_
+featureHandler index=3
+FeatureInfo: isNull=false ABSOLUTE_DURATION isInt=false
+  as Value:0.5_0.5_1.5_
+featureHandler index=4
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_PITCH isInt=true
+  as Value:59_57_57_
+featureHandler index=5
+FeatureInfo: isNull=false LOUD_SOFT_DYNAMICS isInt=true
+  as Value:96_96_96_
+featureHandler index=6
+FeatureInfo: isNull=false MOD_TOP_NOTE_PITCH isInt=true
+  as Value:11_9_9_
+featureHandler index=7
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_INTERVAL isInt=true
+  as Value:-1_-2_0_
+featureHandler index=8
+FeatureInfo: isNull=false CHROMATIC_SCALE_DEGREE isInt=true
+  as Value:6_4_0_
+featureHandler index=9
+FeatureInfo: isNull=false CHROMATIC_CHORD_TONE isInt=true
+  as Value:2_0_10_
+featureHandler index=10
+FeatureInfo: isNull=false DIATONIC_KEY_SCALE_TONE isInt=true
+  as Value:4,1_3,0_1,0_
+featureHandler index=11
+FeatureInfo: isNull=false DIATONIC_CHORD_FUNCTION_TONE isInt=true
+  as Value:2,1_1,0_7,0_
+featureHandler index=12
+FeatureInfo: isNull=false SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:-1_-1_0_
+featureHandler index=13
+FeatureInfo: isNull=false HALF_SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:-1_-1_0_
+featureHandler index=14
+FeatureInfo: isNull=false SIMPLE_DYNAMICS isInt=true
+  as Value:2_2_2_
+featureHandler index=15
+FeatureInfo: isNull=false STACCATO_PORTATO_TENUTO isInt=false
+  as Value:0.0_1.0_1.0_
+featureHandler index=16
+FeatureInfo: isNull=false CHORD_SCALE_NONSCALE_TONE isInt=true
+  as Value:2_0_0_
+feature position=3.5: 
+ChunkList contents -------------------------------
+NoteChunk #1055: position=3.5 length=0.5
+    note 57 3.5 0.5 109 0 A2
+   absoluteNoteString=A2
+NotePatternAnalysis list:-
+Anote
+nextNoteChunk(): NoteChunk-1054
+previousNoteChunk(): NoteChunk-1056
+nextListObject: NoteChunk-1054
+NoteChunk #1054: position=4.0 length=1.5
+    note 57 4.0 1.5 109 0 A2
+   absoluteNoteString=A2
+NotePatternAnalysis list:-
+Anote
+nextNoteChunk(): NoteChunk-1053
+previousNoteChunk(): NoteChunk-1055
+nextListObject: NoteChunk-1053
+NoteChunk #1053: position=5.5 length=1.0
+    note 56 5.5 1.0 109 0 G#2
+   absoluteNoteString=G#2
+NotePatternAnalysis list:-
+G#note
+nextNoteChunk(): NoteChunk-1052
+previousNoteChunk(): NoteChunk-1054
+nextListObject: NoteChunk-1052
+featureHandler index=0
+FeatureInfo: isNull=false null isInt=true
+  as Value:57_57_56_
+featureHandler index=1
+FeatureInfo: isNull=false null isInt=true
+  as Value:9_9_8_
+featureHandler index=2
+FeatureInfo: isNull=false GAP_VALUE isInt=false
+  as Value:0.5_1.5_1.0_
+featureHandler index=3
+FeatureInfo: isNull=false ABSOLUTE_DURATION isInt=false
+  as Value:0.5_1.5_1.0_
+featureHandler index=4
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_PITCH isInt=true
+  as Value:57_57_56_
+featureHandler index=5
+FeatureInfo: isNull=false LOUD_SOFT_DYNAMICS isInt=true
+  as Value:96_96_96_
+featureHandler index=6
+FeatureInfo: isNull=false MOD_TOP_NOTE_PITCH isInt=true
+  as Value:9_9_8_
+featureHandler index=7
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_INTERVAL isInt=true
+  as Value:-2_0_-1_
+featureHandler index=8
+FeatureInfo: isNull=false CHROMATIC_SCALE_DEGREE isInt=true
+  as Value:4_0_11_
+featureHandler index=9
+FeatureInfo: isNull=false CHROMATIC_CHORD_TONE isInt=true
+  as Value:0_10_4_
+featureHandler index=10
+FeatureInfo: isNull=false DIATONIC_KEY_SCALE_TONE isInt=true
+  as Value:3,0_1,0_7,1_
+featureHandler index=11
+FeatureInfo: isNull=false DIATONIC_CHORD_FUNCTION_TONE isInt=true
+  as Value:1,0_7,0_3,0_
+featureHandler index=12
+FeatureInfo: isNull=false SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:-1_0_-1_
+featureHandler index=13
+FeatureInfo: isNull=false HALF_SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:-1_0_-1_
+featureHandler index=14
+FeatureInfo: isNull=false SIMPLE_DYNAMICS isInt=true
+  as Value:2_2_2_
+featureHandler index=15
+FeatureInfo: isNull=false STACCATO_PORTATO_TENUTO isInt=false
+  as Value:1.0_1.0_1.0_
+featureHandler index=16
+FeatureInfo: isNull=false CHORD_SCALE_NONSCALE_TONE isInt=true
+  as Value:0_0_0_
+feature position=4.0: 
+ChunkList contents -------------------------------
+NoteChunk #1054: position=4.0 length=1.5
+    note 57 4.0 1.5 109 0 A2
+   absoluteNoteString=A2
+NotePatternAnalysis list:-
+Anote
+nextNoteChunk(): NoteChunk-1053
+previousNoteChunk(): NoteChunk-1055
+nextListObject: NoteChunk-1053
+NoteChunk #1053: position=5.5 length=1.0
+    note 56 5.5 1.0 109 0 G#2
+   absoluteNoteString=G#2
+NotePatternAnalysis list:-
+G#note
+nextNoteChunk(): NoteChunk-1052
+previousNoteChunk(): NoteChunk-1054
+nextListObject: NoteChunk-1052
+NoteChunk #1052: position=6.5 length=1.0
+    note 59 6.5 1.0 109 0 B2
+   absoluteNoteString=B2
+NotePatternAnalysis list:-
+Bnote
+nextNoteChunk(): NoteChunk-1051
+previousNoteChunk(): NoteChunk-1053
+nextListObject: NoteChunk-1051
+featureHandler index=0
+FeatureInfo: isNull=false null isInt=true
+  as Value:57_56_59_
+featureHandler index=1
+FeatureInfo: isNull=false null isInt=true
+  as Value:9_8_11_
+featureHandler index=2
+FeatureInfo: isNull=false GAP_VALUE isInt=false
+  as Value:1.5_1.0_1.0_
+featureHandler index=3
+FeatureInfo: isNull=false ABSOLUTE_DURATION isInt=false
+  as Value:1.5_1.0_1.0_
+featureHandler index=4
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_PITCH isInt=true
+  as Value:57_56_59_
+featureHandler index=5
+FeatureInfo: isNull=false LOUD_SOFT_DYNAMICS isInt=true
+  as Value:96_96_96_
+featureHandler index=6
+FeatureInfo: isNull=false MOD_TOP_NOTE_PITCH isInt=true
+  as Value:9_8_11_
+featureHandler index=7
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_INTERVAL isInt=true
+  as Value:0_-1_3_
+featureHandler index=8
+FeatureInfo: isNull=false CHROMATIC_SCALE_DEGREE isInt=true
+  as Value:0_11_2_
+featureHandler index=9
+FeatureInfo: isNull=false CHROMATIC_CHORD_TONE isInt=true
+  as Value:10_4_7_
+featureHandler index=10
+FeatureInfo: isNull=false DIATONIC_KEY_SCALE_TONE isInt=true
+  as Value:1,0_7,1_2,0_
+featureHandler index=11
+FeatureInfo: isNull=false DIATONIC_CHORD_FUNCTION_TONE isInt=true
+  as Value:7,0_3,0_5,0_
+featureHandler index=12
+FeatureInfo: isNull=false SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:0_-1_1_
+featureHandler index=13
+FeatureInfo: isNull=false HALF_SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:0_-1_1_
+featureHandler index=14
+FeatureInfo: isNull=false SIMPLE_DYNAMICS isInt=true
+  as Value:2_2_2_
+featureHandler index=15
+FeatureInfo: isNull=false STACCATO_PORTATO_TENUTO isInt=false
+  as Value:1.0_1.0_1.0_
+featureHandler index=16
+FeatureInfo: isNull=false CHORD_SCALE_NONSCALE_TONE isInt=true
+  as Value:0_0_0_
+feature position=5.5: 
+ChunkList contents -------------------------------
+NoteChunk #1053: position=5.5 length=1.0
+    note 56 5.5 1.0 109 0 G#2
+   absoluteNoteString=G#2
+NotePatternAnalysis list:-
+G#note
+nextNoteChunk(): NoteChunk-1052
+previousNoteChunk(): NoteChunk-1054
+nextListObject: NoteChunk-1052
+NoteChunk #1052: position=6.5 length=1.0
+    note 59 6.5 1.0 109 0 B2
+   absoluteNoteString=B2
+NotePatternAnalysis list:-
+Bnote
+nextNoteChunk(): NoteChunk-1051
+previousNoteChunk(): NoteChunk-1053
+nextListObject: NoteChunk-1051
+NoteChunk #1051: position=7.5 length=6.5
+    note 52 7.5 6.5 109 0 E2
+   absoluteNoteString=E2
+NotePatternAnalysis list:-
+Enote
+nextNoteChunk(): NoteChunk-1050
+previousNoteChunk(): NoteChunk-1052
+nextListObject: NoteChunk-1050
+featureHandler index=0
+FeatureInfo: isNull=false null isInt=true
+  as Value:56_59_52_
+featureHandler index=1
+FeatureInfo: isNull=false null isInt=true
+  as Value:8_11_4_
+featureHandler index=2
+FeatureInfo: isNull=false GAP_VALUE isInt=false
+  as Value:1.0_1.0_7.0_
+featureHandler index=3
+FeatureInfo: isNull=false ABSOLUTE_DURATION isInt=false
+  as Value:1.0_1.0_6.5_
+featureHandler index=4
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_PITCH isInt=true
+  as Value:56_59_52_
+featureHandler index=5
+FeatureInfo: isNull=false LOUD_SOFT_DYNAMICS isInt=true
+  as Value:96_96_96_
+featureHandler index=6
+FeatureInfo: isNull=false MOD_TOP_NOTE_PITCH isInt=true
+  as Value:8_11_4_
+featureHandler index=7
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_INTERVAL isInt=true
+  as Value:-1_3_-7_
+featureHandler index=8
+FeatureInfo: isNull=false CHROMATIC_SCALE_DEGREE isInt=true
+  as Value:11_2_7_
+featureHandler index=9
+FeatureInfo: isNull=false CHROMATIC_CHORD_TONE isInt=true
+  as Value:4_7_7_
+featureHandler index=10
+FeatureInfo: isNull=false DIATONIC_KEY_SCALE_TONE isInt=true
+  as Value:7,1_2,0_5,0_
+featureHandler index=11
+FeatureInfo: isNull=false DIATONIC_CHORD_FUNCTION_TONE isInt=true
+  as Value:3,0_5,0_5,0_
+featureHandler index=12
+FeatureInfo: isNull=false SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:-1_1_-1_
+featureHandler index=13
+FeatureInfo: isNull=false HALF_SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:-1_1_-2_
+featureHandler index=14
+FeatureInfo: isNull=false SIMPLE_DYNAMICS isInt=true
+  as Value:2_2_2_
+featureHandler index=15
+FeatureInfo: isNull=false STACCATO_PORTATO_TENUTO isInt=false
+  as Value:1.0_1.0_0.93_
+featureHandler index=16
+FeatureInfo: isNull=false CHORD_SCALE_NONSCALE_TONE isInt=true
+  as Value:0_0_0_
+feature position=6.5: 
+ChunkList contents -------------------------------
+NoteChunk #1052: position=6.5 length=1.0
+    note 59 6.5 1.0 109 0 B2
+   absoluteNoteString=B2
+NotePatternAnalysis list:-
+Bnote
+nextNoteChunk(): NoteChunk-1051
+previousNoteChunk(): NoteChunk-1053
+nextListObject: NoteChunk-1051
+NoteChunk #1051: position=7.5 length=6.5
+    note 52 7.5 6.5 109 0 E2
+   absoluteNoteString=E2
+NotePatternAnalysis list:-
+Enote
+nextNoteChunk(): NoteChunk-1050
+previousNoteChunk(): NoteChunk-1052
+nextListObject: NoteChunk-1050
+NoteChunk #1050: position=14.5 length=0.5
+    note 52 14.5 0.5 109 0 E2
+   absoluteNoteString=E2
+NotePatternAnalysis list:-
+Enote
+nextNoteChunk(): NoteChunk-1049
+previousNoteChunk(): NoteChunk-1051
+nextListObject: NoteChunk-1049
+featureHandler index=0
+FeatureInfo: isNull=false null isInt=true
+  as Value:59_52_52_
+featureHandler index=1
+FeatureInfo: isNull=false null isInt=true
+  as Value:11_4_4_
+featureHandler index=2
+FeatureInfo: isNull=false GAP_VALUE isInt=false
+  as Value:1.0_7.0_1.0_
+featureHandler index=3
+FeatureInfo: isNull=false ABSOLUTE_DURATION isInt=false
+  as Value:1.0_6.5_0.5_
+featureHandler index=4
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_PITCH isInt=true
+  as Value:59_52_52_
+featureHandler index=5
+FeatureInfo: isNull=false LOUD_SOFT_DYNAMICS isInt=true
+  as Value:96_96_96_
+featureHandler index=6
+FeatureInfo: isNull=false MOD_TOP_NOTE_PITCH isInt=true
+  as Value:11_4_4_
+featureHandler index=7
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_INTERVAL isInt=true
+  as Value:3_-7_0_
+featureHandler index=8
+FeatureInfo: isNull=false CHROMATIC_SCALE_DEGREE isInt=true
+  as Value:2_7_7_
+featureHandler index=9
+FeatureInfo: isNull=false CHROMATIC_CHORD_TONE isInt=true
+  as Value:7_7_0_
+featureHandler index=10
+FeatureInfo: isNull=false DIATONIC_KEY_SCALE_TONE isInt=true
+  as Value:2,0_5,0_5,0_
+featureHandler index=11
+FeatureInfo: isNull=false DIATONIC_CHORD_FUNCTION_TONE isInt=true
+  as Value:5,0_5,0_1,0_
+featureHandler index=12
+FeatureInfo: isNull=false SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:1_-1_0_
+featureHandler index=13
+FeatureInfo: isNull=false HALF_SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:1_-2_0_
+featureHandler index=14
+FeatureInfo: isNull=false SIMPLE_DYNAMICS isInt=true
+  as Value:2_2_2_
+featureHandler index=15
+FeatureInfo: isNull=false STACCATO_PORTATO_TENUTO isInt=false
+  as Value:1.0_0.93_0.0_
+featureHandler index=16
+FeatureInfo: isNull=false CHORD_SCALE_NONSCALE_TONE isInt=true
+  as Value:0_0_0_
+feature position=7.5: 
+ChunkList contents -------------------------------
+NoteChunk #1051: position=7.5 length=6.5
+    note 52 7.5 6.5 109 0 E2
+   absoluteNoteString=E2
+NotePatternAnalysis list:-
+Enote
+nextNoteChunk(): NoteChunk-1050
+previousNoteChunk(): NoteChunk-1052
+nextListObject: NoteChunk-1050
+NoteChunk #1050: position=14.5 length=0.5
+    note 52 14.5 0.5 109 0 E2
+   absoluteNoteString=E2
+NotePatternAnalysis list:-
+Enote
+nextNoteChunk(): NoteChunk-1049
+previousNoteChunk(): NoteChunk-1051
+nextListObject: NoteChunk-1049
+NoteChunk #1049: position=15.5 length=3.0
+    note 60 15.5 3.0 109 0 C3
+   absoluteNoteString=C3
+NotePatternAnalysis list:-
+Cnote
+nextNoteChunk(): NoteChunk-1048
+previousNoteChunk(): NoteChunk-1050
+nextListObject: NoteChunk-1048
+featureHandler index=0
+FeatureInfo: isNull=false null isInt=true
+  as Value:52_52_60_
+featureHandler index=1
+FeatureInfo: isNull=false null isInt=true
+  as Value:4_4_0_
+featureHandler index=2
+FeatureInfo: isNull=false GAP_VALUE isInt=false
+  as Value:7.0_1.0_3.0_
+featureHandler index=3
+FeatureInfo: isNull=false ABSOLUTE_DURATION isInt=false
+  as Value:6.5_0.5_3.0_
+featureHandler index=4
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_PITCH isInt=true
+  as Value:52_52_60_
+featureHandler index=5
+FeatureInfo: isNull=false LOUD_SOFT_DYNAMICS isInt=true
+  as Value:96_96_96_
+featureHandler index=6
+FeatureInfo: isNull=false MOD_TOP_NOTE_PITCH isInt=true
+  as Value:4_4_0_
+featureHandler index=7
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_INTERVAL isInt=true
+  as Value:-7_0_8_
+featureHandler index=8
+FeatureInfo: isNull=false CHROMATIC_SCALE_DEGREE isInt=true
+  as Value:7_7_3_
+featureHandler index=9
+FeatureInfo: isNull=false CHROMATIC_CHORD_TONE isInt=true
+  as Value:7_0_3_
+featureHandler index=10
+FeatureInfo: isNull=false DIATONIC_KEY_SCALE_TONE isInt=true
+  as Value:5,0_5,0_3,0_
+featureHandler index=11
+FeatureInfo: isNull=false DIATONIC_CHORD_FUNCTION_TONE isInt=true
+  as Value:5,0_1,0_3,0_
+featureHandler index=12
+FeatureInfo: isNull=false SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:-1_0_1_
+featureHandler index=13
+FeatureInfo: isNull=false HALF_SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:-2_0_2_
+featureHandler index=14
+FeatureInfo: isNull=false SIMPLE_DYNAMICS isInt=true
+  as Value:2_2_2_
+featureHandler index=15
+FeatureInfo: isNull=false STACCATO_PORTATO_TENUTO isInt=false
+  as Value:0.93_0.0_1.0_
+featureHandler index=16
+FeatureInfo: isNull=false CHORD_SCALE_NONSCALE_TONE isInt=true
+  as Value:0_0_0_
+feature position=14.5: 
+ChunkList contents -------------------------------
+NoteChunk #1050: position=14.5 length=0.5
+    note 52 14.5 0.5 109 0 E2
+   absoluteNoteString=E2
+NotePatternAnalysis list:-
+Enote
+nextNoteChunk(): NoteChunk-1049
+previousNoteChunk(): NoteChunk-1051
+nextListObject: NoteChunk-1049
+NoteChunk #1049: position=15.5 length=3.0
+    note 60 15.5 3.0 109 0 C3
+   absoluteNoteString=C3
+NotePatternAnalysis list:-
+Cnote
+nextNoteChunk(): NoteChunk-1048
+previousNoteChunk(): NoteChunk-1050
+nextListObject: NoteChunk-1048
+NoteChunk #1048: position=18.5 length=0.5
+    note 59 18.5 0.5 109 0 B2
+   absoluteNoteString=B2
+NotePatternAnalysis list:-
+Bnote
+nextNoteChunk(): NoteChunk-1047
+previousNoteChunk(): NoteChunk-1049
+nextListObject: NoteChunk-1047
+featureHandler index=0
+FeatureInfo: isNull=false null isInt=true
+  as Value:52_60_59_
+featureHandler index=1
+FeatureInfo: isNull=false null isInt=true
+  as Value:4_0_11_
+featureHandler index=2
+FeatureInfo: isNull=false GAP_VALUE isInt=false
+  as Value:1.0_3.0_1.0_
+featureHandler index=3
+FeatureInfo: isNull=false ABSOLUTE_DURATION isInt=false
+  as Value:0.5_3.0_0.5_
+featureHandler index=4
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_PITCH isInt=true
+  as Value:52_60_59_
+featureHandler index=5
+FeatureInfo: isNull=false LOUD_SOFT_DYNAMICS isInt=true
+  as Value:96_96_96_
+featureHandler index=6
+FeatureInfo: isNull=false MOD_TOP_NOTE_PITCH isInt=true
+  as Value:4_0_11_
+featureHandler index=7
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_INTERVAL isInt=true
+  as Value:0_8_-1_
+featureHandler index=8
+FeatureInfo: isNull=false CHROMATIC_SCALE_DEGREE isInt=true
+  as Value:7_3_2_
+featureHandler index=9
+FeatureInfo: isNull=false CHROMATIC_CHORD_TONE isInt=true
+  as Value:0_3_2_
+featureHandler index=10
+FeatureInfo: isNull=false DIATONIC_KEY_SCALE_TONE isInt=true
+  as Value:5,0_3,0_2,0_
+featureHandler index=11
+FeatureInfo: isNull=false DIATONIC_CHORD_FUNCTION_TONE isInt=true
+  as Value:1,0_3,0_2,0_
+featureHandler index=12
+FeatureInfo: isNull=false SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:0_1_-1_
+featureHandler index=13
+FeatureInfo: isNull=false HALF_SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:0_2_-1_
+featureHandler index=14
+FeatureInfo: isNull=false SIMPLE_DYNAMICS isInt=true
+  as Value:2_2_2_
+featureHandler index=15
+FeatureInfo: isNull=false STACCATO_PORTATO_TENUTO isInt=false
+  as Value:0.0_1.0_0.0_
+featureHandler index=16
+FeatureInfo: isNull=false CHORD_SCALE_NONSCALE_TONE isInt=true
+  as Value:0_0_1_
+feature position=15.5: 
+ChunkList contents -------------------------------
+NoteChunk #1049: position=15.5 length=3.0
+    note 60 15.5 3.0 109 0 C3
+   absoluteNoteString=C3
+NotePatternAnalysis list:-
+Cnote
+nextNoteChunk(): NoteChunk-1048
+previousNoteChunk(): NoteChunk-1050
+nextListObject: NoteChunk-1048
+NoteChunk #1048: position=18.5 length=0.5
+    note 59 18.5 0.5 109 0 B2
+   absoluteNoteString=B2
+NotePatternAnalysis list:-
+Bnote
+nextNoteChunk(): NoteChunk-1047
+previousNoteChunk(): NoteChunk-1049
+nextListObject: NoteChunk-1047
+NoteChunk #1047: position=19.5 length=0.5
+    note 57 19.5 0.5 109 0 A2
+   absoluteNoteString=A2
+NotePatternAnalysis list:-
+Anote
+nextNoteChunk(): NoteChunk-1046
+previousNoteChunk(): NoteChunk-1048
+nextListObject: NoteChunk-1046
+featureHandler index=0
+FeatureInfo: isNull=false null isInt=true
+  as Value:60_59_57_
+featureHandler index=1
+FeatureInfo: isNull=false null isInt=true
+  as Value:0_11_9_
+featureHandler index=2
+FeatureInfo: isNull=false GAP_VALUE isInt=false
+  as Value:3.0_1.0_0.5_
+featureHandler index=3
+FeatureInfo: isNull=false ABSOLUTE_DURATION isInt=false
+  as Value:3.0_0.5_0.5_
+featureHandler index=4
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_PITCH isInt=true
+  as Value:60_59_57_
+featureHandler index=5
+FeatureInfo: isNull=false LOUD_SOFT_DYNAMICS isInt=true
+  as Value:96_96_96_
+featureHandler index=6
+FeatureInfo: isNull=false MOD_TOP_NOTE_PITCH isInt=true
+  as Value:0_11_9_
+featureHandler index=7
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_INTERVAL isInt=true
+  as Value:8_-1_-2_
+featureHandler index=8
+FeatureInfo: isNull=false CHROMATIC_SCALE_DEGREE isInt=true
+  as Value:3_2_0_
+featureHandler index=9
+FeatureInfo: isNull=false CHROMATIC_CHORD_TONE isInt=true
+  as Value:3_2_0_
+featureHandler index=10
+FeatureInfo: isNull=false DIATONIC_KEY_SCALE_TONE isInt=true
+  as Value:3,0_2,0_1,0_
+featureHandler index=11
+FeatureInfo: isNull=false DIATONIC_CHORD_FUNCTION_TONE isInt=true
+  as Value:3,0_2,0_1,0_
+featureHandler index=12
+FeatureInfo: isNull=false SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:1_-1_-1_
+featureHandler index=13
+FeatureInfo: isNull=false HALF_SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:2_-1_-1_
+featureHandler index=14
+FeatureInfo: isNull=false SIMPLE_DYNAMICS isInt=true
+  as Value:2_2_2_
+featureHandler index=15
+FeatureInfo: isNull=false STACCATO_PORTATO_TENUTO isInt=false
+  as Value:1.0_0.0_1.0_
+featureHandler index=16
+FeatureInfo: isNull=false CHORD_SCALE_NONSCALE_TONE isInt=true
+  as Value:0_1_0_
+feature position=18.5: 
+ChunkList contents -------------------------------
+NoteChunk #1048: position=18.5 length=0.5
+    note 59 18.5 0.5 109 0 B2
+   absoluteNoteString=B2
+NotePatternAnalysis list:-
+Bnote
+nextNoteChunk(): NoteChunk-1047
+previousNoteChunk(): NoteChunk-1049
+nextListObject: NoteChunk-1047
+NoteChunk #1047: position=19.5 length=0.5
+    note 57 19.5 0.5 109 0 A2
+   absoluteNoteString=A2
+NotePatternAnalysis list:-
+Anote
+nextNoteChunk(): NoteChunk-1046
+previousNoteChunk(): NoteChunk-1048
+nextListObject: NoteChunk-1046
+NoteChunk #1046: position=20.0 length=1.5
+    note 57 20.0 1.5 109 0 A2
+   absoluteNoteString=A2
+NotePatternAnalysis list:-
+Anote
+nextNoteChunk(): NoteChunk-1045
+previousNoteChunk(): NoteChunk-1047
+nextListObject: NoteChunk-1045
+featureHandler index=0
+FeatureInfo: isNull=false null isInt=true
+  as Value:59_57_57_
+featureHandler index=1
+FeatureInfo: isNull=false null isInt=true
+  as Value:11_9_9_
+featureHandler index=2
+FeatureInfo: isNull=false GAP_VALUE isInt=false
+  as Value:1.0_0.5_1.5_
+featureHandler index=3
+FeatureInfo: isNull=false ABSOLUTE_DURATION isInt=false
+  as Value:0.5_0.5_1.5_
+featureHandler index=4
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_PITCH isInt=true
+  as Value:59_57_57_
+featureHandler index=5
+FeatureInfo: isNull=false LOUD_SOFT_DYNAMICS isInt=true
+  as Value:96_96_96_
+featureHandler index=6
+FeatureInfo: isNull=false MOD_TOP_NOTE_PITCH isInt=true
+  as Value:11_9_9_
+featureHandler index=7
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_INTERVAL isInt=true
+  as Value:-1_-2_0_
+featureHandler index=8
+FeatureInfo: isNull=false CHROMATIC_SCALE_DEGREE isInt=true
+  as Value:2_0_9_
+featureHandler index=9
+FeatureInfo: isNull=false CHROMATIC_CHORD_TONE isInt=true
+  as Value:2_0_7_
+featureHandler index=10
+FeatureInfo: isNull=false DIATONIC_KEY_SCALE_TONE isInt=true
+  as Value:2,0_1,0_6,0_
+featureHandler index=11
+FeatureInfo: isNull=false DIATONIC_CHORD_FUNCTION_TONE isInt=true
+  as Value:2,0_1,0_5,0_
+featureHandler index=12
+FeatureInfo: isNull=false SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:-1_-1_0_
+featureHandler index=13
+FeatureInfo: isNull=false HALF_SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:-1_-1_0_
+featureHandler index=14
+FeatureInfo: isNull=false SIMPLE_DYNAMICS isInt=true
+  as Value:2_2_2_
+featureHandler index=15
+FeatureInfo: isNull=false STACCATO_PORTATO_TENUTO isInt=false
+  as Value:0.0_1.0_1.0_
+featureHandler index=16
+FeatureInfo: isNull=false CHORD_SCALE_NONSCALE_TONE isInt=true
+  as Value:1_0_0_
+feature position=19.5: 
+ChunkList contents -------------------------------
+NoteChunk #1047: position=19.5 length=0.5
+    note 57 19.5 0.5 109 0 A2
+   absoluteNoteString=A2
+NotePatternAnalysis list:-
+Anote
+nextNoteChunk(): NoteChunk-1046
+previousNoteChunk(): NoteChunk-1048
+nextListObject: NoteChunk-1046
+NoteChunk #1046: position=20.0 length=1.5
+    note 57 20.0 1.5 109 0 A2
+   absoluteNoteString=A2
+NotePatternAnalysis list:-
+Anote
+nextNoteChunk(): NoteChunk-1045
+previousNoteChunk(): NoteChunk-1047
+nextListObject: NoteChunk-1045
+NoteChunk #1045: position=21.5 length=0.5
+    note 55 21.5 0.5 109 0 G2
+   absoluteNoteString=G2
+NotePatternAnalysis list:-
+Gnote
+nextNoteChunk(): NoteChunk-1044
+previousNoteChunk(): NoteChunk-1046
+nextListObject: NoteChunk-1044
+featureHandler index=0
+FeatureInfo: isNull=false null isInt=true
+  as Value:57_57_55_
+featureHandler index=1
+FeatureInfo: isNull=false null isInt=true
+  as Value:9_9_7_
+featureHandler index=2
+FeatureInfo: isNull=false GAP_VALUE isInt=false
+  as Value:0.5_1.5_1.0_
+featureHandler index=3
+FeatureInfo: isNull=false ABSOLUTE_DURATION isInt=false
+  as Value:0.5_1.5_0.5_
+featureHandler index=4
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_PITCH isInt=true
+  as Value:57_57_55_
+featureHandler index=5
+FeatureInfo: isNull=false LOUD_SOFT_DYNAMICS isInt=true
+  as Value:96_96_96_
+featureHandler index=6
+FeatureInfo: isNull=false MOD_TOP_NOTE_PITCH isInt=true
+  as Value:9_9_7_
+featureHandler index=7
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_INTERVAL isInt=true
+  as Value:-2_0_-2_
+featureHandler index=8
+FeatureInfo: isNull=false CHROMATIC_SCALE_DEGREE isInt=true
+  as Value:0_9_7_
+featureHandler index=9
+FeatureInfo: isNull=false CHROMATIC_CHORD_TONE isInt=true
+  as Value:0_7_0_
+featureHandler index=10
+FeatureInfo: isNull=false DIATONIC_KEY_SCALE_TONE isInt=true
+  as Value:1,0_6,0_5,0_
+featureHandler index=11
+FeatureInfo: isNull=false DIATONIC_CHORD_FUNCTION_TONE isInt=true
+  as Value:1,0_5,0_1,0_
+featureHandler index=12
+FeatureInfo: isNull=false SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:-1_0_-1_
+featureHandler index=13
+FeatureInfo: isNull=false HALF_SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:-1_0_-1_
+featureHandler index=14
+FeatureInfo: isNull=false SIMPLE_DYNAMICS isInt=true
+  as Value:2_2_2_
+featureHandler index=15
+FeatureInfo: isNull=false STACCATO_PORTATO_TENUTO isInt=false
+  as Value:1.0_1.0_0.0_
+featureHandler index=16
+FeatureInfo: isNull=false CHORD_SCALE_NONSCALE_TONE isInt=true
+  as Value:0_0_0_
+feature position=20.0: 
+ChunkList contents -------------------------------
+NoteChunk #1046: position=20.0 length=1.5
+    note 57 20.0 1.5 109 0 A2
+   absoluteNoteString=A2
+NotePatternAnalysis list:-
+Anote
+nextNoteChunk(): NoteChunk-1045
+previousNoteChunk(): NoteChunk-1047
+nextListObject: NoteChunk-1045
+NoteChunk #1045: position=21.5 length=0.5
+    note 55 21.5 0.5 109 0 G2
+   absoluteNoteString=G2
+NotePatternAnalysis list:-
+Gnote
+nextNoteChunk(): NoteChunk-1044
+previousNoteChunk(): NoteChunk-1046
+nextListObject: NoteChunk-1044
+NoteChunk #1044: position=22.5 length=0.5
+    note 59 22.5 0.5 109 0 B2
+   absoluteNoteString=B2
+NotePatternAnalysis list:-
+Bnote
+nextNoteChunk(): NoteChunk-1043
+previousNoteChunk(): NoteChunk-1045
+nextListObject: NoteChunk-1043
+featureHandler index=0
+FeatureInfo: isNull=false null isInt=true
+  as Value:57_55_59_
+featureHandler index=1
+FeatureInfo: isNull=false null isInt=true
+  as Value:9_7_11_
+featureHandler index=2
+FeatureInfo: isNull=false GAP_VALUE isInt=false
+  as Value:1.5_1.0_1.0_
+featureHandler index=3
+FeatureInfo: isNull=false ABSOLUTE_DURATION isInt=false
+  as Value:1.5_0.5_0.5_
+featureHandler index=4
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_PITCH isInt=true
+  as Value:57_55_59_
+featureHandler index=5
+FeatureInfo: isNull=false LOUD_SOFT_DYNAMICS isInt=true
+  as Value:96_96_96_
+featureHandler index=6
+FeatureInfo: isNull=false MOD_TOP_NOTE_PITCH isInt=true
+  as Value:9_7_11_
+featureHandler index=7
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_INTERVAL isInt=true
+  as Value:0_-2_4_
+featureHandler index=8
+FeatureInfo: isNull=false CHROMATIC_SCALE_DEGREE isInt=true
+  as Value:9_7_11_
+featureHandler index=9
+FeatureInfo: isNull=false CHROMATIC_CHORD_TONE isInt=true
+  as Value:7_0_4_
+featureHandler index=10
+FeatureInfo: isNull=false DIATONIC_KEY_SCALE_TONE isInt=true
+  as Value:6,0_5,0_7,0_
+featureHandler index=11
+FeatureInfo: isNull=false DIATONIC_CHORD_FUNCTION_TONE isInt=true
+  as Value:5,0_1,0_3,0_
+featureHandler index=12
+FeatureInfo: isNull=false SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:0_-1_1_
+featureHandler index=13
+FeatureInfo: isNull=false HALF_SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:0_-1_1_
+featureHandler index=14
+FeatureInfo: isNull=false SIMPLE_DYNAMICS isInt=true
+  as Value:2_2_2_
+featureHandler index=15
+FeatureInfo: isNull=false STACCATO_PORTATO_TENUTO isInt=false
+  as Value:1.0_0.0_0.0_
+featureHandler index=16
+FeatureInfo: isNull=false CHORD_SCALE_NONSCALE_TONE isInt=true
+  as Value:0_0_0_
+feature position=21.5: 
+ChunkList contents -------------------------------
+NoteChunk #1045: position=21.5 length=0.5
+    note 55 21.5 0.5 109 0 G2
+   absoluteNoteString=G2
+NotePatternAnalysis list:-
+Gnote
+nextNoteChunk(): NoteChunk-1044
+previousNoteChunk(): NoteChunk-1046
+nextListObject: NoteChunk-1044
+NoteChunk #1044: position=22.5 length=0.5
+    note 59 22.5 0.5 109 0 B2
+   absoluteNoteString=B2
+NotePatternAnalysis list:-
+Bnote
+nextNoteChunk(): NoteChunk-1043
+previousNoteChunk(): NoteChunk-1045
+nextListObject: NoteChunk-1043
+NoteChunk #1043: position=23.5 length=4.5
+    note 52 23.5 4.5 109 0 E2
+   absoluteNoteString=E2
+NotePatternAnalysis list:-
+Enote
+nextNoteChunk(): NoteChunk-1042
+previousNoteChunk(): NoteChunk-1044
+nextListObject: NoteChunk-1042
+featureHandler index=0
+FeatureInfo: isNull=false null isInt=true
+  as Value:55_59_52_
+featureHandler index=1
+FeatureInfo: isNull=false null isInt=true
+  as Value:7_11_4_
+featureHandler index=2
+FeatureInfo: isNull=false GAP_VALUE isInt=false
+  as Value:1.0_1.0_5.0_
+featureHandler index=3
+FeatureInfo: isNull=false ABSOLUTE_DURATION isInt=false
+  as Value:0.5_0.5_4.5_
+featureHandler index=4
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_PITCH isInt=true
+  as Value:55_59_52_
+featureHandler index=5
+FeatureInfo: isNull=false LOUD_SOFT_DYNAMICS isInt=true
+  as Value:96_96_96_
+featureHandler index=6
+FeatureInfo: isNull=false MOD_TOP_NOTE_PITCH isInt=true
+  as Value:7_11_4_
+featureHandler index=7
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_INTERVAL isInt=true
+  as Value:-2_4_-7_
+featureHandler index=8
+FeatureInfo: isNull=false CHROMATIC_SCALE_DEGREE isInt=true
+  as Value:7_11_4_
+featureHandler index=9
+FeatureInfo: isNull=false CHROMATIC_CHORD_TONE isInt=true
+  as Value:0_4_4_
+featureHandler index=10
+FeatureInfo: isNull=false DIATONIC_KEY_SCALE_TONE isInt=true
+  as Value:5,0_7,0_3,0_
+featureHandler index=11
+FeatureInfo: isNull=false DIATONIC_CHORD_FUNCTION_TONE isInt=true
+  as Value:1,0_3,0_3,0_
+featureHandler index=12
+FeatureInfo: isNull=false SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:-1_1_-1_
+featureHandler index=13
+FeatureInfo: isNull=false HALF_SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:-1_1_-2_
+featureHandler index=14
+FeatureInfo: isNull=false SIMPLE_DYNAMICS isInt=true
+  as Value:2_2_2_
+featureHandler index=15
+FeatureInfo: isNull=false STACCATO_PORTATO_TENUTO isInt=false
+  as Value:0.0_0.0_0.9_
+featureHandler index=16
+FeatureInfo: isNull=false CHORD_SCALE_NONSCALE_TONE isInt=true
+  as Value:0_0_0_
+feature position=22.5: 
+ChunkList contents -------------------------------
+NoteChunk #1044: position=22.5 length=0.5
+    note 59 22.5 0.5 109 0 B2
+   absoluteNoteString=B2
+NotePatternAnalysis list:-
+Bnote
+nextNoteChunk(): NoteChunk-1043
+previousNoteChunk(): NoteChunk-1045
+nextListObject: NoteChunk-1043
+NoteChunk #1043: position=23.5 length=4.5
+    note 52 23.5 4.5 109 0 E2
+   absoluteNoteString=E2
+NotePatternAnalysis list:-
+Enote
+nextNoteChunk(): NoteChunk-1042
+previousNoteChunk(): NoteChunk-1044
+nextListObject: NoteChunk-1042
+NoteChunk #1042: position=28.5 length=0.5
+    note 52 28.5 0.5 109 0 E2
+   absoluteNoteString=E2
+NotePatternAnalysis list:-
+Enote
+nextNoteChunk(): NoteChunk-1041
+previousNoteChunk(): NoteChunk-1043
+nextListObject: NoteChunk-1041
+featureHandler index=0
+FeatureInfo: isNull=false null isInt=true
+  as Value:59_52_52_
+featureHandler index=1
+FeatureInfo: isNull=false null isInt=true
+  as Value:11_4_4_
+featureHandler index=2
+FeatureInfo: isNull=false GAP_VALUE isInt=false
+  as Value:1.0_5.0_1.0_
+featureHandler index=3
+FeatureInfo: isNull=false ABSOLUTE_DURATION isInt=false
+  as Value:0.5_4.5_0.5_
+featureHandler index=4
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_PITCH isInt=true
+  as Value:59_52_52_
+featureHandler index=5
+FeatureInfo: isNull=false LOUD_SOFT_DYNAMICS isInt=true
+  as Value:96_96_96_
+featureHandler index=6
+FeatureInfo: isNull=false MOD_TOP_NOTE_PITCH isInt=true
+  as Value:11_4_4_
+featureHandler index=7
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_INTERVAL isInt=true
+  as Value:4_-7_0_
+featureHandler index=8
+FeatureInfo: isNull=false CHROMATIC_SCALE_DEGREE isInt=true
+  as Value:11_4_11_
+featureHandler index=9
+FeatureInfo: isNull=false CHROMATIC_CHORD_TONE isInt=true
+  as Value:4_4_3_
+featureHandler index=10
+FeatureInfo: isNull=false DIATONIC_KEY_SCALE_TONE isInt=true
+  as Value:7,0_3,0_7,0_
+featureHandler index=11
+FeatureInfo: isNull=false DIATONIC_CHORD_FUNCTION_TONE isInt=true
+  as Value:3,0_3,0_4,0_
+featureHandler index=12
+FeatureInfo: isNull=false SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:1_-1_0_
+featureHandler index=13
+FeatureInfo: isNull=false HALF_SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:1_-2_0_
+featureHandler index=14
+FeatureInfo: isNull=false SIMPLE_DYNAMICS isInt=true
+  as Value:2_2_2_
+featureHandler index=15
+FeatureInfo: isNull=false STACCATO_PORTATO_TENUTO isInt=false
+  as Value:0.0_0.9_0.0_
+featureHandler index=16
+FeatureInfo: isNull=false CHORD_SCALE_NONSCALE_TONE isInt=true
+  as Value:0_0_0_
+feature position=23.5: 
+ChunkList contents -------------------------------
+NoteChunk #1043: position=23.5 length=4.5
+    note 52 23.5 4.5 109 0 E2
+   absoluteNoteString=E2
+NotePatternAnalysis list:-
+Enote
+nextNoteChunk(): NoteChunk-1042
+previousNoteChunk(): NoteChunk-1044
+nextListObject: NoteChunk-1042
+NoteChunk #1042: position=28.5 length=0.5
+    note 52 28.5 0.5 109 0 E2
+   absoluteNoteString=E2
+NotePatternAnalysis list:-
+Enote
+nextNoteChunk(): NoteChunk-1041
+previousNoteChunk(): NoteChunk-1043
+nextListObject: NoteChunk-1041
+NoteChunk #1041: position=29.5 length=0.5
+    note 53 29.5 0.5 109 0 F2
+   absoluteNoteString=F2
+NotePatternAnalysis list:-
+Fnote
+nextNoteChunk(): NoteChunk-1040
+previousNoteChunk(): NoteChunk-1042
+nextListObject: NoteChunk-1040
+featureHandler index=0
+FeatureInfo: isNull=false null isInt=true
+  as Value:52_52_53_
+featureHandler index=1
+FeatureInfo: isNull=false null isInt=true
+  as Value:4_4_5_
+featureHandler index=2
+FeatureInfo: isNull=false GAP_VALUE isInt=false
+  as Value:5.0_1.0_1.0_
+featureHandler index=3
+FeatureInfo: isNull=false ABSOLUTE_DURATION isInt=false
+  as Value:4.5_0.5_0.5_
+featureHandler index=4
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_PITCH isInt=true
+  as Value:52_52_53_
+featureHandler index=5
+FeatureInfo: isNull=false LOUD_SOFT_DYNAMICS isInt=true
+  as Value:96_96_96_
+featureHandler index=6
+FeatureInfo: isNull=false MOD_TOP_NOTE_PITCH isInt=true
+  as Value:4_4_5_
+featureHandler index=7
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_INTERVAL isInt=true
+  as Value:-7_0_1_
+featureHandler index=8
+FeatureInfo: isNull=false CHROMATIC_SCALE_DEGREE isInt=true
+  as Value:4_11_0_
+featureHandler index=9
+FeatureInfo: isNull=false CHROMATIC_CHORD_TONE isInt=true
+  as Value:4_3_8_
+featureHandler index=10
+FeatureInfo: isNull=false DIATONIC_KEY_SCALE_TONE isInt=true
+  as Value:3,0_7,0_1,0_
+featureHandler index=11
+FeatureInfo: isNull=false DIATONIC_CHORD_FUNCTION_TONE isInt=true
+  as Value:3,0_4,0_6,0_
+featureHandler index=12
+FeatureInfo: isNull=false SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:-1_0_1_
+featureHandler index=13
+FeatureInfo: isNull=false HALF_SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:-2_0_1_
+featureHandler index=14
+FeatureInfo: isNull=false SIMPLE_DYNAMICS isInt=true
+  as Value:2_2_2_
+featureHandler index=15
+FeatureInfo: isNull=false STACCATO_PORTATO_TENUTO isInt=false
+  as Value:0.9_0.0_0.0_
+featureHandler index=16
+FeatureInfo: isNull=false CHORD_SCALE_NONSCALE_TONE isInt=true
+  as Value:0_0_1_
+feature position=28.5: 
+ChunkList contents -------------------------------
+NoteChunk #1042: position=28.5 length=0.5
+    note 52 28.5 0.5 109 0 E2
+   absoluteNoteString=E2
+NotePatternAnalysis list:-
+Enote
+nextNoteChunk(): NoteChunk-1041
+previousNoteChunk(): NoteChunk-1043
+nextListObject: NoteChunk-1041
+NoteChunk #1041: position=29.5 length=0.5
+    note 53 29.5 0.5 109 0 F2
+   absoluteNoteString=F2
+NotePatternAnalysis list:-
+Fnote
+nextNoteChunk(): NoteChunk-1040
+previousNoteChunk(): NoteChunk-1042
+nextListObject: NoteChunk-1040
+NoteChunk #1040: position=30.5 length=0.5
+    note 55 30.5 0.5 109 0 G2
+   absoluteNoteString=G2
+NotePatternAnalysis list:-
+Gnote
+nextNoteChunk(): NoteChunk-1039
+previousNoteChunk(): NoteChunk-1041
+nextListObject: NoteChunk-1039
+featureHandler index=0
+FeatureInfo: isNull=false null isInt=true
+  as Value:52_53_55_
+featureHandler index=1
+FeatureInfo: isNull=false null isInt=true
+  as Value:4_5_7_
+featureHandler index=2
+FeatureInfo: isNull=false GAP_VALUE isInt=false
+  as Value:1.0_1.0_1.0_
+featureHandler index=3
+FeatureInfo: isNull=false ABSOLUTE_DURATION isInt=false
+  as Value:0.5_0.5_0.5_
+featureHandler index=4
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_PITCH isInt=true
+  as Value:52_53_55_
+featureHandler index=5
+FeatureInfo: isNull=false LOUD_SOFT_DYNAMICS isInt=true
+  as Value:96_96_96_
+featureHandler index=6
+FeatureInfo: isNull=false MOD_TOP_NOTE_PITCH isInt=true
+  as Value:4_5_7_
+featureHandler index=7
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_INTERVAL isInt=true
+  as Value:0_1_2_
+featureHandler index=8
+FeatureInfo: isNull=false CHROMATIC_SCALE_DEGREE isInt=true
+  as Value:11_0_5_
+featureHandler index=9
+FeatureInfo: isNull=false CHROMATIC_CHORD_TONE isInt=true
+  as Value:3_8_10_
+featureHandler index=10
+FeatureInfo: isNull=false DIATONIC_KEY_SCALE_TONE isInt=true
+  as Value:7,0_1,0_4,0_
+featureHandler index=11
+FeatureInfo: isNull=false DIATONIC_CHORD_FUNCTION_TONE isInt=true
+  as Value:4,0_6,0_7,0_
+featureHandler index=12
+FeatureInfo: isNull=false SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:0_1_1_
+featureHandler index=13
+FeatureInfo: isNull=false HALF_SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:0_1_1_
+featureHandler index=14
+FeatureInfo: isNull=false SIMPLE_DYNAMICS isInt=true
+  as Value:2_2_2_
+featureHandler index=15
+FeatureInfo: isNull=false STACCATO_PORTATO_TENUTO isInt=false
+  as Value:0.0_0.0_0.0_
+featureHandler index=16
+FeatureInfo: isNull=false CHORD_SCALE_NONSCALE_TONE isInt=true
+  as Value:0_1_0_
+feature position=29.5: 
+ChunkList contents -------------------------------
+NoteChunk #1041: position=29.5 length=0.5
+    note 53 29.5 0.5 109 0 F2
+   absoluteNoteString=F2
+NotePatternAnalysis list:-
+Fnote
+nextNoteChunk(): NoteChunk-1040
+previousNoteChunk(): NoteChunk-1042
+nextListObject: NoteChunk-1040
+NoteChunk #1040: position=30.5 length=0.5
+    note 55 30.5 0.5 109 0 G2
+   absoluteNoteString=G2
+NotePatternAnalysis list:-
+Gnote
+nextNoteChunk(): NoteChunk-1039
+previousNoteChunk(): NoteChunk-1041
+nextListObject: NoteChunk-1039
+NoteChunk #1039: position=31.5 length=1.5
+    note 57 31.5 1.5 109 0 A2
+   absoluteNoteString=A2
+NotePatternAnalysis list:-
+Anote
+nextNoteChunk(): NoteChunk-1038
+previousNoteChunk(): NoteChunk-1040
+nextListObject: NoteChunk-1038
+featureHandler index=0
+FeatureInfo: isNull=false null isInt=true
+  as Value:53_55_57_
+featureHandler index=1
+FeatureInfo: isNull=false null isInt=true
+  as Value:5_7_9_
+featureHandler index=2
+FeatureInfo: isNull=false GAP_VALUE isInt=false
+  as Value:1.0_1.0_2.0_
+featureHandler index=3
+FeatureInfo: isNull=false ABSOLUTE_DURATION isInt=false
+  as Value:0.5_0.5_1.5_
+featureHandler index=4
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_PITCH isInt=true
+  as Value:53_55_57_
+featureHandler index=5
+FeatureInfo: isNull=false LOUD_SOFT_DYNAMICS isInt=true
+  as Value:96_96_96_
+featureHandler index=6
+FeatureInfo: isNull=false MOD_TOP_NOTE_PITCH isInt=true
+  as Value:5_7_9_
+featureHandler index=7
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_INTERVAL isInt=true
+  as Value:1_2_2_
+featureHandler index=8
+FeatureInfo: isNull=false CHROMATIC_SCALE_DEGREE isInt=true
+  as Value:0_5_7_
+featureHandler index=9
+FeatureInfo: isNull=false CHROMATIC_CHORD_TONE isInt=true
+  as Value:8_10_7_
+featureHandler index=10
+FeatureInfo: isNull=false DIATONIC_KEY_SCALE_TONE isInt=true
+  as Value:1,0_4,0_5,0_
+featureHandler index=11
+FeatureInfo: isNull=false DIATONIC_CHORD_FUNCTION_TONE isInt=true
+  as Value:6,0_7,0_5,0_
+featureHandler index=12
+FeatureInfo: isNull=false SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:1_1_1_
+featureHandler index=13
+FeatureInfo: isNull=false HALF_SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:1_1_1_
+featureHandler index=14
+FeatureInfo: isNull=false SIMPLE_DYNAMICS isInt=true
+  as Value:2_2_2_
+featureHandler index=15
+FeatureInfo: isNull=false STACCATO_PORTATO_TENUTO isInt=false
+  as Value:0.0_0.0_0.75_
+featureHandler index=16
+FeatureInfo: isNull=false CHORD_SCALE_NONSCALE_TONE isInt=true
+  as Value:1_0_0_
+feature position=30.5: 
+ChunkList contents -------------------------------
+NoteChunk #1040: position=30.5 length=0.5
+    note 55 30.5 0.5 109 0 G2
+   absoluteNoteString=G2
+NotePatternAnalysis list:-
+Gnote
+nextNoteChunk(): NoteChunk-1039
+previousNoteChunk(): NoteChunk-1041
+nextListObject: NoteChunk-1039
+NoteChunk #1039: position=31.5 length=1.5
+    note 57 31.5 1.5 109 0 A2
+   absoluteNoteString=A2
+NotePatternAnalysis list:-
+Anote
+nextNoteChunk(): NoteChunk-1038
+previousNoteChunk(): NoteChunk-1040
+nextListObject: NoteChunk-1038
+NoteChunk #1038: position=33.5 length=0.5
+    note 50 33.5 0.5 109 0 D2
+   absoluteNoteString=D2
+NotePatternAnalysis list:-
+Dnote
+nextNoteChunk(): NoteChunk-1037
+previousNoteChunk(): NoteChunk-1039
+nextListObject: NoteChunk-1037
+featureHandler index=0
+FeatureInfo: isNull=false null isInt=true
+  as Value:55_57_50_
+featureHandler index=1
+FeatureInfo: isNull=false null isInt=true
+  as Value:7_9_2_
+featureHandler index=2
+FeatureInfo: isNull=false GAP_VALUE isInt=false
+  as Value:1.0_2.0_0.5_
+featureHandler index=3
+FeatureInfo: isNull=false ABSOLUTE_DURATION isInt=false
+  as Value:0.5_1.5_0.5_
+featureHandler index=4
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_PITCH isInt=true
+  as Value:55_57_50_
+featureHandler index=5
+FeatureInfo: isNull=false LOUD_SOFT_DYNAMICS isInt=true
+  as Value:96_96_96_
+featureHandler index=6
+FeatureInfo: isNull=false MOD_TOP_NOTE_PITCH isInt=true
+  as Value:7_9_2_
+featureHandler index=7
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_INTERVAL isInt=true
+  as Value:2_2_-7_
+featureHandler index=8
+FeatureInfo: isNull=false CHROMATIC_SCALE_DEGREE isInt=true
+  as Value:5_7_0_
+featureHandler index=9
+FeatureInfo: isNull=false CHROMATIC_CHORD_TONE isInt=true
+  as Value:10_7_0_
+featureHandler index=10
+FeatureInfo: isNull=false DIATONIC_KEY_SCALE_TONE isInt=true
+  as Value:4,0_5,0_1,0_
+featureHandler index=11
+FeatureInfo: isNull=false DIATONIC_CHORD_FUNCTION_TONE isInt=true
+  as Value:7,0_5,0_1,0_
+featureHandler index=12
+FeatureInfo: isNull=false SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:1_1_-1_
+featureHandler index=13
+FeatureInfo: isNull=false HALF_SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:1_1_-2_
+featureHandler index=14
+FeatureInfo: isNull=false SIMPLE_DYNAMICS isInt=true
+  as Value:2_2_2_
+featureHandler index=15
+FeatureInfo: isNull=false STACCATO_PORTATO_TENUTO isInt=false
+  as Value:0.0_0.75_1.0_
+featureHandler index=16
+FeatureInfo: isNull=false CHORD_SCALE_NONSCALE_TONE isInt=true
+  as Value:0_0_0_
+feature position=31.5: 
+ChunkList contents -------------------------------
+NoteChunk #1039: position=31.5 length=1.5
+    note 57 31.5 1.5 109 0 A2
+   absoluteNoteString=A2
+NotePatternAnalysis list:-
+Anote
+nextNoteChunk(): NoteChunk-1038
+previousNoteChunk(): NoteChunk-1040
+nextListObject: NoteChunk-1038
+NoteChunk #1038: position=33.5 length=0.5
+    note 50 33.5 0.5 109 0 D2
+   absoluteNoteString=D2
+NotePatternAnalysis list:-
+Dnote
+nextNoteChunk(): NoteChunk-1037
+previousNoteChunk(): NoteChunk-1039
+nextListObject: NoteChunk-1037
+NoteChunk #1037: position=34.0 length=3.5
+    note 50 34.0 3.5 109 0 D2
+   absoluteNoteString=D2
+NotePatternAnalysis list:-
+Dnote
+nextNoteChunk(): NoteChunk-1036
+previousNoteChunk(): NoteChunk-1038
+nextListObject: NoteChunk-1036
+featureHandler index=0
+FeatureInfo: isNull=false null isInt=true
+  as Value:57_50_50_
+featureHandler index=1
+FeatureInfo: isNull=false null isInt=true
+  as Value:9_2_2_
+featureHandler index=2
+FeatureInfo: isNull=false GAP_VALUE isInt=false
+  as Value:2.0_0.5_4.0_
+featureHandler index=3
+FeatureInfo: isNull=false ABSOLUTE_DURATION isInt=false
+  as Value:1.5_0.5_3.5_
+featureHandler index=4
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_PITCH isInt=true
+  as Value:57_50_50_
+featureHandler index=5
+FeatureInfo: isNull=false LOUD_SOFT_DYNAMICS isInt=true
+  as Value:96_96_96_
+featureHandler index=6
+FeatureInfo: isNull=false MOD_TOP_NOTE_PITCH isInt=true
+  as Value:9_2_2_
+featureHandler index=7
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_INTERVAL isInt=true
+  as Value:2_-7_0_
+featureHandler index=8
+FeatureInfo: isNull=false CHROMATIC_SCALE_DEGREE isInt=true
+  as Value:7_0_0_
+featureHandler index=9
+FeatureInfo: isNull=false CHROMATIC_CHORD_TONE isInt=true
+  as Value:7_0_0_
+featureHandler index=10
+FeatureInfo: isNull=false DIATONIC_KEY_SCALE_TONE isInt=true
+  as Value:5,0_1,0_1,0_
+featureHandler index=11
+FeatureInfo: isNull=false DIATONIC_CHORD_FUNCTION_TONE isInt=true
+  as Value:5,0_1,0_1,0_
+featureHandler index=12
+FeatureInfo: isNull=false SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:1_-1_0_
+featureHandler index=13
+FeatureInfo: isNull=false HALF_SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:1_-2_0_
+featureHandler index=14
+FeatureInfo: isNull=false SIMPLE_DYNAMICS isInt=true
+  as Value:2_2_2_
+featureHandler index=15
+FeatureInfo: isNull=false STACCATO_PORTATO_TENUTO isInt=false
+  as Value:0.75_1.0_0.88_
+featureHandler index=16
+FeatureInfo: isNull=false CHORD_SCALE_NONSCALE_TONE isInt=true
+  as Value:0_0_0_
+feature position=33.5: 
+ChunkList contents -------------------------------
+NoteChunk #1038: position=33.5 length=0.5
+    note 50 33.5 0.5 109 0 D2
+   absoluteNoteString=D2
+NotePatternAnalysis list:-
+Dnote
+nextNoteChunk(): NoteChunk-1037
+previousNoteChunk(): NoteChunk-1039
+nextListObject: NoteChunk-1037
+NoteChunk #1037: position=34.0 length=3.5
+    note 50 34.0 3.5 109 0 D2
+   absoluteNoteString=D2
+NotePatternAnalysis list:-
+Dnote
+nextNoteChunk(): NoteChunk-1036
+previousNoteChunk(): NoteChunk-1038
+nextListObject: NoteChunk-1036
+NoteChunk #1036: position=38.0 length=0.5
+    note 50 38.0 0.5 109 0 D2
+   absoluteNoteString=D2
+NotePatternAnalysis list:-
+Dnote
+nextNoteChunk(): NoteChunk-1035
+previousNoteChunk(): NoteChunk-1037
+nextListObject: NoteChunk-1035
+featureHandler index=0
+FeatureInfo: isNull=false null isInt=true
+  as Value:50_50_50_
+featureHandler index=1
+FeatureInfo: isNull=false null isInt=true
+  as Value:2_2_2_
+featureHandler index=2
+FeatureInfo: isNull=false GAP_VALUE isInt=false
+  as Value:0.5_4.0_1.0_
+featureHandler index=3
+FeatureInfo: isNull=false ABSOLUTE_DURATION isInt=false
+  as Value:0.5_3.5_0.5_
+featureHandler index=4
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_PITCH isInt=true
+  as Value:50_50_50_
+featureHandler index=5
+FeatureInfo: isNull=false LOUD_SOFT_DYNAMICS isInt=true
+  as Value:96_96_96_
+featureHandler index=6
+FeatureInfo: isNull=false MOD_TOP_NOTE_PITCH isInt=true
+  as Value:2_2_2_
+featureHandler index=7
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_INTERVAL isInt=true
+  as Value:-7_0_0_
+featureHandler index=8
+FeatureInfo: isNull=false CHROMATIC_SCALE_DEGREE isInt=true
+  as Value:0_0_2_
+featureHandler index=9
+FeatureInfo: isNull=false CHROMATIC_CHORD_TONE isInt=true
+  as Value:0_0_7_
+featureHandler index=10
+FeatureInfo: isNull=false DIATONIC_KEY_SCALE_TONE isInt=true
+  as Value:1,0_1,0_2,0_
+featureHandler index=11
+FeatureInfo: isNull=false DIATONIC_CHORD_FUNCTION_TONE isInt=true
+  as Value:1,0_1,0_5,0_
+featureHandler index=12
+FeatureInfo: isNull=false SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:-1_0_0_
+featureHandler index=13
+FeatureInfo: isNull=false HALF_SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:-2_0_0_
+featureHandler index=14
+FeatureInfo: isNull=false SIMPLE_DYNAMICS isInt=true
+  as Value:2_2_2_
+featureHandler index=15
+FeatureInfo: isNull=false STACCATO_PORTATO_TENUTO isInt=false
+  as Value:1.0_0.88_0.0_
+featureHandler index=16
+FeatureInfo: isNull=false CHORD_SCALE_NONSCALE_TONE isInt=true
+  as Value:0_0_0_
+feature position=34.0: 
+ChunkList contents -------------------------------
+NoteChunk #1037: position=34.0 length=3.5
+    note 50 34.0 3.5 109 0 D2
+   absoluteNoteString=D2
+NotePatternAnalysis list:-
+Dnote
+nextNoteChunk(): NoteChunk-1036
+previousNoteChunk(): NoteChunk-1038
+nextListObject: NoteChunk-1036
+NoteChunk #1036: position=38.0 length=0.5
+    note 50 38.0 0.5 109 0 D2
+   absoluteNoteString=D2
+NotePatternAnalysis list:-
+Dnote
+nextNoteChunk(): NoteChunk-1035
+previousNoteChunk(): NoteChunk-1037
+nextListObject: NoteChunk-1035
+NoteChunk #1035: position=39.0 length=0.5
+    note 52 39.0 0.5 109 0 E2
+   absoluteNoteString=E2
+NotePatternAnalysis list:-
+Enote
+nextNoteChunk(): NoteChunk-1034
+previousNoteChunk(): NoteChunk-1036
+nextListObject: NoteChunk-1034
+featureHandler index=0
+FeatureInfo: isNull=false null isInt=true
+  as Value:50_50_52_
+featureHandler index=1
+FeatureInfo: isNull=false null isInt=true
+  as Value:2_2_4_
+featureHandler index=2
+FeatureInfo: isNull=false GAP_VALUE isInt=false
+  as Value:4.0_1.0_0.5_
+featureHandler index=3
+FeatureInfo: isNull=false ABSOLUTE_DURATION isInt=false
+  as Value:3.5_0.5_0.5_
+featureHandler index=4
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_PITCH isInt=true
+  as Value:50_50_52_
+featureHandler index=5
+FeatureInfo: isNull=false LOUD_SOFT_DYNAMICS isInt=true
+  as Value:96_96_96_
+featureHandler index=6
+FeatureInfo: isNull=false MOD_TOP_NOTE_PITCH isInt=true
+  as Value:2_2_4_
+featureHandler index=7
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_INTERVAL isInt=true
+  as Value:0_0_2_
+featureHandler index=8
+FeatureInfo: isNull=false CHROMATIC_SCALE_DEGREE isInt=true
+  as Value:0_2_4_
+featureHandler index=9
+FeatureInfo: isNull=false CHROMATIC_CHORD_TONE isInt=true
+  as Value:0_7_9_
+featureHandler index=10
+FeatureInfo: isNull=false DIATONIC_KEY_SCALE_TONE isInt=true
+  as Value:1,0_2,0_3,0_
+featureHandler index=11
+FeatureInfo: isNull=false DIATONIC_CHORD_FUNCTION_TONE isInt=true
+  as Value:1,0_5,0_6,0_
+featureHandler index=12
+FeatureInfo: isNull=false SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:0_0_1_
+featureHandler index=13
+FeatureInfo: isNull=false HALF_SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:0_0_1_
+featureHandler index=14
+FeatureInfo: isNull=false SIMPLE_DYNAMICS isInt=true
+  as Value:2_2_2_
+featureHandler index=15
+FeatureInfo: isNull=false STACCATO_PORTATO_TENUTO isInt=false
+  as Value:0.88_0.0_1.0_
+featureHandler index=16
+FeatureInfo: isNull=false CHORD_SCALE_NONSCALE_TONE isInt=true
+  as Value:0_0_1_
+feature position=38.0: 
+ChunkList contents -------------------------------
+NoteChunk #1036: position=38.0 length=0.5
+    note 50 38.0 0.5 109 0 D2
+   absoluteNoteString=D2
+NotePatternAnalysis list:-
+Dnote
+nextNoteChunk(): NoteChunk-1035
+previousNoteChunk(): NoteChunk-1037
+nextListObject: NoteChunk-1035
+NoteChunk #1035: position=39.0 length=0.5
+    note 52 39.0 0.5 109 0 E2
+   absoluteNoteString=E2
+NotePatternAnalysis list:-
+Enote
+nextNoteChunk(): NoteChunk-1034
+previousNoteChunk(): NoteChunk-1036
+nextListObject: NoteChunk-1034
+NoteChunk #1034: position=39.5 length=0.5
+    note 53 39.5 0.5 109 0 F2
+   absoluteNoteString=F2
+NotePatternAnalysis list:-
+Fnote
+nextNoteChunk(): NoteChunk-1033
+previousNoteChunk(): NoteChunk-1035
+nextListObject: NoteChunk-1033
+featureHandler index=0
+FeatureInfo: isNull=false null isInt=true
+  as Value:50_52_53_
+featureHandler index=1
+FeatureInfo: isNull=false null isInt=true
+  as Value:2_4_5_
+featureHandler index=2
+FeatureInfo: isNull=false GAP_VALUE isInt=false
+  as Value:1.0_0.5_0.5_
+featureHandler index=3
+FeatureInfo: isNull=false ABSOLUTE_DURATION isInt=false
+  as Value:0.5_0.5_0.5_
+featureHandler index=4
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_PITCH isInt=true
+  as Value:50_52_53_
+featureHandler index=5
+FeatureInfo: isNull=false LOUD_SOFT_DYNAMICS isInt=true
+  as Value:96_96_96_
+featureHandler index=6
+FeatureInfo: isNull=false MOD_TOP_NOTE_PITCH isInt=true
+  as Value:2_4_5_
+featureHandler index=7
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_INTERVAL isInt=true
+  as Value:0_2_1_
+featureHandler index=8
+FeatureInfo: isNull=false CHROMATIC_SCALE_DEGREE isInt=true
+  as Value:2_4_5_
+featureHandler index=9
+FeatureInfo: isNull=false CHROMATIC_CHORD_TONE isInt=true
+  as Value:7_9_10_
+featureHandler index=10
+FeatureInfo: isNull=false DIATONIC_KEY_SCALE_TONE isInt=true
+  as Value:2,0_3,0_4,0_
+featureHandler index=11
+FeatureInfo: isNull=false DIATONIC_CHORD_FUNCTION_TONE isInt=true
+  as Value:5,0_6,0_7,0_
+featureHandler index=12
+FeatureInfo: isNull=false SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:0_1_1_
+featureHandler index=13
+FeatureInfo: isNull=false HALF_SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:0_1_1_
+featureHandler index=14
+FeatureInfo: isNull=false SIMPLE_DYNAMICS isInt=true
+  as Value:2_2_2_
+featureHandler index=15
+FeatureInfo: isNull=false STACCATO_PORTATO_TENUTO isInt=false
+  as Value:0.0_1.0_1.0_
+featureHandler index=16
+FeatureInfo: isNull=false CHORD_SCALE_NONSCALE_TONE isInt=true
+  as Value:0_1_0_
+feature position=39.0: 
+ChunkList contents -------------------------------
+NoteChunk #1035: position=39.0 length=0.5
+    note 52 39.0 0.5 109 0 E2
+   absoluteNoteString=E2
+NotePatternAnalysis list:-
+Enote
+nextNoteChunk(): NoteChunk-1034
+previousNoteChunk(): NoteChunk-1036
+nextListObject: NoteChunk-1034
+NoteChunk #1034: position=39.5 length=0.5
+    note 53 39.5 0.5 109 0 F2
+   absoluteNoteString=F2
+NotePatternAnalysis list:-
+Fnote
+nextNoteChunk(): NoteChunk-1033
+previousNoteChunk(): NoteChunk-1035
+nextListObject: NoteChunk-1033
+NoteChunk #1033: position=40.0 length=1.0
+    note 55 40.0 1.0 109 0 G2
+   absoluteNoteString=G2
+NotePatternAnalysis list:-
+Gnote
+nextNoteChunk(): NoteChunk-1032
+previousNoteChunk(): NoteChunk-1034
+nextListObject: NoteChunk-1032
+featureHandler index=0
+FeatureInfo: isNull=false null isInt=true
+  as Value:52_53_55_
+featureHandler index=1
+FeatureInfo: isNull=false null isInt=true
+  as Value:4_5_7_
+featureHandler index=2
+FeatureInfo: isNull=false GAP_VALUE isInt=false
+  as Value:0.5_0.5_1.0_
+featureHandler index=3
+FeatureInfo: isNull=false ABSOLUTE_DURATION isInt=false
+  as Value:0.5_0.5_1.0_
+featureHandler index=4
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_PITCH isInt=true
+  as Value:52_53_55_
+featureHandler index=5
+FeatureInfo: isNull=false LOUD_SOFT_DYNAMICS isInt=true
+  as Value:96_96_96_
+featureHandler index=6
+FeatureInfo: isNull=false MOD_TOP_NOTE_PITCH isInt=true
+  as Value:4_5_7_
+featureHandler index=7
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_INTERVAL isInt=true
+  as Value:2_1_2_
+featureHandler index=8
+FeatureInfo: isNull=false CHROMATIC_SCALE_DEGREE isInt=true
+  as Value:4_5_7_
+featureHandler index=9
+FeatureInfo: isNull=false CHROMATIC_CHORD_TONE isInt=true
+  as Value:9_10_7_
+featureHandler index=10
+FeatureInfo: isNull=false DIATONIC_KEY_SCALE_TONE isInt=true
+  as Value:3,0_4,0_5,0_
+featureHandler index=11
+FeatureInfo: isNull=false DIATONIC_CHORD_FUNCTION_TONE isInt=true
+  as Value:6,0_7,0_5,0_
+featureHandler index=12
+FeatureInfo: isNull=false SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:1_1_1_
+featureHandler index=13
+FeatureInfo: isNull=false HALF_SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:1_1_1_
+featureHandler index=14
+FeatureInfo: isNull=false SIMPLE_DYNAMICS isInt=true
+  as Value:2_2_2_
+featureHandler index=15
+FeatureInfo: isNull=false STACCATO_PORTATO_TENUTO isInt=false
+  as Value:1.0_1.0_1.0_
+featureHandler index=16
+FeatureInfo: isNull=false CHORD_SCALE_NONSCALE_TONE isInt=true
+  as Value:1_0_0_
+feature position=39.5: 
+ChunkList contents -------------------------------
+NoteChunk #1034: position=39.5 length=0.5
+    note 53 39.5 0.5 109 0 F2
+   absoluteNoteString=F2
+NotePatternAnalysis list:-
+Fnote
+nextNoteChunk(): NoteChunk-1033
+previousNoteChunk(): NoteChunk-1035
+nextListObject: NoteChunk-1033
+NoteChunk #1033: position=40.0 length=1.0
+    note 55 40.0 1.0 109 0 G2
+   absoluteNoteString=G2
+NotePatternAnalysis list:-
+Gnote
+nextNoteChunk(): NoteChunk-1032
+previousNoteChunk(): NoteChunk-1034
+nextListObject: NoteChunk-1032
+NoteChunk #1032: position=41.0 length=0.5
+    note 48 41.0 0.5 109 0 C2
+   absoluteNoteString=C2
+NotePatternAnalysis list:-
+Cnote
+nextNoteChunk(): NoteChunk-1031
+previousNoteChunk(): NoteChunk-1033
+nextListObject: NoteChunk-1031
+featureHandler index=0
+FeatureInfo: isNull=false null isInt=true
+  as Value:53_55_48_
+featureHandler index=1
+FeatureInfo: isNull=false null isInt=true
+  as Value:5_7_0_
+featureHandler index=2
+FeatureInfo: isNull=false GAP_VALUE isInt=false
+  as Value:0.5_1.0_0.5_
+featureHandler index=3
+FeatureInfo: isNull=false ABSOLUTE_DURATION isInt=false
+  as Value:0.5_1.0_0.5_
+featureHandler index=4
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_PITCH isInt=true
+  as Value:53_55_48_
+featureHandler index=5
+FeatureInfo: isNull=false LOUD_SOFT_DYNAMICS isInt=true
+  as Value:96_96_96_
+featureHandler index=6
+FeatureInfo: isNull=false MOD_TOP_NOTE_PITCH isInt=true
+  as Value:5_7_0_
+featureHandler index=7
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_INTERVAL isInt=true
+  as Value:1_2_-7_
+featureHandler index=8
+FeatureInfo: isNull=false CHROMATIC_SCALE_DEGREE isInt=true
+  as Value:5_7_0_
+featureHandler index=9
+FeatureInfo: isNull=false CHROMATIC_CHORD_TONE isInt=true
+  as Value:10_7_0_
+featureHandler index=10
+FeatureInfo: isNull=false DIATONIC_KEY_SCALE_TONE isInt=true
+  as Value:4,0_5,0_1,0_
+featureHandler index=11
+FeatureInfo: isNull=false DIATONIC_CHORD_FUNCTION_TONE isInt=true
+  as Value:7,0_5,0_1,0_
+featureHandler index=12
+FeatureInfo: isNull=false SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:1_1_-1_
+featureHandler index=13
+FeatureInfo: isNull=false HALF_SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:1_1_-2_
+featureHandler index=14
+FeatureInfo: isNull=false SIMPLE_DYNAMICS isInt=true
+  as Value:2_2_2_
+featureHandler index=15
+FeatureInfo: isNull=false STACCATO_PORTATO_TENUTO isInt=false
+  as Value:1.0_1.0_1.0_
+featureHandler index=16
+FeatureInfo: isNull=false CHORD_SCALE_NONSCALE_TONE isInt=true
+  as Value:0_0_0_
+feature position=40.0: 
+ChunkList contents -------------------------------
+NoteChunk #1033: position=40.0 length=1.0
+    note 55 40.0 1.0 109 0 G2
+   absoluteNoteString=G2
+NotePatternAnalysis list:-
+Gnote
+nextNoteChunk(): NoteChunk-1032
+previousNoteChunk(): NoteChunk-1034
+nextListObject: NoteChunk-1032
+NoteChunk #1032: position=41.0 length=0.5
+    note 48 41.0 0.5 109 0 C2
+   absoluteNoteString=C2
+NotePatternAnalysis list:-
+Cnote
+nextNoteChunk(): NoteChunk-1031
+previousNoteChunk(): NoteChunk-1033
+nextListObject: NoteChunk-1031
+NoteChunk #1031: position=41.5 length=2.5
+    note 48 41.5 2.5 109 0 C2
+   absoluteNoteString=C2
+NotePatternAnalysis list:-
+Cnote
+nextNoteChunk(): NoteChunk-1030
+previousNoteChunk(): NoteChunk-1032
+nextListObject: NoteChunk-1030
+featureHandler index=0
+FeatureInfo: isNull=false null isInt=true
+  as Value:55_48_48_
+featureHandler index=1
+FeatureInfo: isNull=false null isInt=true
+  as Value:7_0_0_
+featureHandler index=2
+FeatureInfo: isNull=false GAP_VALUE isInt=false
+  as Value:1.0_0.5_3.0_
+featureHandler index=3
+FeatureInfo: isNull=false ABSOLUTE_DURATION isInt=false
+  as Value:1.0_0.5_2.5_
+featureHandler index=4
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_PITCH isInt=true
+  as Value:55_48_48_
+featureHandler index=5
+FeatureInfo: isNull=false LOUD_SOFT_DYNAMICS isInt=true
+  as Value:96_96_96_
+featureHandler index=6
+FeatureInfo: isNull=false MOD_TOP_NOTE_PITCH isInt=true
+  as Value:7_0_0_
+featureHandler index=7
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_INTERVAL isInt=true
+  as Value:2_-7_0_
+featureHandler index=8
+FeatureInfo: isNull=false CHROMATIC_SCALE_DEGREE isInt=true
+  as Value:7_0_0_
+featureHandler index=9
+FeatureInfo: isNull=false CHROMATIC_CHORD_TONE isInt=true
+  as Value:7_0_0_
+featureHandler index=10
+FeatureInfo: isNull=false DIATONIC_KEY_SCALE_TONE isInt=true
+  as Value:5,0_1,0_1,0_
+featureHandler index=11
+FeatureInfo: isNull=false DIATONIC_CHORD_FUNCTION_TONE isInt=true
+  as Value:5,0_1,0_1,0_
+featureHandler index=12
+FeatureInfo: isNull=false SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:1_-1_0_
+featureHandler index=13
+FeatureInfo: isNull=false HALF_SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:1_-2_0_
+featureHandler index=14
+FeatureInfo: isNull=false SIMPLE_DYNAMICS isInt=true
+  as Value:2_2_2_
+featureHandler index=15
+FeatureInfo: isNull=false STACCATO_PORTATO_TENUTO isInt=false
+  as Value:1.0_1.0_0.83_
+featureHandler index=16
+FeatureInfo: isNull=false CHORD_SCALE_NONSCALE_TONE isInt=true
+  as Value:0_0_0_
+feature position=41.0: 
+ChunkList contents -------------------------------
+NoteChunk #1032: position=41.0 length=0.5
+    note 48 41.0 0.5 109 0 C2
+   absoluteNoteString=C2
+NotePatternAnalysis list:-
+Cnote
+nextNoteChunk(): NoteChunk-1031
+previousNoteChunk(): NoteChunk-1033
+nextListObject: NoteChunk-1031
+NoteChunk #1031: position=41.5 length=2.5
+    note 48 41.5 2.5 109 0 C2
+   absoluteNoteString=C2
+NotePatternAnalysis list:-
+Cnote
+nextNoteChunk(): NoteChunk-1030
+previousNoteChunk(): NoteChunk-1032
+nextListObject: NoteChunk-1030
+NoteChunk #1030: position=44.5 length=0.5
+    note 48 44.5 0.5 109 0 C2
+   absoluteNoteString=C2
+NotePatternAnalysis list:-
+Cnote
+nextNoteChunk(): NoteChunk-1029
+previousNoteChunk(): NoteChunk-1031
+nextListObject: NoteChunk-1029
+featureHandler index=0
+FeatureInfo: isNull=false null isInt=true
+  as Value:48_48_48_
+featureHandler index=1
+FeatureInfo: isNull=false null isInt=true
+  as Value:0_0_0_
+featureHandler index=2
+FeatureInfo: isNull=false GAP_VALUE isInt=false
+  as Value:0.5_3.0_1.0_
+featureHandler index=3
+FeatureInfo: isNull=false ABSOLUTE_DURATION isInt=false
+  as Value:0.5_2.5_0.5_
+featureHandler index=4
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_PITCH isInt=true
+  as Value:48_48_48_
+featureHandler index=5
+FeatureInfo: isNull=false LOUD_SOFT_DYNAMICS isInt=true
+  as Value:96_96_96_
+featureHandler index=6
+FeatureInfo: isNull=false MOD_TOP_NOTE_PITCH isInt=true
+  as Value:0_0_0_
+featureHandler index=7
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_INTERVAL isInt=true
+  as Value:-7_0_0_
+featureHandler index=8
+FeatureInfo: isNull=false CHROMATIC_SCALE_DEGREE isInt=true
+  as Value:0_0_7_
+featureHandler index=9
+FeatureInfo: isNull=false CHROMATIC_CHORD_TONE isInt=true
+  as Value:0_0_7_
+featureHandler index=10
+FeatureInfo: isNull=false DIATONIC_KEY_SCALE_TONE isInt=true
+  as Value:1,0_1,0_5,0_
+featureHandler index=11
+FeatureInfo: isNull=false DIATONIC_CHORD_FUNCTION_TONE isInt=true
+  as Value:1,0_1,0_5,0_
+featureHandler index=12
+FeatureInfo: isNull=false SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:-1_0_0_
+featureHandler index=13
+FeatureInfo: isNull=false HALF_SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:-2_0_0_
+featureHandler index=14
+FeatureInfo: isNull=false SIMPLE_DYNAMICS isInt=true
+  as Value:2_2_2_
+featureHandler index=15
+FeatureInfo: isNull=false STACCATO_PORTATO_TENUTO isInt=false
+  as Value:1.0_0.83_0.0_
+featureHandler index=16
+FeatureInfo: isNull=false CHORD_SCALE_NONSCALE_TONE isInt=true
+  as Value:0_0_0_
+feature position=41.5: 
+ChunkList contents -------------------------------
+NoteChunk #1031: position=41.5 length=2.5
+    note 48 41.5 2.5 109 0 C2
+   absoluteNoteString=C2
+NotePatternAnalysis list:-
+Cnote
+nextNoteChunk(): NoteChunk-1030
+previousNoteChunk(): NoteChunk-1032
+nextListObject: NoteChunk-1030
+NoteChunk #1030: position=44.5 length=0.5
+    note 48 44.5 0.5 109 0 C2
+   absoluteNoteString=C2
+NotePatternAnalysis list:-
+Cnote
+nextNoteChunk(): NoteChunk-1029
+previousNoteChunk(): NoteChunk-1031
+nextListObject: NoteChunk-1029
+NoteChunk #1029: position=45.5 length=0.5
+    note 50 45.5 0.5 109 0 D2
+   absoluteNoteString=D2
+NotePatternAnalysis list:-
+Dnote
+nextNoteChunk(): NoteChunk-1028
+previousNoteChunk(): NoteChunk-1030
+nextListObject: NoteChunk-1028
+featureHandler index=0
+FeatureInfo: isNull=false null isInt=true
+  as Value:48_48_50_
+featureHandler index=1
+FeatureInfo: isNull=false null isInt=true
+  as Value:0_0_2_
+featureHandler index=2
+FeatureInfo: isNull=false GAP_VALUE isInt=false
+  as Value:3.0_1.0_1.0_
+featureHandler index=3
+FeatureInfo: isNull=false ABSOLUTE_DURATION isInt=false
+  as Value:2.5_0.5_0.5_
+featureHandler index=4
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_PITCH isInt=true
+  as Value:48_48_50_
+featureHandler index=5
+FeatureInfo: isNull=false LOUD_SOFT_DYNAMICS isInt=true
+  as Value:96_96_96_
+featureHandler index=6
+FeatureInfo: isNull=false MOD_TOP_NOTE_PITCH isInt=true
+  as Value:0_0_2_
+featureHandler index=7
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_INTERVAL isInt=true
+  as Value:0_0_2_
+featureHandler index=8
+FeatureInfo: isNull=false CHROMATIC_SCALE_DEGREE isInt=true
+  as Value:0_7_9_
+featureHandler index=9
+FeatureInfo: isNull=false CHROMATIC_CHORD_TONE isInt=true
+  as Value:0_7_9_
+featureHandler index=10
+FeatureInfo: isNull=false DIATONIC_KEY_SCALE_TONE isInt=true
+  as Value:1,0_5,0_6,0_
+featureHandler index=11
+FeatureInfo: isNull=false DIATONIC_CHORD_FUNCTION_TONE isInt=true
+  as Value:1,0_5,0_6,0_
+featureHandler index=12
+FeatureInfo: isNull=false SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:0_0_1_
+featureHandler index=13
+FeatureInfo: isNull=false HALF_SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:0_0_1_
+featureHandler index=14
+FeatureInfo: isNull=false SIMPLE_DYNAMICS isInt=true
+  as Value:2_2_2_
+featureHandler index=15
+FeatureInfo: isNull=false STACCATO_PORTATO_TENUTO isInt=false
+  as Value:0.83_0.0_0.0_
+featureHandler index=16
+FeatureInfo: isNull=false CHORD_SCALE_NONSCALE_TONE isInt=true
+  as Value:0_0_1_
+feature position=44.5: 
+ChunkList contents -------------------------------
+NoteChunk #1030: position=44.5 length=0.5
+    note 48 44.5 0.5 109 0 C2
+   absoluteNoteString=C2
+NotePatternAnalysis list:-
+Cnote
+nextNoteChunk(): NoteChunk-1029
+previousNoteChunk(): NoteChunk-1031
+nextListObject: NoteChunk-1029
+NoteChunk #1029: position=45.5 length=0.5
+    note 50 45.5 0.5 109 0 D2
+   absoluteNoteString=D2
+NotePatternAnalysis list:-
+Dnote
+nextNoteChunk(): NoteChunk-1028
+previousNoteChunk(): NoteChunk-1030
+nextListObject: NoteChunk-1028
+NoteChunk #1028: position=46.5 length=0.5
+    note 52 46.5 0.5 109 0 E2
+   absoluteNoteString=E2
+NotePatternAnalysis list:-
+Enote
+nextNoteChunk(): NoteChunk-1027
+previousNoteChunk(): NoteChunk-1029
+nextListObject: NoteChunk-1027
+featureHandler index=0
+FeatureInfo: isNull=false null isInt=true
+  as Value:48_50_52_
+featureHandler index=1
+FeatureInfo: isNull=false null isInt=true
+  as Value:0_2_4_
+featureHandler index=2
+FeatureInfo: isNull=false GAP_VALUE isInt=false
+  as Value:1.0_1.0_1.0_
+featureHandler index=3
+FeatureInfo: isNull=false ABSOLUTE_DURATION isInt=false
+  as Value:0.5_0.5_0.5_
+featureHandler index=4
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_PITCH isInt=true
+  as Value:48_50_52_
+featureHandler index=5
+FeatureInfo: isNull=false LOUD_SOFT_DYNAMICS isInt=true
+  as Value:96_96_96_
+featureHandler index=6
+FeatureInfo: isNull=false MOD_TOP_NOTE_PITCH isInt=true
+  as Value:0_2_4_
+featureHandler index=7
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_INTERVAL isInt=true
+  as Value:0_2_2_
+featureHandler index=8
+FeatureInfo: isNull=false CHROMATIC_SCALE_DEGREE isInt=true
+  as Value:7_9_11_
+featureHandler index=9
+FeatureInfo: isNull=false CHROMATIC_CHORD_TONE isInt=true
+  as Value:7_9_11_
+featureHandler index=10
+FeatureInfo: isNull=false DIATONIC_KEY_SCALE_TONE isInt=true
+  as Value:5,0_6,0_7,0_
+featureHandler index=11
+FeatureInfo: isNull=false DIATONIC_CHORD_FUNCTION_TONE isInt=true
+  as Value:5,0_6,0_7,0_
+featureHandler index=12
+FeatureInfo: isNull=false SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:0_1_1_
+featureHandler index=13
+FeatureInfo: isNull=false HALF_SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:0_1_1_
+featureHandler index=14
+FeatureInfo: isNull=false SIMPLE_DYNAMICS isInt=true
+  as Value:2_2_2_
+featureHandler index=15
+FeatureInfo: isNull=false STACCATO_PORTATO_TENUTO isInt=false
+  as Value:0.0_0.0_0.0_
+featureHandler index=16
+FeatureInfo: isNull=false CHORD_SCALE_NONSCALE_TONE isInt=true
+  as Value:0_1_0_
+feature position=45.5: 
+ChunkList contents -------------------------------
+NoteChunk #1029: position=45.5 length=0.5
+    note 50 45.5 0.5 109 0 D2
+   absoluteNoteString=D2
+NotePatternAnalysis list:-
+Dnote
+nextNoteChunk(): NoteChunk-1028
+previousNoteChunk(): NoteChunk-1030
+nextListObject: NoteChunk-1028
+NoteChunk #1028: position=46.5 length=0.5
+    note 52 46.5 0.5 109 0 E2
+   absoluteNoteString=E2
+NotePatternAnalysis list:-
+Enote
+nextNoteChunk(): NoteChunk-1027
+previousNoteChunk(): NoteChunk-1029
+nextListObject: NoteChunk-1027
+NoteChunk #1027: position=47.5 length=2.0
+    note 53 47.5 2.0 109 0 F2
+   absoluteNoteString=F2
+NotePatternAnalysis list:-
+Fnote
+nextNoteChunk(): NoteChunk-1026
+previousNoteChunk(): NoteChunk-1028
+nextListObject: NoteChunk-1026
+featureHandler index=0
+FeatureInfo: isNull=false null isInt=true
+  as Value:50_52_53_
+featureHandler index=1
+FeatureInfo: isNull=false null isInt=true
+  as Value:2_4_5_
+featureHandler index=2
+FeatureInfo: isNull=false GAP_VALUE isInt=false
+  as Value:1.0_1.0_2.0_
+featureHandler index=3
+FeatureInfo: isNull=false ABSOLUTE_DURATION isInt=false
+  as Value:0.5_0.5_2.0_
+featureHandler index=4
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_PITCH isInt=true
+  as Value:50_52_53_
+featureHandler index=5
+FeatureInfo: isNull=false LOUD_SOFT_DYNAMICS isInt=true
+  as Value:96_96_96_
+featureHandler index=6
+FeatureInfo: isNull=false MOD_TOP_NOTE_PITCH isInt=true
+  as Value:2_4_5_
+featureHandler index=7
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_INTERVAL isInt=true
+  as Value:2_2_1_
+featureHandler index=8
+FeatureInfo: isNull=false CHROMATIC_SCALE_DEGREE isInt=true
+  as Value:9_11_0_
+featureHandler index=9
+FeatureInfo: isNull=false CHROMATIC_CHORD_TONE isInt=true
+  as Value:9_11_6_
+featureHandler index=10
+FeatureInfo: isNull=false DIATONIC_KEY_SCALE_TONE isInt=true
+  as Value:6,0_7,0_1,0_
+featureHandler index=11
+FeatureInfo: isNull=false DIATONIC_CHORD_FUNCTION_TONE isInt=true
+  as Value:6,0_7,0_5,0_
+featureHandler index=12
+FeatureInfo: isNull=false SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:1_1_1_
+featureHandler index=13
+FeatureInfo: isNull=false HALF_SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:1_1_1_
+featureHandler index=14
+FeatureInfo: isNull=false SIMPLE_DYNAMICS isInt=true
+  as Value:2_2_2_
+featureHandler index=15
+FeatureInfo: isNull=false STACCATO_PORTATO_TENUTO isInt=false
+  as Value:0.0_0.0_1.0_
+featureHandler index=16
+FeatureInfo: isNull=false CHORD_SCALE_NONSCALE_TONE isInt=true
+  as Value:1_0_0_
+feature position=46.5: 
+ChunkList contents -------------------------------
+NoteChunk #1028: position=46.5 length=0.5
+    note 52 46.5 0.5 109 0 E2
+   absoluteNoteString=E2
+NotePatternAnalysis list:-
+Enote
+nextNoteChunk(): NoteChunk-1027
+previousNoteChunk(): NoteChunk-1029
+nextListObject: NoteChunk-1027
+NoteChunk #1027: position=47.5 length=2.0
+    note 53 47.5 2.0 109 0 F2
+   absoluteNoteString=F2
+NotePatternAnalysis list:-
+Fnote
+nextNoteChunk(): NoteChunk-1026
+previousNoteChunk(): NoteChunk-1028
+nextListObject: NoteChunk-1026
+NoteChunk #1026: position=49.5 length=0.5
+    note 47 49.5 0.5 107 0 B1
+   absoluteNoteString=B1
+NotePatternAnalysis list:-
+Bnote
+nextNoteChunk(): NoteChunk-1025
+previousNoteChunk(): NoteChunk-1027
+nextListObject: NoteChunk-1025
+featureHandler index=0
+FeatureInfo: isNull=false null isInt=true
+  as Value:52_53_47_
+featureHandler index=1
+FeatureInfo: isNull=false null isInt=true
+  as Value:4_5_11_
+featureHandler index=2
+FeatureInfo: isNull=false GAP_VALUE isInt=false
+  as Value:1.0_2.0_0.5_
+featureHandler index=3
+FeatureInfo: isNull=false ABSOLUTE_DURATION isInt=false
+  as Value:0.5_2.0_0.5_
+featureHandler index=4
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_PITCH isInt=true
+  as Value:52_53_47_
+featureHandler index=5
+FeatureInfo: isNull=false LOUD_SOFT_DYNAMICS isInt=true
+  as Value:96_96_64_
+featureHandler index=6
+FeatureInfo: isNull=false MOD_TOP_NOTE_PITCH isInt=true
+  as Value:4_5_11_
+featureHandler index=7
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_INTERVAL isInt=true
+  as Value:2_1_-6_
+featureHandler index=8
+FeatureInfo: isNull=false CHROMATIC_SCALE_DEGREE isInt=true
+  as Value:11_0_2_
+featureHandler index=9
+FeatureInfo: isNull=false CHROMATIC_CHORD_TONE isInt=true
+  as Value:11_6_0_
+featureHandler index=10
+FeatureInfo: isNull=false DIATONIC_KEY_SCALE_TONE isInt=true
+  as Value:7,0_1,0_2,0_
+featureHandler index=11
+FeatureInfo: isNull=false DIATONIC_CHORD_FUNCTION_TONE isInt=true
+  as Value:7,0_5,0_1,0_
+featureHandler index=12
+FeatureInfo: isNull=false SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:1_1_-1_
+featureHandler index=13
+FeatureInfo: isNull=false HALF_SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:1_1_-2_
+featureHandler index=14
+FeatureInfo: isNull=false SIMPLE_DYNAMICS isInt=true
+  as Value:2_2_0_
+featureHandler index=15
+FeatureInfo: isNull=false STACCATO_PORTATO_TENUTO isInt=false
+  as Value:0.0_1.0_1.0_
+featureHandler index=16
+FeatureInfo: isNull=false CHORD_SCALE_NONSCALE_TONE isInt=true
+  as Value:0_0_0_
+feature position=47.5: 
+ChunkList contents -------------------------------
+NoteChunk #1027: position=47.5 length=2.0
+    note 53 47.5 2.0 109 0 F2
+   absoluteNoteString=F2
+NotePatternAnalysis list:-
+Fnote
+nextNoteChunk(): NoteChunk-1026
+previousNoteChunk(): NoteChunk-1028
+nextListObject: NoteChunk-1026
+NoteChunk #1026: position=49.5 length=0.5
+    note 47 49.5 0.5 107 0 B1
+   absoluteNoteString=B1
+NotePatternAnalysis list:-
+Bnote
+nextNoteChunk(): NoteChunk-1025
+previousNoteChunk(): NoteChunk-1027
+nextListObject: NoteChunk-1025
+NoteChunk #1025: position=50.0 length=3.0
+    note 47 50.0 3.0 107 0 B1
+   absoluteNoteString=B1
+NotePatternAnalysis list:-
+Bnote
+nextNoteChunk(): NoteChunk-1024
+previousNoteChunk(): NoteChunk-1026
+nextListObject: NoteChunk-1024
+featureHandler index=0
+FeatureInfo: isNull=false null isInt=true
+  as Value:53_47_47_
+featureHandler index=1
+FeatureInfo: isNull=false null isInt=true
+  as Value:5_11_11_
+featureHandler index=2
+FeatureInfo: isNull=false GAP_VALUE isInt=false
+  as Value:2.0_0.5_3.5_
+featureHandler index=3
+FeatureInfo: isNull=false ABSOLUTE_DURATION isInt=false
+  as Value:2.0_0.5_3.0_
+featureHandler index=4
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_PITCH isInt=true
+  as Value:53_47_47_
+featureHandler index=5
+FeatureInfo: isNull=false LOUD_SOFT_DYNAMICS isInt=true
+  as Value:96_96_96_
+featureHandler index=6
+FeatureInfo: isNull=false MOD_TOP_NOTE_PITCH isInt=true
+  as Value:5_11_11_
+featureHandler index=7
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_INTERVAL isInt=true
+  as Value:1_-6_0_
+featureHandler index=8
+FeatureInfo: isNull=false CHROMATIC_SCALE_DEGREE isInt=true
+  as Value:0_2_2_
+featureHandler index=9
+FeatureInfo: isNull=false CHROMATIC_CHORD_TONE isInt=true
+  as Value:6_0_0_
+featureHandler index=10
+FeatureInfo: isNull=false DIATONIC_KEY_SCALE_TONE isInt=true
+  as Value:1,0_2,0_2,0_
+featureHandler index=11
+FeatureInfo: isNull=false DIATONIC_CHORD_FUNCTION_TONE isInt=true
+  as Value:5,0_1,0_1,0_
+featureHandler index=12
+FeatureInfo: isNull=false SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:1_-1_0_
+featureHandler index=13
+FeatureInfo: isNull=false HALF_SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:1_-2_0_
+featureHandler index=14
+FeatureInfo: isNull=false SIMPLE_DYNAMICS isInt=true
+  as Value:2_0_0_
+featureHandler index=15
+FeatureInfo: isNull=false STACCATO_PORTATO_TENUTO isInt=false
+  as Value:1.0_1.0_0.86_
+featureHandler index=16
+FeatureInfo: isNull=false CHORD_SCALE_NONSCALE_TONE isInt=true
+  as Value:0_0_0_
+feature position=49.5: 
+ChunkList contents -------------------------------
+NoteChunk #1026: position=49.5 length=0.5
+    note 47 49.5 0.5 107 0 B1
+   absoluteNoteString=B1
+NotePatternAnalysis list:-
+Bnote
+nextNoteChunk(): NoteChunk-1025
+previousNoteChunk(): NoteChunk-1027
+nextListObject: NoteChunk-1025
+NoteChunk #1025: position=50.0 length=3.0
+    note 47 50.0 3.0 107 0 B1
+   absoluteNoteString=B1
+NotePatternAnalysis list:-
+Bnote
+nextNoteChunk(): NoteChunk-1024
+previousNoteChunk(): NoteChunk-1026
+nextListObject: NoteChunk-1024
+NoteChunk #1024: position=53.5 length=0.5
+    note 47 53.5 0.5 103 0 B1
+   absoluteNoteString=B1
+NotePatternAnalysis list:-
+Bnote
+nextNoteChunk(): NoteChunk-1023
+previousNoteChunk(): NoteChunk-1025
+nextListObject: NoteChunk-1023
+featureHandler index=0
+FeatureInfo: isNull=false null isInt=true
+  as Value:47_47_47_
+featureHandler index=1
+FeatureInfo: isNull=false null isInt=true
+  as Value:11_11_11_
+featureHandler index=2
+FeatureInfo: isNull=false GAP_VALUE isInt=false
+  as Value:0.5_3.5_0.5_
+featureHandler index=3
+FeatureInfo: isNull=false ABSOLUTE_DURATION isInt=false
+  as Value:0.5_3.0_0.5_
+featureHandler index=4
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_PITCH isInt=true
+  as Value:47_47_47_
+featureHandler index=5
+FeatureInfo: isNull=false LOUD_SOFT_DYNAMICS isInt=true
+  as Value:96_96_64_
+featureHandler index=6
+FeatureInfo: isNull=false MOD_TOP_NOTE_PITCH isInt=true
+  as Value:11_11_11_
+featureHandler index=7
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_INTERVAL isInt=true
+  as Value:-6_0_0_
+featureHandler index=8
+FeatureInfo: isNull=false CHROMATIC_SCALE_DEGREE isInt=true
+  as Value:2_2_2_
+featureHandler index=9
+FeatureInfo: isNull=false CHROMATIC_CHORD_TONE isInt=true
+  as Value:0_0_7_
+featureHandler index=10
+FeatureInfo: isNull=false DIATONIC_KEY_SCALE_TONE isInt=true
+  as Value:2,0_2,0_2,0_
+featureHandler index=11
+FeatureInfo: isNull=false DIATONIC_CHORD_FUNCTION_TONE isInt=true
+  as Value:1,0_1,0_5,0_
+featureHandler index=12
+FeatureInfo: isNull=false SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:-1_0_0_
+featureHandler index=13
+FeatureInfo: isNull=false HALF_SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:-2_0_0_
+featureHandler index=14
+FeatureInfo: isNull=false SIMPLE_DYNAMICS isInt=true
+  as Value:0_0_0_
+featureHandler index=15
+FeatureInfo: isNull=false STACCATO_PORTATO_TENUTO isInt=false
+  as Value:1.0_0.86_1.0_
+featureHandler index=16
+FeatureInfo: isNull=false CHORD_SCALE_NONSCALE_TONE isInt=true
+  as Value:0_0_0_
+feature position=50.0: 
+ChunkList contents -------------------------------
+NoteChunk #1025: position=50.0 length=3.0
+    note 47 50.0 3.0 107 0 B1
+   absoluteNoteString=B1
+NotePatternAnalysis list:-
+Bnote
+nextNoteChunk(): NoteChunk-1024
+previousNoteChunk(): NoteChunk-1026
+nextListObject: NoteChunk-1024
+NoteChunk #1024: position=53.5 length=0.5
+    note 47 53.5 0.5 103 0 B1
+   absoluteNoteString=B1
+NotePatternAnalysis list:-
+Bnote
+nextNoteChunk(): NoteChunk-1023
+previousNoteChunk(): NoteChunk-1025
+nextListObject: NoteChunk-1023
+NoteChunk #1023: position=54.0 length=0.5
+    note 47 54.0 0.5 103 0 B1
+   absoluteNoteString=B1
+NotePatternAnalysis list:-
+Bnote
+nextNoteChunk(): NoteChunk-1022
+previousNoteChunk(): NoteChunk-1024
+nextListObject: NoteChunk-1022
+featureHandler index=0
+FeatureInfo: isNull=false null isInt=true
+  as Value:47_47_47_
+featureHandler index=1
+FeatureInfo: isNull=false null isInt=true
+  as Value:11_11_11_
+featureHandler index=2
+FeatureInfo: isNull=false GAP_VALUE isInt=false
+  as Value:3.5_0.5_0.5_
+featureHandler index=3
+FeatureInfo: isNull=false ABSOLUTE_DURATION isInt=false
+  as Value:3.0_0.5_0.5_
+featureHandler index=4
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_PITCH isInt=true
+  as Value:47_47_47_
+featureHandler index=5
+FeatureInfo: isNull=false LOUD_SOFT_DYNAMICS isInt=true
+  as Value:96_64_64_
+featureHandler index=6
+FeatureInfo: isNull=false MOD_TOP_NOTE_PITCH isInt=true
+  as Value:11_11_11_
+featureHandler index=7
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_INTERVAL isInt=true
+  as Value:0_0_0_
+featureHandler index=8
+FeatureInfo: isNull=false CHROMATIC_SCALE_DEGREE isInt=true
+  as Value:2_2_2_
+featureHandler index=9
+FeatureInfo: isNull=false CHROMATIC_CHORD_TONE isInt=true
+  as Value:0_7_7_
+featureHandler index=10
+FeatureInfo: isNull=false DIATONIC_KEY_SCALE_TONE isInt=true
+  as Value:2,0_2,0_2,0_
+featureHandler index=11
+FeatureInfo: isNull=false DIATONIC_CHORD_FUNCTION_TONE isInt=true
+  as Value:1,0_5,0_5,0_
+featureHandler index=12
+FeatureInfo: isNull=false SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:0_0_0_
+featureHandler index=13
+FeatureInfo: isNull=false HALF_SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:0_0_0_
+featureHandler index=14
+FeatureInfo: isNull=false SIMPLE_DYNAMICS isInt=true
+  as Value:0_0_0_
+featureHandler index=15
+FeatureInfo: isNull=false STACCATO_PORTATO_TENUTO isInt=false
+  as Value:0.86_1.0_1.0_
+featureHandler index=16
+FeatureInfo: isNull=false CHORD_SCALE_NONSCALE_TONE isInt=true
+  as Value:0_0_0_
+feature position=53.5: 
+ChunkList contents -------------------------------
+NoteChunk #1024: position=53.5 length=0.5
+    note 47 53.5 0.5 103 0 B1
+   absoluteNoteString=B1
+NotePatternAnalysis list:-
+Bnote
+nextNoteChunk(): NoteChunk-1023
+previousNoteChunk(): NoteChunk-1025
+nextListObject: NoteChunk-1023
+NoteChunk #1023: position=54.0 length=0.5
+    note 47 54.0 0.5 103 0 B1
+   absoluteNoteString=B1
+NotePatternAnalysis list:-
+Bnote
+nextNoteChunk(): NoteChunk-1022
+previousNoteChunk(): NoteChunk-1024
+nextListObject: NoteChunk-1022
+NoteChunk #1022: position=54.5 length=0.5
+    note 48 54.5 0.5 103 0 C2
+   absoluteNoteString=C2
+NotePatternAnalysis list:-
+Cnote
+nextNoteChunk(): NoteChunk-1021
+previousNoteChunk(): NoteChunk-1023
+nextListObject: NoteChunk-1021
+featureHandler index=0
+FeatureInfo: isNull=false null isInt=true
+  as Value:47_47_48_
+featureHandler index=1
+FeatureInfo: isNull=false null isInt=true
+  as Value:11_11_0_
+featureHandler index=2
+FeatureInfo: isNull=false GAP_VALUE isInt=false
+  as Value:0.5_0.5_1.0_
+featureHandler index=3
+FeatureInfo: isNull=false ABSOLUTE_DURATION isInt=false
+  as Value:0.5_0.5_0.5_
+featureHandler index=4
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_PITCH isInt=true
+  as Value:47_47_48_
+featureHandler index=5
+FeatureInfo: isNull=false LOUD_SOFT_DYNAMICS isInt=true
+  as Value:96_96_96_
+featureHandler index=6
+FeatureInfo: isNull=false MOD_TOP_NOTE_PITCH isInt=true
+  as Value:11_11_0_
+featureHandler index=7
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_INTERVAL isInt=true
+  as Value:0_0_1_
+featureHandler index=8
+FeatureInfo: isNull=false CHROMATIC_SCALE_DEGREE isInt=true
+  as Value:2_2_3_
+featureHandler index=9
+FeatureInfo: isNull=false CHROMATIC_CHORD_TONE isInt=true
+  as Value:7_7_8_
+featureHandler index=10
+FeatureInfo: isNull=false DIATONIC_KEY_SCALE_TONE isInt=true
+  as Value:2,0_2,0_3,0_
+featureHandler index=11
+FeatureInfo: isNull=false DIATONIC_CHORD_FUNCTION_TONE isInt=true
+  as Value:5,0_5,0_6,0_
+featureHandler index=12
+FeatureInfo: isNull=false SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:0_0_1_
+featureHandler index=13
+FeatureInfo: isNull=false HALF_SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:0_0_1_
+featureHandler index=14
+FeatureInfo: isNull=false SIMPLE_DYNAMICS isInt=true
+  as Value:0_0_0_
+featureHandler index=15
+FeatureInfo: isNull=false STACCATO_PORTATO_TENUTO isInt=false
+  as Value:1.0_1.0_0.0_
+featureHandler index=16
+FeatureInfo: isNull=false CHORD_SCALE_NONSCALE_TONE isInt=true
+  as Value:0_0_1_
+feature position=54.0: 
+ChunkList contents -------------------------------
+NoteChunk #1023: position=54.0 length=0.5
+    note 47 54.0 0.5 103 0 B1
+   absoluteNoteString=B1
+NotePatternAnalysis list:-
+Bnote
+nextNoteChunk(): NoteChunk-1022
+previousNoteChunk(): NoteChunk-1024
+nextListObject: NoteChunk-1022
+NoteChunk #1022: position=54.5 length=0.5
+    note 48 54.5 0.5 103 0 C2
+   absoluteNoteString=C2
+NotePatternAnalysis list:-
+Cnote
+nextNoteChunk(): NoteChunk-1021
+previousNoteChunk(): NoteChunk-1023
+nextListObject: NoteChunk-1021
+NoteChunk #1021: position=55.5 length=0.5
+    note 50 55.5 0.5 109 0 D2
+   absoluteNoteString=D2
+NotePatternAnalysis list:-
+Dnote
+nextNoteChunk(): NoteChunk-1020
+previousNoteChunk(): NoteChunk-1022
+nextListObject: NoteChunk-1020
+featureHandler index=0
+FeatureInfo: isNull=false null isInt=true
+  as Value:47_48_50_
+featureHandler index=1
+FeatureInfo: isNull=false null isInt=true
+  as Value:11_0_2_
+featureHandler index=2
+FeatureInfo: isNull=false GAP_VALUE isInt=false
+  as Value:0.5_1.0_0.5_
+featureHandler index=3
+FeatureInfo: isNull=false ABSOLUTE_DURATION isInt=false
+  as Value:0.5_0.5_0.5_
+featureHandler index=4
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_PITCH isInt=true
+  as Value:47_48_50_
+featureHandler index=5
+FeatureInfo: isNull=false LOUD_SOFT_DYNAMICS isInt=true
+  as Value:64_64_96_
+featureHandler index=6
+FeatureInfo: isNull=false MOD_TOP_NOTE_PITCH isInt=true
+  as Value:11_0_2_
+featureHandler index=7
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_INTERVAL isInt=true
+  as Value:0_1_2_
+featureHandler index=8
+FeatureInfo: isNull=false CHROMATIC_SCALE_DEGREE isInt=true
+  as Value:2_3_5_
+featureHandler index=9
+FeatureInfo: isNull=false CHROMATIC_CHORD_TONE isInt=true
+  as Value:7_8_10_
+featureHandler index=10
+FeatureInfo: isNull=false DIATONIC_KEY_SCALE_TONE isInt=true
+  as Value:2,0_3,0_4,0_
+featureHandler index=11
+FeatureInfo: isNull=false DIATONIC_CHORD_FUNCTION_TONE isInt=true
+  as Value:5,0_6,0_7,0_
+featureHandler index=12
+FeatureInfo: isNull=false SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:0_1_1_
+featureHandler index=13
+FeatureInfo: isNull=false HALF_SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:0_1_1_
+featureHandler index=14
+FeatureInfo: isNull=false SIMPLE_DYNAMICS isInt=true
+  as Value:0_0_2_
+featureHandler index=15
+FeatureInfo: isNull=false STACCATO_PORTATO_TENUTO isInt=false
+  as Value:1.0_0.0_1.0_
+featureHandler index=16
+FeatureInfo: isNull=false CHORD_SCALE_NONSCALE_TONE isInt=true
+  as Value:0_1_0_
+feature position=54.5: 
+ChunkList contents -------------------------------
+NoteChunk #1022: position=54.5 length=0.5
+    note 48 54.5 0.5 103 0 C2
+   absoluteNoteString=C2
+NotePatternAnalysis list:-
+Cnote
+nextNoteChunk(): NoteChunk-1021
+previousNoteChunk(): NoteChunk-1023
+nextListObject: NoteChunk-1021
+NoteChunk #1021: position=55.5 length=0.5
+    note 50 55.5 0.5 109 0 D2
+   absoluteNoteString=D2
+NotePatternAnalysis list:-
+Dnote
+nextNoteChunk(): NoteChunk-1020
+previousNoteChunk(): NoteChunk-1022
+nextListObject: NoteChunk-1020
+NoteChunk #1020: position=56.0 length=6.0
+    note 52 56.0 6.0 109 0 E2
+   absoluteNoteString=E2
+NotePatternAnalysis list:-
+Enote
+nextNoteChunk(): NoteChunk-1019
+previousNoteChunk(): NoteChunk-1021
+nextListObject: NoteChunk-1019
+featureHandler index=0
+FeatureInfo: isNull=false null isInt=true
+  as Value:48_50_52_
+featureHandler index=1
+FeatureInfo: isNull=false null isInt=true
+  as Value:0_2_4_
+featureHandler index=2
+FeatureInfo: isNull=false GAP_VALUE isInt=false
+  as Value:1.0_0.5_6.5_
+featureHandler index=3
+FeatureInfo: isNull=false ABSOLUTE_DURATION isInt=false
+  as Value:0.5_0.5_6.0_
+featureHandler index=4
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_PITCH isInt=true
+  as Value:48_50_52_
+featureHandler index=5
+FeatureInfo: isNull=false LOUD_SOFT_DYNAMICS isInt=true
+  as Value:64_96_96_
+featureHandler index=6
+FeatureInfo: isNull=false MOD_TOP_NOTE_PITCH isInt=true
+  as Value:0_2_4_
+featureHandler index=7
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_INTERVAL isInt=true
+  as Value:1_2_2_
+featureHandler index=8
+FeatureInfo: isNull=false CHROMATIC_SCALE_DEGREE isInt=true
+  as Value:3_5_7_
+featureHandler index=9
+FeatureInfo: isNull=false CHROMATIC_CHORD_TONE isInt=true
+  as Value:8_10_7_
+featureHandler index=10
+FeatureInfo: isNull=false DIATONIC_KEY_SCALE_TONE isInt=true
+  as Value:3,0_4,0_5,0_
+featureHandler index=11
+FeatureInfo: isNull=false DIATONIC_CHORD_FUNCTION_TONE isInt=true
+  as Value:6,0_7,0_5,0_
+featureHandler index=12
+FeatureInfo: isNull=false SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:1_1_1_
+featureHandler index=13
+FeatureInfo: isNull=false HALF_SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:1_1_1_
+featureHandler index=14
+FeatureInfo: isNull=false SIMPLE_DYNAMICS isInt=true
+  as Value:0_2_2_
+featureHandler index=15
+FeatureInfo: isNull=false STACCATO_PORTATO_TENUTO isInt=false
+  as Value:0.0_1.0_0.92_
+featureHandler index=16
+FeatureInfo: isNull=false CHORD_SCALE_NONSCALE_TONE isInt=true
+  as Value:1_0_0_
+feature position=55.5: 
+ChunkList contents -------------------------------
+NoteChunk #1021: position=55.5 length=0.5
+    note 50 55.5 0.5 109 0 D2
+   absoluteNoteString=D2
+NotePatternAnalysis list:-
+Dnote
+nextNoteChunk(): NoteChunk-1020
+previousNoteChunk(): NoteChunk-1022
+nextListObject: NoteChunk-1020
+NoteChunk #1020: position=56.0 length=6.0
+    note 52 56.0 6.0 109 0 E2
+   absoluteNoteString=E2
+NotePatternAnalysis list:-
+Enote
+nextNoteChunk(): NoteChunk-1019
+previousNoteChunk(): NoteChunk-1021
+nextListObject: NoteChunk-1019
+NoteChunk #1019: position=62.5 length=0.5
+    note 52 62.5 0.5 109 0 E2
+   absoluteNoteString=E2
+NotePatternAnalysis list:-
+Enote
+nextNoteChunk(): NoteChunk-1018
+previousNoteChunk(): NoteChunk-1020
+nextListObject: NoteChunk-1018
+featureHandler index=0
+FeatureInfo: isNull=false null isInt=true
+  as Value:50_52_52_
+featureHandler index=1
+FeatureInfo: isNull=false null isInt=true
+  as Value:2_4_4_
+featureHandler index=2
+FeatureInfo: isNull=false GAP_VALUE isInt=false
+  as Value:0.5_6.5_1.0_
+featureHandler index=3
+FeatureInfo: isNull=false ABSOLUTE_DURATION isInt=false
+  as Value:0.5_6.0_0.5_
+featureHandler index=4
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_PITCH isInt=true
+  as Value:50_52_52_
+featureHandler index=5
+FeatureInfo: isNull=false LOUD_SOFT_DYNAMICS isInt=true
+  as Value:96_96_96_
+featureHandler index=6
+FeatureInfo: isNull=false MOD_TOP_NOTE_PITCH isInt=true
+  as Value:2_4_4_
+featureHandler index=7
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_INTERVAL isInt=true
+  as Value:2_2_0_
+featureHandler index=8
+FeatureInfo: isNull=false CHROMATIC_SCALE_DEGREE isInt=true
+  as Value:5_7_7_
+featureHandler index=9
+FeatureInfo: isNull=false CHROMATIC_CHORD_TONE isInt=true
+  as Value:10_7_0_
+featureHandler index=10
+FeatureInfo: isNull=false DIATONIC_KEY_SCALE_TONE isInt=true
+  as Value:4,0_5,0_5,0_
+featureHandler index=11
+FeatureInfo: isNull=false DIATONIC_CHORD_FUNCTION_TONE isInt=true
+  as Value:7,0_5,0_1,0_
+featureHandler index=12
+FeatureInfo: isNull=false SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:1_1_0_
+featureHandler index=13
+FeatureInfo: isNull=false HALF_SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:1_1_0_
+featureHandler index=14
+FeatureInfo: isNull=false SIMPLE_DYNAMICS isInt=true
+  as Value:2_2_2_
+featureHandler index=15
+FeatureInfo: isNull=false STACCATO_PORTATO_TENUTO isInt=false
+  as Value:1.0_0.92_0.0_
+featureHandler index=16
+FeatureInfo: isNull=false CHORD_SCALE_NONSCALE_TONE isInt=true
+  as Value:0_0_0_
+feature position=56.0: 
+ChunkList contents -------------------------------
+NoteChunk #1020: position=56.0 length=6.0
+    note 52 56.0 6.0 109 0 E2
+   absoluteNoteString=E2
+NotePatternAnalysis list:-
+Enote
+nextNoteChunk(): NoteChunk-1019
+previousNoteChunk(): NoteChunk-1021
+nextListObject: NoteChunk-1019
+NoteChunk #1019: position=62.5 length=0.5
+    note 52 62.5 0.5 109 0 E2
+   absoluteNoteString=E2
+NotePatternAnalysis list:-
+Enote
+nextNoteChunk(): NoteChunk-1018
+previousNoteChunk(): NoteChunk-1020
+nextListObject: NoteChunk-1018
+NoteChunk #1018: position=63.5 length=3.0
+    note 60 63.5 3.0 109 0 C3
+   absoluteNoteString=C3
+NotePatternAnalysis list:-
+Cnote
+nextNoteChunk(): NoteChunk-1017
+previousNoteChunk(): NoteChunk-1019
+nextListObject: NoteChunk-1017
+featureHandler index=0
+FeatureInfo: isNull=false null isInt=true
+  as Value:52_52_60_
+featureHandler index=1
+FeatureInfo: isNull=false null isInt=true
+  as Value:4_4_0_
+featureHandler index=2
+FeatureInfo: isNull=false GAP_VALUE isInt=false
+  as Value:6.5_1.0_3.0_
+featureHandler index=3
+FeatureInfo: isNull=false ABSOLUTE_DURATION isInt=false
+  as Value:6.0_0.5_3.0_
+featureHandler index=4
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_PITCH isInt=true
+  as Value:52_52_60_
+featureHandler index=5
+FeatureInfo: isNull=false LOUD_SOFT_DYNAMICS isInt=true
+  as Value:96_96_96_
+featureHandler index=6
+FeatureInfo: isNull=false MOD_TOP_NOTE_PITCH isInt=true
+  as Value:4_4_0_
+featureHandler index=7
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_INTERVAL isInt=true
+  as Value:2_0_8_
+featureHandler index=8
+FeatureInfo: isNull=false CHROMATIC_SCALE_DEGREE isInt=true
+  as Value:7_7_3_
+featureHandler index=9
+FeatureInfo: isNull=false CHROMATIC_CHORD_TONE isInt=true
+  as Value:7_0_3_
+featureHandler index=10
+FeatureInfo: isNull=false DIATONIC_KEY_SCALE_TONE isInt=true
+  as Value:5,0_5,0_3,0_
+featureHandler index=11
+FeatureInfo: isNull=false DIATONIC_CHORD_FUNCTION_TONE isInt=true
+  as Value:5,0_1,0_3,0_
+featureHandler index=12
+FeatureInfo: isNull=false SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:1_0_1_
+featureHandler index=13
+FeatureInfo: isNull=false HALF_SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:1_0_2_
+featureHandler index=14
+FeatureInfo: isNull=false SIMPLE_DYNAMICS isInt=true
+  as Value:2_2_2_
+featureHandler index=15
+FeatureInfo: isNull=false STACCATO_PORTATO_TENUTO isInt=false
+  as Value:0.92_0.0_1.0_
+featureHandler index=16
+FeatureInfo: isNull=false CHORD_SCALE_NONSCALE_TONE isInt=true
+  as Value:0_0_0_
+feature position=62.5: 
+ChunkList contents -------------------------------
+NoteChunk #1019: position=62.5 length=0.5
+    note 52 62.5 0.5 109 0 E2
+   absoluteNoteString=E2
+NotePatternAnalysis list:-
+Enote
+nextNoteChunk(): NoteChunk-1018
+previousNoteChunk(): NoteChunk-1020
+nextListObject: NoteChunk-1018
+NoteChunk #1018: position=63.5 length=3.0
+    note 60 63.5 3.0 109 0 C3
+   absoluteNoteString=C3
+NotePatternAnalysis list:-
+Cnote
+nextNoteChunk(): NoteChunk-1017
+previousNoteChunk(): NoteChunk-1019
+nextListObject: NoteChunk-1017
+NoteChunk #1017: position=66.5 length=0.5
+    note 59 66.5 0.5 109 0 B2
+   absoluteNoteString=B2
+NotePatternAnalysis list:-
+Bnote
+nextNoteChunk(): NoteChunk-1016
+previousNoteChunk(): NoteChunk-1018
+nextListObject: NoteChunk-1016
+featureHandler index=0
+FeatureInfo: isNull=false null isInt=true
+  as Value:52_60_59_
+featureHandler index=1
+FeatureInfo: isNull=false null isInt=true
+  as Value:4_0_11_
+featureHandler index=2
+FeatureInfo: isNull=false GAP_VALUE isInt=false
+  as Value:1.0_3.0_1.0_
+featureHandler index=3
+FeatureInfo: isNull=false ABSOLUTE_DURATION isInt=false
+  as Value:0.5_3.0_0.5_
+featureHandler index=4
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_PITCH isInt=true
+  as Value:52_60_59_
+featureHandler index=5
+FeatureInfo: isNull=false LOUD_SOFT_DYNAMICS isInt=true
+  as Value:96_96_96_
+featureHandler index=6
+FeatureInfo: isNull=false MOD_TOP_NOTE_PITCH isInt=true
+  as Value:4_0_11_
+featureHandler index=7
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_INTERVAL isInt=true
+  as Value:0_8_-1_
+featureHandler index=8
+FeatureInfo: isNull=false CHROMATIC_SCALE_DEGREE isInt=true
+  as Value:7_3_2_
+featureHandler index=9
+FeatureInfo: isNull=false CHROMATIC_CHORD_TONE isInt=true
+  as Value:0_3_2_
+featureHandler index=10
+FeatureInfo: isNull=false DIATONIC_KEY_SCALE_TONE isInt=true
+  as Value:5,0_3,0_2,0_
+featureHandler index=11
+FeatureInfo: isNull=false DIATONIC_CHORD_FUNCTION_TONE isInt=true
+  as Value:1,0_3,0_2,0_
+featureHandler index=12
+FeatureInfo: isNull=false SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:0_1_-1_
+featureHandler index=13
+FeatureInfo: isNull=false HALF_SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:0_2_-1_
+featureHandler index=14
+FeatureInfo: isNull=false SIMPLE_DYNAMICS isInt=true
+  as Value:2_2_2_
+featureHandler index=15
+FeatureInfo: isNull=false STACCATO_PORTATO_TENUTO isInt=false
+  as Value:0.0_1.0_0.0_
+featureHandler index=16
+FeatureInfo: isNull=false CHORD_SCALE_NONSCALE_TONE isInt=true
+  as Value:0_0_1_
+feature position=63.5: 
+ChunkList contents -------------------------------
+NoteChunk #1018: position=63.5 length=3.0
+    note 60 63.5 3.0 109 0 C3
+   absoluteNoteString=C3
+NotePatternAnalysis list:-
+Cnote
+nextNoteChunk(): NoteChunk-1017
+previousNoteChunk(): NoteChunk-1019
+nextListObject: NoteChunk-1017
+NoteChunk #1017: position=66.5 length=0.5
+    note 59 66.5 0.5 109 0 B2
+   absoluteNoteString=B2
+NotePatternAnalysis list:-
+Bnote
+nextNoteChunk(): NoteChunk-1016
+previousNoteChunk(): NoteChunk-1018
+nextListObject: NoteChunk-1016
+NoteChunk #1016: position=67.5 length=0.5
+    note 57 67.5 0.5 109 0 A2
+   absoluteNoteString=A2
+NotePatternAnalysis list:-
+Anote
+nextNoteChunk(): NoteChunk-1015
+previousNoteChunk(): NoteChunk-1017
+nextListObject: NoteChunk-1015
+featureHandler index=0
+FeatureInfo: isNull=false null isInt=true
+  as Value:60_59_57_
+featureHandler index=1
+FeatureInfo: isNull=false null isInt=true
+  as Value:0_11_9_
+featureHandler index=2
+FeatureInfo: isNull=false GAP_VALUE isInt=false
+  as Value:3.0_1.0_0.5_
+featureHandler index=3
+FeatureInfo: isNull=false ABSOLUTE_DURATION isInt=false
+  as Value:3.0_0.5_0.5_
+featureHandler index=4
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_PITCH isInt=true
+  as Value:60_59_57_
+featureHandler index=5
+FeatureInfo: isNull=false LOUD_SOFT_DYNAMICS isInt=true
+  as Value:96_96_96_
+featureHandler index=6
+FeatureInfo: isNull=false MOD_TOP_NOTE_PITCH isInt=true
+  as Value:0_11_9_
+featureHandler index=7
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_INTERVAL isInt=true
+  as Value:8_-1_-2_
+featureHandler index=8
+FeatureInfo: isNull=false CHROMATIC_SCALE_DEGREE isInt=true
+  as Value:3_2_0_
+featureHandler index=9
+FeatureInfo: isNull=false CHROMATIC_CHORD_TONE isInt=true
+  as Value:3_2_0_
+featureHandler index=10
+FeatureInfo: isNull=false DIATONIC_KEY_SCALE_TONE isInt=true
+  as Value:3,0_2,0_1,0_
+featureHandler index=11
+FeatureInfo: isNull=false DIATONIC_CHORD_FUNCTION_TONE isInt=true
+  as Value:3,0_2,0_1,0_
+featureHandler index=12
+FeatureInfo: isNull=false SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:1_-1_-1_
+featureHandler index=13
+FeatureInfo: isNull=false HALF_SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:2_-1_-1_
+featureHandler index=14
+FeatureInfo: isNull=false SIMPLE_DYNAMICS isInt=true
+  as Value:2_2_2_
+featureHandler index=15
+FeatureInfo: isNull=false STACCATO_PORTATO_TENUTO isInt=false
+  as Value:1.0_0.0_1.0_
+featureHandler index=16
+FeatureInfo: isNull=false CHORD_SCALE_NONSCALE_TONE isInt=true
+  as Value:0_1_0_
+feature position=66.5: 
+ChunkList contents -------------------------------
+NoteChunk #1017: position=66.5 length=0.5
+    note 59 66.5 0.5 109 0 B2
+   absoluteNoteString=B2
+NotePatternAnalysis list:-
+Bnote
+nextNoteChunk(): NoteChunk-1016
+previousNoteChunk(): NoteChunk-1018
+nextListObject: NoteChunk-1016
+NoteChunk #1016: position=67.5 length=0.5
+    note 57 67.5 0.5 109 0 A2
+   absoluteNoteString=A2
+NotePatternAnalysis list:-
+Anote
+nextNoteChunk(): NoteChunk-1015
+previousNoteChunk(): NoteChunk-1017
+nextListObject: NoteChunk-1015
+NoteChunk #1015: position=68.0 length=1.5
+    note 57 68.0 1.5 109 0 A2
+   absoluteNoteString=A2
+NotePatternAnalysis list:-
+Anote
+nextNoteChunk(): NoteChunk-1014
+previousNoteChunk(): NoteChunk-1016
+nextListObject: NoteChunk-1014
+featureHandler index=0
+FeatureInfo: isNull=false null isInt=true
+  as Value:59_57_57_
+featureHandler index=1
+FeatureInfo: isNull=false null isInt=true
+  as Value:11_9_9_
+featureHandler index=2
+FeatureInfo: isNull=false GAP_VALUE isInt=false
+  as Value:1.0_0.5_1.5_
+featureHandler index=3
+FeatureInfo: isNull=false ABSOLUTE_DURATION isInt=false
+  as Value:0.5_0.5_1.5_
+featureHandler index=4
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_PITCH isInt=true
+  as Value:59_57_57_
+featureHandler index=5
+FeatureInfo: isNull=false LOUD_SOFT_DYNAMICS isInt=true
+  as Value:96_96_96_
+featureHandler index=6
+FeatureInfo: isNull=false MOD_TOP_NOTE_PITCH isInt=true
+  as Value:11_9_9_
+featureHandler index=7
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_INTERVAL isInt=true
+  as Value:-1_-2_0_
+featureHandler index=8
+FeatureInfo: isNull=false CHROMATIC_SCALE_DEGREE isInt=true
+  as Value:2_0_0_
+featureHandler index=9
+FeatureInfo: isNull=false CHROMATIC_CHORD_TONE isInt=true
+  as Value:2_0_10_
+featureHandler index=10
+FeatureInfo: isNull=false DIATONIC_KEY_SCALE_TONE isInt=true
+  as Value:2,0_1,0_1,0_
+featureHandler index=11
+FeatureInfo: isNull=false DIATONIC_CHORD_FUNCTION_TONE isInt=true
+  as Value:2,0_1,0_7,0_
+featureHandler index=12
+FeatureInfo: isNull=false SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:-1_-1_0_
+featureHandler index=13
+FeatureInfo: isNull=false HALF_SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:-1_-1_0_
+featureHandler index=14
+FeatureInfo: isNull=false SIMPLE_DYNAMICS isInt=true
+  as Value:2_2_2_
+featureHandler index=15
+FeatureInfo: isNull=false STACCATO_PORTATO_TENUTO isInt=false
+  as Value:0.0_1.0_1.0_
+featureHandler index=16
+FeatureInfo: isNull=false CHORD_SCALE_NONSCALE_TONE isInt=true
+  as Value:1_0_0_
+feature position=67.5: 
+ChunkList contents -------------------------------
+NoteChunk #1016: position=67.5 length=0.5
+    note 57 67.5 0.5 109 0 A2
+   absoluteNoteString=A2
+NotePatternAnalysis list:-
+Anote
+nextNoteChunk(): NoteChunk-1015
+previousNoteChunk(): NoteChunk-1017
+nextListObject: NoteChunk-1015
+NoteChunk #1015: position=68.0 length=1.5
+    note 57 68.0 1.5 109 0 A2
+   absoluteNoteString=A2
+NotePatternAnalysis list:-
+Anote
+nextNoteChunk(): NoteChunk-1014
+previousNoteChunk(): NoteChunk-1016
+nextListObject: NoteChunk-1014
+NoteChunk #1014: position=69.5 length=1.0
+    note 56 69.5 1.0 109 0 G#2
+   absoluteNoteString=G#2
+NotePatternAnalysis list:-
+G#note
+nextNoteChunk(): NoteChunk-1013
+previousNoteChunk(): NoteChunk-1015
+nextListObject: NoteChunk-1013
+featureHandler index=0
+FeatureInfo: isNull=false null isInt=true
+  as Value:57_57_56_
+featureHandler index=1
+FeatureInfo: isNull=false null isInt=true
+  as Value:9_9_8_
+featureHandler index=2
+FeatureInfo: isNull=false GAP_VALUE isInt=false
+  as Value:0.5_1.5_1.0_
+featureHandler index=3
+FeatureInfo: isNull=false ABSOLUTE_DURATION isInt=false
+  as Value:0.5_1.5_1.0_
+featureHandler index=4
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_PITCH isInt=true
+  as Value:57_57_56_
+featureHandler index=5
+FeatureInfo: isNull=false LOUD_SOFT_DYNAMICS isInt=true
+  as Value:96_96_96_
+featureHandler index=6
+FeatureInfo: isNull=false MOD_TOP_NOTE_PITCH isInt=true
+  as Value:9_9_8_
+featureHandler index=7
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_INTERVAL isInt=true
+  as Value:-2_0_-1_
+featureHandler index=8
+FeatureInfo: isNull=false CHROMATIC_SCALE_DEGREE isInt=true
+  as Value:0_0_11_
+featureHandler index=9
+FeatureInfo: isNull=false CHROMATIC_CHORD_TONE isInt=true
+  as Value:0_10_4_
+featureHandler index=10
+FeatureInfo: isNull=false DIATONIC_KEY_SCALE_TONE isInt=true
+  as Value:1,0_1,0_7,1_
+featureHandler index=11
+FeatureInfo: isNull=false DIATONIC_CHORD_FUNCTION_TONE isInt=true
+  as Value:1,0_7,0_3,0_
+featureHandler index=12
+FeatureInfo: isNull=false SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:-1_0_-1_
+featureHandler index=13
+FeatureInfo: isNull=false HALF_SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:-1_0_-1_
+featureHandler index=14
+FeatureInfo: isNull=false SIMPLE_DYNAMICS isInt=true
+  as Value:2_2_2_
+featureHandler index=15
+FeatureInfo: isNull=false STACCATO_PORTATO_TENUTO isInt=false
+  as Value:1.0_1.0_1.0_
+featureHandler index=16
+FeatureInfo: isNull=false CHORD_SCALE_NONSCALE_TONE isInt=true
+  as Value:0_0_0_
+feature position=68.0: 
+ChunkList contents -------------------------------
+NoteChunk #1015: position=68.0 length=1.5
+    note 57 68.0 1.5 109 0 A2
+   absoluteNoteString=A2
+NotePatternAnalysis list:-
+Anote
+nextNoteChunk(): NoteChunk-1014
+previousNoteChunk(): NoteChunk-1016
+nextListObject: NoteChunk-1014
+NoteChunk #1014: position=69.5 length=1.0
+    note 56 69.5 1.0 109 0 G#2
+   absoluteNoteString=G#2
+NotePatternAnalysis list:-
+G#note
+nextNoteChunk(): NoteChunk-1013
+previousNoteChunk(): NoteChunk-1015
+nextListObject: NoteChunk-1013
+NoteChunk #1013: position=70.5 length=0.5
+    note 59 70.5 0.5 109 0 B2
+   absoluteNoteString=B2
+NotePatternAnalysis list:-
+Bnote
+nextNoteChunk(): NoteChunk-1012
+previousNoteChunk(): NoteChunk-1014
+nextListObject: NoteChunk-1012
+featureHandler index=0
+FeatureInfo: isNull=false null isInt=true
+  as Value:57_56_59_
+featureHandler index=1
+FeatureInfo: isNull=false null isInt=true
+  as Value:9_8_11_
+featureHandler index=2
+FeatureInfo: isNull=false GAP_VALUE isInt=false
+  as Value:1.5_1.0_1.0_
+featureHandler index=3
+FeatureInfo: isNull=false ABSOLUTE_DURATION isInt=false
+  as Value:1.5_1.0_0.5_
+featureHandler index=4
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_PITCH isInt=true
+  as Value:57_56_59_
+featureHandler index=5
+FeatureInfo: isNull=false LOUD_SOFT_DYNAMICS isInt=true
+  as Value:96_96_96_
+featureHandler index=6
+FeatureInfo: isNull=false MOD_TOP_NOTE_PITCH isInt=true
+  as Value:9_8_11_
+featureHandler index=7
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_INTERVAL isInt=true
+  as Value:0_-1_3_
+featureHandler index=8
+FeatureInfo: isNull=false CHROMATIC_SCALE_DEGREE isInt=true
+  as Value:0_11_2_
+featureHandler index=9
+FeatureInfo: isNull=false CHROMATIC_CHORD_TONE isInt=true
+  as Value:10_4_7_
+featureHandler index=10
+FeatureInfo: isNull=false DIATONIC_KEY_SCALE_TONE isInt=true
+  as Value:1,0_7,1_2,0_
+featureHandler index=11
+FeatureInfo: isNull=false DIATONIC_CHORD_FUNCTION_TONE isInt=true
+  as Value:7,0_3,0_5,0_
+featureHandler index=12
+FeatureInfo: isNull=false SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:0_-1_1_
+featureHandler index=13
+FeatureInfo: isNull=false HALF_SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:0_-1_1_
+featureHandler index=14
+FeatureInfo: isNull=false SIMPLE_DYNAMICS isInt=true
+  as Value:2_2_2_
+featureHandler index=15
+FeatureInfo: isNull=false STACCATO_PORTATO_TENUTO isInt=false
+  as Value:1.0_1.0_0.0_
+featureHandler index=16
+FeatureInfo: isNull=false CHORD_SCALE_NONSCALE_TONE isInt=true
+  as Value:0_0_0_
+feature position=69.5: 
+ChunkList contents -------------------------------
+NoteChunk #1014: position=69.5 length=1.0
+    note 56 69.5 1.0 109 0 G#2
+   absoluteNoteString=G#2
+NotePatternAnalysis list:-
+G#note
+nextNoteChunk(): NoteChunk-1013
+previousNoteChunk(): NoteChunk-1015
+nextListObject: NoteChunk-1013
+NoteChunk #1013: position=70.5 length=0.5
+    note 59 70.5 0.5 109 0 B2
+   absoluteNoteString=B2
+NotePatternAnalysis list:-
+Bnote
+nextNoteChunk(): NoteChunk-1012
+previousNoteChunk(): NoteChunk-1014
+nextListObject: NoteChunk-1012
+NoteChunk #1012: position=71.5 length=6.5
+    note 52 71.5 6.5 109 0 E2
+   absoluteNoteString=E2
+NotePatternAnalysis list:-
+Enote
+nextNoteChunk(): NoteChunk-1011
+previousNoteChunk(): NoteChunk-1013
+nextListObject: NoteChunk-1011
+featureHandler index=0
+FeatureInfo: isNull=false null isInt=true
+  as Value:56_59_52_
+featureHandler index=1
+FeatureInfo: isNull=false null isInt=true
+  as Value:8_11_4_
+featureHandler index=2
+FeatureInfo: isNull=false GAP_VALUE isInt=false
+  as Value:1.0_1.0_7.0_
+featureHandler index=3
+FeatureInfo: isNull=false ABSOLUTE_DURATION isInt=false
+  as Value:1.0_0.5_6.5_
+featureHandler index=4
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_PITCH isInt=true
+  as Value:56_59_52_
+featureHandler index=5
+FeatureInfo: isNull=false LOUD_SOFT_DYNAMICS isInt=true
+  as Value:96_96_96_
+featureHandler index=6
+FeatureInfo: isNull=false MOD_TOP_NOTE_PITCH isInt=true
+  as Value:8_11_4_
+featureHandler index=7
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_INTERVAL isInt=true
+  as Value:-1_3_-7_
+featureHandler index=8
+FeatureInfo: isNull=false CHROMATIC_SCALE_DEGREE isInt=true
+  as Value:11_2_7_
+featureHandler index=9
+FeatureInfo: isNull=false CHROMATIC_CHORD_TONE isInt=true
+  as Value:4_7_7_
+featureHandler index=10
+FeatureInfo: isNull=false DIATONIC_KEY_SCALE_TONE isInt=true
+  as Value:7,1_2,0_5,0_
+featureHandler index=11
+FeatureInfo: isNull=false DIATONIC_CHORD_FUNCTION_TONE isInt=true
+  as Value:3,0_5,0_5,0_
+featureHandler index=12
+FeatureInfo: isNull=false SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:-1_1_-1_
+featureHandler index=13
+FeatureInfo: isNull=false HALF_SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:-1_1_-2_
+featureHandler index=14
+FeatureInfo: isNull=false SIMPLE_DYNAMICS isInt=true
+  as Value:2_2_2_
+featureHandler index=15
+FeatureInfo: isNull=false STACCATO_PORTATO_TENUTO isInt=false
+  as Value:1.0_0.0_0.93_
+featureHandler index=16
+FeatureInfo: isNull=false CHORD_SCALE_NONSCALE_TONE isInt=true
+  as Value:0_0_0_
+feature position=70.5: 
+ChunkList contents -------------------------------
+NoteChunk #1013: position=70.5 length=0.5
+    note 59 70.5 0.5 109 0 B2
+   absoluteNoteString=B2
+NotePatternAnalysis list:-
+Bnote
+nextNoteChunk(): NoteChunk-1012
+previousNoteChunk(): NoteChunk-1014
+nextListObject: NoteChunk-1012
+NoteChunk #1012: position=71.5 length=6.5
+    note 52 71.5 6.5 109 0 E2
+   absoluteNoteString=E2
+NotePatternAnalysis list:-
+Enote
+nextNoteChunk(): NoteChunk-1011
+previousNoteChunk(): NoteChunk-1013
+nextListObject: NoteChunk-1011
+NoteChunk #1011: position=78.5 length=0.5
+    note 52 78.5 0.5 105 0 E2
+   absoluteNoteString=E2
+NotePatternAnalysis list:-
+Enote
+nextNoteChunk(): NoteChunk-1010
+previousNoteChunk(): NoteChunk-1012
+nextListObject: NoteChunk-1010
+featureHandler index=0
+FeatureInfo: isNull=false null isInt=true
+  as Value:59_52_52_
+featureHandler index=1
+FeatureInfo: isNull=false null isInt=true
+  as Value:11_4_4_
+featureHandler index=2
+FeatureInfo: isNull=false GAP_VALUE isInt=false
+  as Value:1.0_7.0_1.0_
+featureHandler index=3
+FeatureInfo: isNull=false ABSOLUTE_DURATION isInt=false
+  as Value:0.5_6.5_0.5_
+featureHandler index=4
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_PITCH isInt=true
+  as Value:59_52_52_
+featureHandler index=5
+FeatureInfo: isNull=false LOUD_SOFT_DYNAMICS isInt=true
+  as Value:96_96_64_
+featureHandler index=6
+FeatureInfo: isNull=false MOD_TOP_NOTE_PITCH isInt=true
+  as Value:11_4_4_
+featureHandler index=7
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_INTERVAL isInt=true
+  as Value:3_-7_0_
+featureHandler index=8
+FeatureInfo: isNull=false CHROMATIC_SCALE_DEGREE isInt=true
+  as Value:2_7_7_
+featureHandler index=9
+FeatureInfo: isNull=false CHROMATIC_CHORD_TONE isInt=true
+  as Value:7_7_0_
+featureHandler index=10
+FeatureInfo: isNull=false DIATONIC_KEY_SCALE_TONE isInt=true
+  as Value:2,0_5,0_5,0_
+featureHandler index=11
+FeatureInfo: isNull=false DIATONIC_CHORD_FUNCTION_TONE isInt=true
+  as Value:5,0_5,0_1,0_
+featureHandler index=12
+FeatureInfo: isNull=false SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:1_-1_0_
+featureHandler index=13
+FeatureInfo: isNull=false HALF_SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:1_-2_0_
+featureHandler index=14
+FeatureInfo: isNull=false SIMPLE_DYNAMICS isInt=true
+  as Value:2_2_0_
+featureHandler index=15
+FeatureInfo: isNull=false STACCATO_PORTATO_TENUTO isInt=false
+  as Value:0.0_0.93_0.0_
+featureHandler index=16
+FeatureInfo: isNull=false CHORD_SCALE_NONSCALE_TONE isInt=true
+  as Value:0_0_0_
+feature position=71.5: 
+ChunkList contents -------------------------------
+NoteChunk #1012: position=71.5 length=6.5
+    note 52 71.5 6.5 109 0 E2
+   absoluteNoteString=E2
+NotePatternAnalysis list:-
+Enote
+nextNoteChunk(): NoteChunk-1011
+previousNoteChunk(): NoteChunk-1013
+nextListObject: NoteChunk-1011
+NoteChunk #1011: position=78.5 length=0.5
+    note 52 78.5 0.5 105 0 E2
+   absoluteNoteString=E2
+NotePatternAnalysis list:-
+Enote
+nextNoteChunk(): NoteChunk-1010
+previousNoteChunk(): NoteChunk-1012
+nextListObject: NoteChunk-1010
+NoteChunk #1010: position=79.5 length=3.0
+    note 58 79.5 3.0 109 0 Bb2
+   absoluteNoteString=Bb2
+NotePatternAnalysis list:-
+Bbnote
+nextNoteChunk(): NoteChunk-1009
+previousNoteChunk(): NoteChunk-1011
+nextListObject: NoteChunk-1009
+featureHandler index=0
+FeatureInfo: isNull=false null isInt=true
+  as Value:52_52_58_
+featureHandler index=1
+FeatureInfo: isNull=false null isInt=true
+  as Value:4_4_10_
+featureHandler index=2
+FeatureInfo: isNull=false GAP_VALUE isInt=false
+  as Value:7.0_1.0_3.0_
+featureHandler index=3
+FeatureInfo: isNull=false ABSOLUTE_DURATION isInt=false
+  as Value:6.5_0.5_3.0_
+featureHandler index=4
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_PITCH isInt=true
+  as Value:52_52_58_
+featureHandler index=5
+FeatureInfo: isNull=false LOUD_SOFT_DYNAMICS isInt=true
+  as Value:96_64_96_
+featureHandler index=6
+FeatureInfo: isNull=false MOD_TOP_NOTE_PITCH isInt=true
+  as Value:4_4_10_
+featureHandler index=7
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_INTERVAL isInt=true
+  as Value:-7_0_6_
+featureHandler index=8
+FeatureInfo: isNull=false CHROMATIC_SCALE_DEGREE isInt=true
+  as Value:7_7_1_
+featureHandler index=9
+FeatureInfo: isNull=false CHROMATIC_CHORD_TONE isInt=true
+  as Value:7_0_6_
+featureHandler index=10
+FeatureInfo: isNull=false DIATONIC_KEY_SCALE_TONE isInt=true
+  as Value:5,0_5,0_2,-1_
+featureHandler index=11
+FeatureInfo: isNull=false DIATONIC_CHORD_FUNCTION_TONE isInt=true
+  as Value:5,0_1,0_5,0_
+featureHandler index=12
+FeatureInfo: isNull=false SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:-1_0_1_
+featureHandler index=13
+FeatureInfo: isNull=false HALF_SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:-2_0_2_
+featureHandler index=14
+FeatureInfo: isNull=false SIMPLE_DYNAMICS isInt=true
+  as Value:2_0_2_
+featureHandler index=15
+FeatureInfo: isNull=false STACCATO_PORTATO_TENUTO isInt=false
+  as Value:0.93_0.0_1.0_
+featureHandler index=16
+FeatureInfo: isNull=false CHORD_SCALE_NONSCALE_TONE isInt=true
+  as Value:0_0_0_
+feature position=78.5: 
+ChunkList contents -------------------------------
+NoteChunk #1011: position=78.5 length=0.5
+    note 52 78.5 0.5 105 0 E2
+   absoluteNoteString=E2
+NotePatternAnalysis list:-
+Enote
+nextNoteChunk(): NoteChunk-1010
+previousNoteChunk(): NoteChunk-1012
+nextListObject: NoteChunk-1010
+NoteChunk #1010: position=79.5 length=3.0
+    note 58 79.5 3.0 109 0 Bb2
+   absoluteNoteString=Bb2
+NotePatternAnalysis list:-
+Bbnote
+nextNoteChunk(): NoteChunk-1009
+previousNoteChunk(): NoteChunk-1011
+nextListObject: NoteChunk-1009
+NoteChunk #1009: position=82.5 length=0.5
+    note 57 82.5 0.5 109 0 A2
+   absoluteNoteString=A2
+NotePatternAnalysis list:-
+Anote
+nextNoteChunk(): NoteChunk-1008
+previousNoteChunk(): NoteChunk-1010
+nextListObject: NoteChunk-1008
+featureHandler index=0
+FeatureInfo: isNull=false null isInt=true
+  as Value:52_58_57_
+featureHandler index=1
+FeatureInfo: isNull=false null isInt=true
+  as Value:4_10_9_
+featureHandler index=2
+FeatureInfo: isNull=false GAP_VALUE isInt=false
+  as Value:1.0_3.0_1.0_
+featureHandler index=3
+FeatureInfo: isNull=false ABSOLUTE_DURATION isInt=false
+  as Value:0.5_3.0_0.5_
+featureHandler index=4
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_PITCH isInt=true
+  as Value:52_58_57_
+featureHandler index=5
+FeatureInfo: isNull=false LOUD_SOFT_DYNAMICS isInt=true
+  as Value:64_96_96_
+featureHandler index=6
+FeatureInfo: isNull=false MOD_TOP_NOTE_PITCH isInt=true
+  as Value:4_10_9_
+featureHandler index=7
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_INTERVAL isInt=true
+  as Value:0_6_-1_
+featureHandler index=8
+FeatureInfo: isNull=false CHROMATIC_SCALE_DEGREE isInt=true
+  as Value:7_1_7_
+featureHandler index=9
+FeatureInfo: isNull=false CHROMATIC_CHORD_TONE isInt=true
+  as Value:0_6_5_
+featureHandler index=10
+FeatureInfo: isNull=false DIATONIC_KEY_SCALE_TONE isInt=true
+  as Value:5,0_2,-1_5,0_
+featureHandler index=11
+FeatureInfo: isNull=false DIATONIC_CHORD_FUNCTION_TONE isInt=true
+  as Value:1,0_5,0_4,0_
+featureHandler index=12
+FeatureInfo: isNull=false SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:0_1_-1_
+featureHandler index=13
+FeatureInfo: isNull=false HALF_SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:0_2_-1_
+featureHandler index=14
+FeatureInfo: isNull=false SIMPLE_DYNAMICS isInt=true
+  as Value:0_2_2_
+featureHandler index=15
+FeatureInfo: isNull=false STACCATO_PORTATO_TENUTO isInt=false
+  as Value:0.0_1.0_0.0_
+featureHandler index=16
+FeatureInfo: isNull=false CHORD_SCALE_NONSCALE_TONE isInt=true
+  as Value:0_0_1_
+feature position=79.5: 
+ChunkList contents -------------------------------
+NoteChunk #1010: position=79.5 length=3.0
+    note 58 79.5 3.0 109 0 Bb2
+   absoluteNoteString=Bb2
+NotePatternAnalysis list:-
+Bbnote
+nextNoteChunk(): NoteChunk-1009
+previousNoteChunk(): NoteChunk-1011
+nextListObject: NoteChunk-1009
+NoteChunk #1009: position=82.5 length=0.5
+    note 57 82.5 0.5 109 0 A2
+   absoluteNoteString=A2
+NotePatternAnalysis list:-
+Anote
+nextNoteChunk(): NoteChunk-1008
+previousNoteChunk(): NoteChunk-1010
+nextListObject: NoteChunk-1008
+NoteChunk #1008: position=83.5 length=0.5
+    note 55 83.5 0.5 109 0 G2
+   absoluteNoteString=G2
+NotePatternAnalysis list:-
+Gnote
+nextNoteChunk(): NoteChunk-1007
+previousNoteChunk(): NoteChunk-1009
+nextListObject: NoteChunk-1007
+featureHandler index=0
+FeatureInfo: isNull=false null isInt=true
+  as Value:58_57_55_
+featureHandler index=1
+FeatureInfo: isNull=false null isInt=true
+  as Value:10_9_7_
+featureHandler index=2
+FeatureInfo: isNull=false GAP_VALUE isInt=false
+  as Value:3.0_1.0_0.5_
+featureHandler index=3
+FeatureInfo: isNull=false ABSOLUTE_DURATION isInt=false
+  as Value:3.0_0.5_0.5_
+featureHandler index=4
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_PITCH isInt=true
+  as Value:58_57_55_
+featureHandler index=5
+FeatureInfo: isNull=false LOUD_SOFT_DYNAMICS isInt=true
+  as Value:96_96_96_
+featureHandler index=6
+FeatureInfo: isNull=false MOD_TOP_NOTE_PITCH isInt=true
+  as Value:10_9_7_
+featureHandler index=7
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_INTERVAL isInt=true
+  as Value:6_-1_-2_
+featureHandler index=8
+FeatureInfo: isNull=false CHROMATIC_SCALE_DEGREE isInt=true
+  as Value:1_7_5_
+featureHandler index=9
+FeatureInfo: isNull=false CHROMATIC_CHORD_TONE isInt=true
+  as Value:6_5_3_
+featureHandler index=10
+FeatureInfo: isNull=false DIATONIC_KEY_SCALE_TONE isInt=true
+  as Value:2,-1_5,0_4,0_
+featureHandler index=11
+FeatureInfo: isNull=false DIATONIC_CHORD_FUNCTION_TONE isInt=true
+  as Value:5,0_4,0_3,0_
+featureHandler index=12
+FeatureInfo: isNull=false SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:1_-1_-1_
+featureHandler index=13
+FeatureInfo: isNull=false HALF_SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:2_-1_-1_
+featureHandler index=14
+FeatureInfo: isNull=false SIMPLE_DYNAMICS isInt=true
+  as Value:2_2_2_
+featureHandler index=15
+FeatureInfo: isNull=false STACCATO_PORTATO_TENUTO isInt=false
+  as Value:1.0_0.0_1.0_
+featureHandler index=16
+FeatureInfo: isNull=false CHORD_SCALE_NONSCALE_TONE isInt=true
+  as Value:0_1_0_
+feature position=82.5: 
+ChunkList contents -------------------------------
+NoteChunk #1009: position=82.5 length=0.5
+    note 57 82.5 0.5 109 0 A2
+   absoluteNoteString=A2
+NotePatternAnalysis list:-
+Anote
+nextNoteChunk(): NoteChunk-1008
+previousNoteChunk(): NoteChunk-1010
+nextListObject: NoteChunk-1008
+NoteChunk #1008: position=83.5 length=0.5
+    note 55 83.5 0.5 109 0 G2
+   absoluteNoteString=G2
+NotePatternAnalysis list:-
+Gnote
+nextNoteChunk(): NoteChunk-1007
+previousNoteChunk(): NoteChunk-1009
+nextListObject: NoteChunk-1007
+NoteChunk #1007: position=84.0 length=1.5
+    note 55 84.0 1.5 109 0 G2
+   absoluteNoteString=G2
+NotePatternAnalysis list:-
+Gnote
+nextNoteChunk(): NoteChunk-1006
+previousNoteChunk(): NoteChunk-1008
+nextListObject: NoteChunk-1006
+featureHandler index=0
+FeatureInfo: isNull=false null isInt=true
+  as Value:57_55_55_
+featureHandler index=1
+FeatureInfo: isNull=false null isInt=true
+  as Value:9_7_7_
+featureHandler index=2
+FeatureInfo: isNull=false GAP_VALUE isInt=false
+  as Value:1.0_0.5_1.5_
+featureHandler index=3
+FeatureInfo: isNull=false ABSOLUTE_DURATION isInt=false
+  as Value:0.5_0.5_1.5_
+featureHandler index=4
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_PITCH isInt=true
+  as Value:57_55_55_
+featureHandler index=5
+FeatureInfo: isNull=false LOUD_SOFT_DYNAMICS isInt=true
+  as Value:96_96_96_
+featureHandler index=6
+FeatureInfo: isNull=false MOD_TOP_NOTE_PITCH isInt=true
+  as Value:9_7_7_
+featureHandler index=7
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_INTERVAL isInt=true
+  as Value:-1_-2_0_
+featureHandler index=8
+FeatureInfo: isNull=false CHROMATIC_SCALE_DEGREE isInt=true
+  as Value:7_5_5_
+featureHandler index=9
+FeatureInfo: isNull=false CHROMATIC_CHORD_TONE isInt=true
+  as Value:5_3_10_
+featureHandler index=10
+FeatureInfo: isNull=false DIATONIC_KEY_SCALE_TONE isInt=true
+  as Value:5,0_4,0_4,0_
+featureHandler index=11
+FeatureInfo: isNull=false DIATONIC_CHORD_FUNCTION_TONE isInt=true
+  as Value:4,0_3,0_7,0_
+featureHandler index=12
+FeatureInfo: isNull=false SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:-1_-1_0_
+featureHandler index=13
+FeatureInfo: isNull=false HALF_SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:-1_-1_0_
+featureHandler index=14
+FeatureInfo: isNull=false SIMPLE_DYNAMICS isInt=true
+  as Value:2_2_2_
+featureHandler index=15
+FeatureInfo: isNull=false STACCATO_PORTATO_TENUTO isInt=false
+  as Value:0.0_1.0_1.0_
+featureHandler index=16
+FeatureInfo: isNull=false CHORD_SCALE_NONSCALE_TONE isInt=true
+  as Value:1_0_0_
+feature position=83.5: 
+ChunkList contents -------------------------------
+NoteChunk #1008: position=83.5 length=0.5
+    note 55 83.5 0.5 109 0 G2
+   absoluteNoteString=G2
+NotePatternAnalysis list:-
+Gnote
+nextNoteChunk(): NoteChunk-1007
+previousNoteChunk(): NoteChunk-1009
+nextListObject: NoteChunk-1007
+NoteChunk #1007: position=84.0 length=1.5
+    note 55 84.0 1.5 109 0 G2
+   absoluteNoteString=G2
+NotePatternAnalysis list:-
+Gnote
+nextNoteChunk(): NoteChunk-1006
+previousNoteChunk(): NoteChunk-1008
+nextListObject: NoteChunk-1006
+NoteChunk #1006: position=85.5 length=0.5
+    note 53 85.5 0.5 109 0 F2
+   absoluteNoteString=F2
+NotePatternAnalysis list:-
+Fnote
+nextNoteChunk(): NoteChunk-1005
+previousNoteChunk(): NoteChunk-1007
+nextListObject: NoteChunk-1005
+featureHandler index=0
+FeatureInfo: isNull=false null isInt=true
+  as Value:55_55_53_
+featureHandler index=1
+FeatureInfo: isNull=false null isInt=true
+  as Value:7_7_5_
+featureHandler index=2
+FeatureInfo: isNull=false GAP_VALUE isInt=false
+  as Value:0.5_1.5_1.0_
+featureHandler index=3
+FeatureInfo: isNull=false ABSOLUTE_DURATION isInt=false
+  as Value:0.5_1.5_0.5_
+featureHandler index=4
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_PITCH isInt=true
+  as Value:55_55_53_
+featureHandler index=5
+FeatureInfo: isNull=false LOUD_SOFT_DYNAMICS isInt=true
+  as Value:96_96_96_
+featureHandler index=6
+FeatureInfo: isNull=false MOD_TOP_NOTE_PITCH isInt=true
+  as Value:7_7_5_
+featureHandler index=7
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_INTERVAL isInt=true
+  as Value:-2_0_-2_
+featureHandler index=8
+FeatureInfo: isNull=false CHROMATIC_SCALE_DEGREE isInt=true
+  as Value:5_5_3_
+featureHandler index=9
+FeatureInfo: isNull=false CHROMATIC_CHORD_TONE isInt=true
+  as Value:3_10_8_
+featureHandler index=10
+FeatureInfo: isNull=false DIATONIC_KEY_SCALE_TONE isInt=true
+  as Value:4,0_4,0_3,0_
+featureHandler index=11
+FeatureInfo: isNull=false DIATONIC_CHORD_FUNCTION_TONE isInt=true
+  as Value:3,0_7,0_6,0_
+featureHandler index=12
+FeatureInfo: isNull=false SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:-1_0_-1_
+featureHandler index=13
+FeatureInfo: isNull=false HALF_SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:-1_0_-1_
+featureHandler index=14
+FeatureInfo: isNull=false SIMPLE_DYNAMICS isInt=true
+  as Value:2_2_2_
+featureHandler index=15
+FeatureInfo: isNull=false STACCATO_PORTATO_TENUTO isInt=false
+  as Value:1.0_1.0_0.0_
+featureHandler index=16
+FeatureInfo: isNull=false CHORD_SCALE_NONSCALE_TONE isInt=true
+  as Value:0_0_1_
+feature position=84.0: 
+ChunkList contents -------------------------------
+NoteChunk #1007: position=84.0 length=1.5
+    note 55 84.0 1.5 109 0 G2
+   absoluteNoteString=G2
+NotePatternAnalysis list:-
+Gnote
+nextNoteChunk(): NoteChunk-1006
+previousNoteChunk(): NoteChunk-1008
+nextListObject: NoteChunk-1006
+NoteChunk #1006: position=85.5 length=0.5
+    note 53 85.5 0.5 109 0 F2
+   absoluteNoteString=F2
+NotePatternAnalysis list:-
+Fnote
+nextNoteChunk(): NoteChunk-1005
+previousNoteChunk(): NoteChunk-1007
+nextListObject: NoteChunk-1005
+NoteChunk #1005: position=86.5 length=0.5
+    note 52 86.5 0.5 109 0 E2
+   absoluteNoteString=E2
+NotePatternAnalysis list:-
+Enote
+nextNoteChunk(): NoteChunk-1004
+previousNoteChunk(): NoteChunk-1006
+nextListObject: NoteChunk-1004
+featureHandler index=0
+FeatureInfo: isNull=false null isInt=true
+  as Value:55_53_52_
+featureHandler index=1
+FeatureInfo: isNull=false null isInt=true
+  as Value:7_5_4_
+featureHandler index=2
+FeatureInfo: isNull=false GAP_VALUE isInt=false
+  as Value:1.5_1.0_1.0_
+featureHandler index=3
+FeatureInfo: isNull=false ABSOLUTE_DURATION isInt=false
+  as Value:1.5_0.5_0.5_
+featureHandler index=4
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_PITCH isInt=true
+  as Value:55_53_52_
+featureHandler index=5
+FeatureInfo: isNull=false LOUD_SOFT_DYNAMICS isInt=true
+  as Value:96_96_96_
+featureHandler index=6
+FeatureInfo: isNull=false MOD_TOP_NOTE_PITCH isInt=true
+  as Value:7_5_4_
+featureHandler index=7
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_INTERVAL isInt=true
+  as Value:0_-2_-1_
+featureHandler index=8
+FeatureInfo: isNull=false CHROMATIC_SCALE_DEGREE isInt=true
+  as Value:5_3_2_
+featureHandler index=9
+FeatureInfo: isNull=false CHROMATIC_CHORD_TONE isInt=true
+  as Value:10_8_7_
+featureHandler index=10
+FeatureInfo: isNull=false DIATONIC_KEY_SCALE_TONE isInt=true
+  as Value:4,0_3,0_2,0_
+featureHandler index=11
+FeatureInfo: isNull=false DIATONIC_CHORD_FUNCTION_TONE isInt=true
+  as Value:7,0_6,0_5,0_
+featureHandler index=12
+FeatureInfo: isNull=false SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:0_-1_-1_
+featureHandler index=13
+FeatureInfo: isNull=false HALF_SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:0_-1_-1_
+featureHandler index=14
+FeatureInfo: isNull=false SIMPLE_DYNAMICS isInt=true
+  as Value:2_2_2_
+featureHandler index=15
+FeatureInfo: isNull=false STACCATO_PORTATO_TENUTO isInt=false
+  as Value:1.0_0.0_0.0_
+featureHandler index=16
+FeatureInfo: isNull=false CHORD_SCALE_NONSCALE_TONE isInt=true
+  as Value:0_1_0_
+feature position=85.5: 
+ChunkList contents -------------------------------
+NoteChunk #1006: position=85.5 length=0.5
+    note 53 85.5 0.5 109 0 F2
+   absoluteNoteString=F2
+NotePatternAnalysis list:-
+Fnote
+nextNoteChunk(): NoteChunk-1005
+previousNoteChunk(): NoteChunk-1007
+nextListObject: NoteChunk-1005
+NoteChunk #1005: position=86.5 length=0.5
+    note 52 86.5 0.5 109 0 E2
+   absoluteNoteString=E2
+NotePatternAnalysis list:-
+Enote
+nextNoteChunk(): NoteChunk-1004
+previousNoteChunk(): NoteChunk-1006
+nextListObject: NoteChunk-1004
+NoteChunk #1004: position=87.5 length=7.5
+    note 57 87.5 7.5 109 0 A2
+   absoluteNoteString=A2
+NotePatternAnalysis list:-
+Anote
+nextNoteChunk(): NoteChunk-1003
+previousNoteChunk(): NoteChunk-1005
+nextListObject: NoteChunk-1003
+featureHandler index=0
+FeatureInfo: isNull=false null isInt=true
+  as Value:53_52_57_
+featureHandler index=1
+FeatureInfo: isNull=false null isInt=true
+  as Value:5_4_9_
+featureHandler index=2
+FeatureInfo: isNull=false GAP_VALUE isInt=false
+  as Value:1.0_1.0_8.0_
+featureHandler index=3
+FeatureInfo: isNull=false ABSOLUTE_DURATION isInt=false
+  as Value:0.5_0.5_7.5_
+featureHandler index=4
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_PITCH isInt=true
+  as Value:53_52_57_
+featureHandler index=5
+FeatureInfo: isNull=false LOUD_SOFT_DYNAMICS isInt=true
+  as Value:96_96_96_
+featureHandler index=6
+FeatureInfo: isNull=false MOD_TOP_NOTE_PITCH isInt=true
+  as Value:5_4_9_
+featureHandler index=7
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_INTERVAL isInt=true
+  as Value:-2_-1_5_
+featureHandler index=8
+FeatureInfo: isNull=false CHROMATIC_SCALE_DEGREE isInt=true
+  as Value:3_2_7_
+featureHandler index=9
+FeatureInfo: isNull=false CHROMATIC_CHORD_TONE isInt=true
+  as Value:8_7_7_
+featureHandler index=10
+FeatureInfo: isNull=false DIATONIC_KEY_SCALE_TONE isInt=true
+  as Value:3,0_2,0_5,0_
+featureHandler index=11
+FeatureInfo: isNull=false DIATONIC_CHORD_FUNCTION_TONE isInt=true
+  as Value:6,0_5,0_5,0_
+featureHandler index=12
+FeatureInfo: isNull=false SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:-1_-1_1_
+featureHandler index=13
+FeatureInfo: isNull=false HALF_SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:-1_-1_2_
+featureHandler index=14
+FeatureInfo: isNull=false SIMPLE_DYNAMICS isInt=true
+  as Value:2_2_2_
+featureHandler index=15
+FeatureInfo: isNull=false STACCATO_PORTATO_TENUTO isInt=false
+  as Value:0.0_0.0_0.94_
+featureHandler index=16
+FeatureInfo: isNull=false CHORD_SCALE_NONSCALE_TONE isInt=true
+  as Value:1_0_0_
+feature position=86.5: 
+ChunkList contents -------------------------------
+NoteChunk #1005: position=86.5 length=0.5
+    note 52 86.5 0.5 109 0 E2
+   absoluteNoteString=E2
+NotePatternAnalysis list:-
+Enote
+nextNoteChunk(): NoteChunk-1004
+previousNoteChunk(): NoteChunk-1006
+nextListObject: NoteChunk-1004
+NoteChunk #1004: position=87.5 length=7.5
+    note 57 87.5 7.5 109 0 A2
+   absoluteNoteString=A2
+NotePatternAnalysis list:-
+Anote
+nextNoteChunk(): NoteChunk-1003
+previousNoteChunk(): NoteChunk-1005
+nextListObject: NoteChunk-1003
+NoteChunk #1003: position=95.5 length=0.5
+    note 50 95.5 0.5 109 0 D2
+   absoluteNoteString=D2
+NotePatternAnalysis list:-
+Dnote
+nextNoteChunk(): NoteChunk-1002
+previousNoteChunk(): NoteChunk-1004
+nextListObject: NoteChunk-1002
+featureHandler index=0
+FeatureInfo: isNull=false null isInt=true
+  as Value:52_57_50_
+featureHandler index=1
+FeatureInfo: isNull=false null isInt=true
+  as Value:4_9_2_
+featureHandler index=2
+FeatureInfo: isNull=false GAP_VALUE isInt=false
+  as Value:1.0_8.0_0.5_
+featureHandler index=3
+FeatureInfo: isNull=false ABSOLUTE_DURATION isInt=false
+  as Value:0.5_7.5_0.5_
+featureHandler index=4
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_PITCH isInt=true
+  as Value:52_57_50_
+featureHandler index=5
+FeatureInfo: isNull=false LOUD_SOFT_DYNAMICS isInt=true
+  as Value:96_96_96_
+featureHandler index=6
+FeatureInfo: isNull=false MOD_TOP_NOTE_PITCH isInt=true
+  as Value:4_9_2_
+featureHandler index=7
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_INTERVAL isInt=true
+  as Value:-1_5_-7_
+featureHandler index=8
+FeatureInfo: isNull=false CHROMATIC_SCALE_DEGREE isInt=true
+  as Value:2_7_0_
+featureHandler index=9
+FeatureInfo: isNull=false CHROMATIC_CHORD_TONE isInt=true
+  as Value:7_7_0_
+featureHandler index=10
+FeatureInfo: isNull=false DIATONIC_KEY_SCALE_TONE isInt=true
+  as Value:2,0_5,0_1,0_
+featureHandler index=11
+FeatureInfo: isNull=false DIATONIC_CHORD_FUNCTION_TONE isInt=true
+  as Value:5,0_5,0_1,0_
+featureHandler index=12
+FeatureInfo: isNull=false SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:-1_1_-1_
+featureHandler index=13
+FeatureInfo: isNull=false HALF_SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:-1_2_-2_
+featureHandler index=14
+FeatureInfo: isNull=false SIMPLE_DYNAMICS isInt=true
+  as Value:2_2_2_
+featureHandler index=15
+FeatureInfo: isNull=false STACCATO_PORTATO_TENUTO isInt=false
+  as Value:0.0_0.94_1.0_
+featureHandler index=16
+FeatureInfo: isNull=false CHORD_SCALE_NONSCALE_TONE isInt=true
+  as Value:0_0_0_
+feature position=87.5: 
+ChunkList contents -------------------------------
+NoteChunk #1004: position=87.5 length=7.5
+    note 57 87.5 7.5 109 0 A2
+   absoluteNoteString=A2
+NotePatternAnalysis list:-
+Anote
+nextNoteChunk(): NoteChunk-1003
+previousNoteChunk(): NoteChunk-1005
+nextListObject: NoteChunk-1003
+NoteChunk #1003: position=95.5 length=0.5
+    note 50 95.5 0.5 109 0 D2
+   absoluteNoteString=D2
+NotePatternAnalysis list:-
+Dnote
+nextNoteChunk(): NoteChunk-1002
+previousNoteChunk(): NoteChunk-1004
+nextListObject: NoteChunk-1002
+NoteChunk #1002: position=96.0 length=1.0
+    note 50 96.0 1.0 109 0 D2
+   absoluteNoteString=D2
+NotePatternAnalysis list:-
+Dnote
+nextNoteChunk(): NoteChunk-1001
+previousNoteChunk(): NoteChunk-1003
+nextListObject: NoteChunk-1001
+featureHandler index=0
+FeatureInfo: isNull=false null isInt=true
+  as Value:57_50_50_
+featureHandler index=1
+FeatureInfo: isNull=false null isInt=true
+  as Value:9_2_2_
+featureHandler index=2
+FeatureInfo: isNull=false GAP_VALUE isInt=false
+  as Value:8.0_0.5_1.0_
+featureHandler index=3
+FeatureInfo: isNull=false ABSOLUTE_DURATION isInt=false
+  as Value:7.5_0.5_1.0_
+featureHandler index=4
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_PITCH isInt=true
+  as Value:57_50_50_
+featureHandler index=5
+FeatureInfo: isNull=false LOUD_SOFT_DYNAMICS isInt=true
+  as Value:96_96_96_
+featureHandler index=6
+FeatureInfo: isNull=false MOD_TOP_NOTE_PITCH isInt=true
+  as Value:9_2_2_
+featureHandler index=7
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_INTERVAL isInt=true
+  as Value:5_-7_0_
+featureHandler index=8
+FeatureInfo: isNull=false CHROMATIC_SCALE_DEGREE isInt=true
+  as Value:7_0_5_
+featureHandler index=9
+FeatureInfo: isNull=false CHROMATIC_CHORD_TONE isInt=true
+  as Value:7_0_3_
+featureHandler index=10
+FeatureInfo: isNull=false DIATONIC_KEY_SCALE_TONE isInt=true
+  as Value:5,0_1,0_4,0_
+featureHandler index=11
+FeatureInfo: isNull=false DIATONIC_CHORD_FUNCTION_TONE isInt=true
+  as Value:5,0_1,0_3,0_
+featureHandler index=12
+FeatureInfo: isNull=false SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:1_-1_0_
+featureHandler index=13
+FeatureInfo: isNull=false HALF_SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:2_-2_0_
+featureHandler index=14
+FeatureInfo: isNull=false SIMPLE_DYNAMICS isInt=true
+  as Value:2_2_2_
+featureHandler index=15
+FeatureInfo: isNull=false STACCATO_PORTATO_TENUTO isInt=false
+  as Value:0.94_1.0_1.0_
+featureHandler index=16
+FeatureInfo: isNull=false CHORD_SCALE_NONSCALE_TONE isInt=true
+  as Value:0_0_0_
+feature position=95.5: 
+ChunkList contents -------------------------------
+NoteChunk #1003: position=95.5 length=0.5
+    note 50 95.5 0.5 109 0 D2
+   absoluteNoteString=D2
+NotePatternAnalysis list:-
+Dnote
+nextNoteChunk(): NoteChunk-1002
+previousNoteChunk(): NoteChunk-1004
+nextListObject: NoteChunk-1002
+NoteChunk #1002: position=96.0 length=1.0
+    note 50 96.0 1.0 109 0 D2
+   absoluteNoteString=D2
+NotePatternAnalysis list:-
+Dnote
+nextNoteChunk(): NoteChunk-1001
+previousNoteChunk(): NoteChunk-1003
+nextListObject: NoteChunk-1001
+NoteChunk #1001: position=97.0 length=0.5
+    note 52 97.0 0.5 99 0 E2
+   absoluteNoteString=E2
+NotePatternAnalysis list:-
+Enote
+nextNoteChunk(): NoteChunk-1000
+previousNoteChunk(): NoteChunk-1002
+nextListObject: NoteChunk-1000
+featureHandler index=0
+FeatureInfo: isNull=false null isInt=true
+  as Value:50_50_52_
+featureHandler index=1
+FeatureInfo: isNull=false null isInt=true
+  as Value:2_2_4_
+featureHandler index=2
+FeatureInfo: isNull=false GAP_VALUE isInt=false
+  as Value:0.5_1.0_0.5_
+featureHandler index=3
+FeatureInfo: isNull=false ABSOLUTE_DURATION isInt=false
+  as Value:0.5_1.0_0.5_
+featureHandler index=4
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_PITCH isInt=true
+  as Value:50_50_52_
+featureHandler index=5
+FeatureInfo: isNull=false LOUD_SOFT_DYNAMICS isInt=true
+  as Value:96_96_64_
+featureHandler index=6
+FeatureInfo: isNull=false MOD_TOP_NOTE_PITCH isInt=true
+  as Value:2_2_4_
+featureHandler index=7
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_INTERVAL isInt=true
+  as Value:-7_0_2_
+featureHandler index=8
+FeatureInfo: isNull=false CHROMATIC_SCALE_DEGREE isInt=true
+  as Value:0_5_7_
+featureHandler index=9
+FeatureInfo: isNull=false CHROMATIC_CHORD_TONE isInt=true
+  as Value:0_3_5_
+featureHandler index=10
+FeatureInfo: isNull=false DIATONIC_KEY_SCALE_TONE isInt=true
+  as Value:1,0_4,0_5,0_
+featureHandler index=11
+FeatureInfo: isNull=false DIATONIC_CHORD_FUNCTION_TONE isInt=true
+  as Value:1,0_3,0_4,0_
+featureHandler index=12
+FeatureInfo: isNull=false SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:-1_0_1_
+featureHandler index=13
+FeatureInfo: isNull=false HALF_SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:-2_0_1_
+featureHandler index=14
+FeatureInfo: isNull=false SIMPLE_DYNAMICS isInt=true
+  as Value:2_2_0_
+featureHandler index=15
+FeatureInfo: isNull=false STACCATO_PORTATO_TENUTO isInt=false
+  as Value:1.0_1.0_1.0_
+featureHandler index=16
+FeatureInfo: isNull=false CHORD_SCALE_NONSCALE_TONE isInt=true
+  as Value:0_0_1_
+feature position=96.0: 
+ChunkList contents -------------------------------
+NoteChunk #1002: position=96.0 length=1.0
+    note 50 96.0 1.0 109 0 D2
+   absoluteNoteString=D2
+NotePatternAnalysis list:-
+Dnote
+nextNoteChunk(): NoteChunk-1001
+previousNoteChunk(): NoteChunk-1003
+nextListObject: NoteChunk-1001
+NoteChunk #1001: position=97.0 length=0.5
+    note 52 97.0 0.5 99 0 E2
+   absoluteNoteString=E2
+NotePatternAnalysis list:-
+Enote
+nextNoteChunk(): NoteChunk-1000
+previousNoteChunk(): NoteChunk-1002
+nextListObject: NoteChunk-1000
+NoteChunk #1000: position=97.5 length=0.5
+    note 53 97.5 0.5 101 0 F2
+   absoluteNoteString=F2
+NotePatternAnalysis list:-
+Fnote
+nextNoteChunk(): NoteChunk-999
+previousNoteChunk(): NoteChunk-1001
+nextListObject: NoteChunk-999
+featureHandler index=0
+FeatureInfo: isNull=false null isInt=true
+  as Value:50_52_53_
+featureHandler index=1
+FeatureInfo: isNull=false null isInt=true
+  as Value:2_4_5_
+featureHandler index=2
+FeatureInfo: isNull=false GAP_VALUE isInt=false
+  as Value:1.0_0.5_0.5_
+featureHandler index=3
+FeatureInfo: isNull=false ABSOLUTE_DURATION isInt=false
+  as Value:1.0_0.5_0.5_
+featureHandler index=4
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_PITCH isInt=true
+  as Value:50_52_53_
+featureHandler index=5
+FeatureInfo: isNull=false LOUD_SOFT_DYNAMICS isInt=true
+  as Value:96_64_64_
+featureHandler index=6
+FeatureInfo: isNull=false MOD_TOP_NOTE_PITCH isInt=true
+  as Value:2_4_5_
+featureHandler index=7
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_INTERVAL isInt=true
+  as Value:0_2_1_
+featureHandler index=8
+FeatureInfo: isNull=false CHROMATIC_SCALE_DEGREE isInt=true
+  as Value:5_7_8_
+featureHandler index=9
+FeatureInfo: isNull=false CHROMATIC_CHORD_TONE isInt=true
+  as Value:3_5_6_
+featureHandler index=10
+FeatureInfo: isNull=false DIATONIC_KEY_SCALE_TONE isInt=true
+  as Value:4,0_5,0_6,0_
+featureHandler index=11
+FeatureInfo: isNull=false DIATONIC_CHORD_FUNCTION_TONE isInt=true
+  as Value:3,0_4,0_5,0_
+featureHandler index=12
+FeatureInfo: isNull=false SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:0_1_1_
+featureHandler index=13
+FeatureInfo: isNull=false HALF_SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:0_1_1_
+featureHandler index=14
+FeatureInfo: isNull=false SIMPLE_DYNAMICS isInt=true
+  as Value:2_0_0_
+featureHandler index=15
+FeatureInfo: isNull=false STACCATO_PORTATO_TENUTO isInt=false
+  as Value:1.0_1.0_1.0_
+featureHandler index=16
+FeatureInfo: isNull=false CHORD_SCALE_NONSCALE_TONE isInt=true
+  as Value:0_1_0_
+feature position=97.0: 
+ChunkList contents -------------------------------
+NoteChunk #1001: position=97.0 length=0.5
+    note 52 97.0 0.5 99 0 E2
+   absoluteNoteString=E2
+NotePatternAnalysis list:-
+Enote
+nextNoteChunk(): NoteChunk-1000
+previousNoteChunk(): NoteChunk-1002
+nextListObject: NoteChunk-1000
+NoteChunk #1000: position=97.5 length=0.5
+    note 53 97.5 0.5 101 0 F2
+   absoluteNoteString=F2
+NotePatternAnalysis list:-
+Fnote
+nextNoteChunk(): NoteChunk-999
+previousNoteChunk(): NoteChunk-1001
+nextListObject: NoteChunk-999
+NoteChunk #999: position=98.0 length=4.5
+    note 59 98.0 4.5 109 0 B2
+   absoluteNoteString=B2
+NotePatternAnalysis list:-
+Bnote
+nextNoteChunk(): NoteChunk-998
+previousNoteChunk(): NoteChunk-1000
+nextListObject: NoteChunk-998
+featureHandler index=0
+FeatureInfo: isNull=false null isInt=true
+  as Value:52_53_59_
+featureHandler index=1
+FeatureInfo: isNull=false null isInt=true
+  as Value:4_5_11_
+featureHandler index=2
+FeatureInfo: isNull=false GAP_VALUE isInt=false
+  as Value:0.5_0.5_4.5_
+featureHandler index=3
+FeatureInfo: isNull=false ABSOLUTE_DURATION isInt=false
+  as Value:0.5_0.5_4.5_
+featureHandler index=4
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_PITCH isInt=true
+  as Value:52_53_59_
+featureHandler index=5
+FeatureInfo: isNull=false LOUD_SOFT_DYNAMICS isInt=true
+  as Value:64_64_96_
+featureHandler index=6
+FeatureInfo: isNull=false MOD_TOP_NOTE_PITCH isInt=true
+  as Value:4_5_11_
+featureHandler index=7
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_INTERVAL isInt=true
+  as Value:2_1_6_
+featureHandler index=8
+FeatureInfo: isNull=false CHROMATIC_SCALE_DEGREE isInt=true
+  as Value:7_8_2_
+featureHandler index=9
+FeatureInfo: isNull=false CHROMATIC_CHORD_TONE isInt=true
+  as Value:5_6_7_
+featureHandler index=10
+FeatureInfo: isNull=false DIATONIC_KEY_SCALE_TONE isInt=true
+  as Value:5,0_6,0_2,0_
+featureHandler index=11
+FeatureInfo: isNull=false DIATONIC_CHORD_FUNCTION_TONE isInt=true
+  as Value:4,0_5,0_5,0_
+featureHandler index=12
+FeatureInfo: isNull=false SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:1_1_1_
+featureHandler index=13
+FeatureInfo: isNull=false HALF_SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:1_1_2_
+featureHandler index=14
+FeatureInfo: isNull=false SIMPLE_DYNAMICS isInt=true
+  as Value:0_0_2_
+featureHandler index=15
+FeatureInfo: isNull=false STACCATO_PORTATO_TENUTO isInt=false
+  as Value:1.0_1.0_1.0_
+featureHandler index=16
+FeatureInfo: isNull=false CHORD_SCALE_NONSCALE_TONE isInt=true
+  as Value:1_0_0_
+feature position=97.5: 
+ChunkList contents -------------------------------
+NoteChunk #1000: position=97.5 length=0.5
+    note 53 97.5 0.5 101 0 F2
+   absoluteNoteString=F2
+NotePatternAnalysis list:-
+Fnote
+nextNoteChunk(): NoteChunk-999
+previousNoteChunk(): NoteChunk-1001
+nextListObject: NoteChunk-999
+NoteChunk #999: position=98.0 length=4.5
+    note 59 98.0 4.5 109 0 B2
+   absoluteNoteString=B2
+NotePatternAnalysis list:-
+Bnote
+nextNoteChunk(): NoteChunk-998
+previousNoteChunk(): NoteChunk-1000
+nextListObject: NoteChunk-998
+NoteChunk #998: position=102.5 length=1.5
+    note 57 102.5 1.5 109 0 A2
+   absoluteNoteString=A2
+NotePatternAnalysis list:-
+Anote
+nextNoteChunk(): NoteChunk-997
+previousNoteChunk(): NoteChunk-999
+nextListObject: NoteChunk-997
+featureHandler index=0
+FeatureInfo: isNull=false null isInt=true
+  as Value:53_59_57_
+featureHandler index=1
+FeatureInfo: isNull=false null isInt=true
+  as Value:5_11_9_
+featureHandler index=2
+FeatureInfo: isNull=false GAP_VALUE isInt=false
+  as Value:0.5_4.5_1.5_
+featureHandler index=3
+FeatureInfo: isNull=false ABSOLUTE_DURATION isInt=false
+  as Value:0.5_4.5_1.5_
+featureHandler index=4
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_PITCH isInt=true
+  as Value:53_59_57_
+featureHandler index=5
+FeatureInfo: isNull=false LOUD_SOFT_DYNAMICS isInt=true
+  as Value:64_96_96_
+featureHandler index=6
+FeatureInfo: isNull=false MOD_TOP_NOTE_PITCH isInt=true
+  as Value:5_11_9_
+featureHandler index=7
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_INTERVAL isInt=true
+  as Value:1_6_-2_
+featureHandler index=8
+FeatureInfo: isNull=false CHROMATIC_SCALE_DEGREE isInt=true
+  as Value:8_2_0_
+featureHandler index=9
+FeatureInfo: isNull=false CHROMATIC_CHORD_TONE isInt=true
+  as Value:6_7_0_
+featureHandler index=10
+FeatureInfo: isNull=false DIATONIC_KEY_SCALE_TONE isInt=true
+  as Value:6,0_2,0_1,0_
+featureHandler index=11
+FeatureInfo: isNull=false DIATONIC_CHORD_FUNCTION_TONE isInt=true
+  as Value:5,0_5,0_1,0_
+featureHandler index=12
+FeatureInfo: isNull=false SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:1_1_-1_
+featureHandler index=13
+FeatureInfo: isNull=false HALF_SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:1_2_-1_
+featureHandler index=14
+FeatureInfo: isNull=false SIMPLE_DYNAMICS isInt=true
+  as Value:0_2_2_
+featureHandler index=15
+FeatureInfo: isNull=false STACCATO_PORTATO_TENUTO isInt=false
+  as Value:1.0_1.0_1.0_
+featureHandler index=16
+FeatureInfo: isNull=false CHORD_SCALE_NONSCALE_TONE isInt=true
+  as Value:0_0_0_
+feature position=98.0: 
+ChunkList contents -------------------------------
+NoteChunk #999: position=98.0 length=4.5
+    note 59 98.0 4.5 109 0 B2
+   absoluteNoteString=B2
+NotePatternAnalysis list:-
+Bnote
+nextNoteChunk(): NoteChunk-998
+previousNoteChunk(): NoteChunk-1000
+nextListObject: NoteChunk-998
+NoteChunk #998: position=102.5 length=1.5
+    note 57 102.5 1.5 109 0 A2
+   absoluteNoteString=A2
+NotePatternAnalysis list:-
+Anote
+nextNoteChunk(): NoteChunk-997
+previousNoteChunk(): NoteChunk-999
+nextListObject: NoteChunk-997
+NoteChunk #997: position=104.0 length=1.0
+    note 48 104.0 1.0 109 0 C2
+   absoluteNoteString=C2
+NotePatternAnalysis list:-
+Cnote
+nextNoteChunk(): NoteChunk-996
+previousNoteChunk(): NoteChunk-998
+nextListObject: NoteChunk-996
+featureHandler index=0
+FeatureInfo: isNull=false null isInt=true
+  as Value:59_57_48_
+featureHandler index=1
+FeatureInfo: isNull=false null isInt=true
+  as Value:11_9_0_
+featureHandler index=2
+FeatureInfo: isNull=false GAP_VALUE isInt=false
+  as Value:4.5_1.5_1.0_
+featureHandler index=3
+FeatureInfo: isNull=false ABSOLUTE_DURATION isInt=false
+  as Value:4.5_1.5_1.0_
+featureHandler index=4
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_PITCH isInt=true
+  as Value:59_57_48_
+featureHandler index=5
+FeatureInfo: isNull=false LOUD_SOFT_DYNAMICS isInt=true
+  as Value:96_96_96_
+featureHandler index=6
+FeatureInfo: isNull=false MOD_TOP_NOTE_PITCH isInt=true
+  as Value:11_9_0_
+featureHandler index=7
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_INTERVAL isInt=true
+  as Value:6_-2_-9_
+featureHandler index=8
+FeatureInfo: isNull=false CHROMATIC_SCALE_DEGREE isInt=true
+  as Value:2_0_7_
+featureHandler index=9
+FeatureInfo: isNull=false CHROMATIC_CHORD_TONE isInt=true
+  as Value:7_0_7_
+featureHandler index=10
+FeatureInfo: isNull=false DIATONIC_KEY_SCALE_TONE isInt=true
+  as Value:2,0_1,0_5,0_
+featureHandler index=11
+FeatureInfo: isNull=false DIATONIC_CHORD_FUNCTION_TONE isInt=true
+  as Value:5,0_1,0_5,0_
+featureHandler index=12
+FeatureInfo: isNull=false SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:1_-1_-1_
+featureHandler index=13
+FeatureInfo: isNull=false HALF_SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:2_-1_-2_
+featureHandler index=14
+FeatureInfo: isNull=false SIMPLE_DYNAMICS isInt=true
+  as Value:2_2_2_
+featureHandler index=15
+FeatureInfo: isNull=false STACCATO_PORTATO_TENUTO isInt=false
+  as Value:1.0_1.0_1.0_
+featureHandler index=16
+FeatureInfo: isNull=false CHORD_SCALE_NONSCALE_TONE isInt=true
+  as Value:0_0_0_
+feature position=102.5: 
+ChunkList contents -------------------------------
+NoteChunk #998: position=102.5 length=1.5
+    note 57 102.5 1.5 109 0 A2
+   absoluteNoteString=A2
+NotePatternAnalysis list:-
+Anote
+nextNoteChunk(): NoteChunk-997
+previousNoteChunk(): NoteChunk-999
+nextListObject: NoteChunk-997
+NoteChunk #997: position=104.0 length=1.0
+    note 48 104.0 1.0 109 0 C2
+   absoluteNoteString=C2
+NotePatternAnalysis list:-
+Cnote
+nextNoteChunk(): NoteChunk-996
+previousNoteChunk(): NoteChunk-998
+nextListObject: NoteChunk-996
+NoteChunk #996: position=105.0 length=0.5
+    note 50 105.0 0.5 96 0 D2
+   absoluteNoteString=D2
+NotePatternAnalysis list:-
+Dnote
+nextNoteChunk(): NoteChunk-995
+previousNoteChunk(): NoteChunk-997
+nextListObject: NoteChunk-995
+featureHandler index=0
+FeatureInfo: isNull=false null isInt=true
+  as Value:57_48_50_
+featureHandler index=1
+FeatureInfo: isNull=false null isInt=true
+  as Value:9_0_2_
+featureHandler index=2
+FeatureInfo: isNull=false GAP_VALUE isInt=false
+  as Value:1.5_1.0_0.5_
+featureHandler index=3
+FeatureInfo: isNull=false ABSOLUTE_DURATION isInt=false
+  as Value:1.5_1.0_0.5_
+featureHandler index=4
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_PITCH isInt=true
+  as Value:57_48_50_
+featureHandler index=5
+FeatureInfo: isNull=false LOUD_SOFT_DYNAMICS isInt=true
+  as Value:96_96_64_
+featureHandler index=6
+FeatureInfo: isNull=false MOD_TOP_NOTE_PITCH isInt=true
+  as Value:9_0_2_
+featureHandler index=7
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_INTERVAL isInt=true
+  as Value:-2_-9_2_
+featureHandler index=8
+FeatureInfo: isNull=false CHROMATIC_SCALE_DEGREE isInt=true
+  as Value:0_7_9_
+featureHandler index=9
+FeatureInfo: isNull=false CHROMATIC_CHORD_TONE isInt=true
+  as Value:0_7_9_
+featureHandler index=10
+FeatureInfo: isNull=false DIATONIC_KEY_SCALE_TONE isInt=true
+  as Value:1,0_5,0_6,0_
+featureHandler index=11
+FeatureInfo: isNull=false DIATONIC_CHORD_FUNCTION_TONE isInt=true
+  as Value:1,0_5,0_6,0_
+featureHandler index=12
+FeatureInfo: isNull=false SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:-1_-1_1_
+featureHandler index=13
+FeatureInfo: isNull=false HALF_SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:-1_-2_1_
+featureHandler index=14
+FeatureInfo: isNull=false SIMPLE_DYNAMICS isInt=true
+  as Value:2_2_0_
+featureHandler index=15
+FeatureInfo: isNull=false STACCATO_PORTATO_TENUTO isInt=false
+  as Value:1.0_1.0_1.0_
+featureHandler index=16
+FeatureInfo: isNull=false CHORD_SCALE_NONSCALE_TONE isInt=true
+  as Value:0_0_1_
+feature position=104.0: 
+ChunkList contents -------------------------------
+NoteChunk #997: position=104.0 length=1.0
+    note 48 104.0 1.0 109 0 C2
+   absoluteNoteString=C2
+NotePatternAnalysis list:-
+Cnote
+nextNoteChunk(): NoteChunk-996
+previousNoteChunk(): NoteChunk-998
+nextListObject: NoteChunk-996
+NoteChunk #996: position=105.0 length=0.5
+    note 50 105.0 0.5 96 0 D2
+   absoluteNoteString=D2
+NotePatternAnalysis list:-
+Dnote
+nextNoteChunk(): NoteChunk-995
+previousNoteChunk(): NoteChunk-997
+nextListObject: NoteChunk-995
+NoteChunk #995: position=105.5 length=0.5
+    note 52 105.5 0.5 107 0 E2
+   absoluteNoteString=E2
+NotePatternAnalysis list:-
+Enote
+nextNoteChunk(): NoteChunk-994
+previousNoteChunk(): NoteChunk-996
+nextListObject: NoteChunk-994
+featureHandler index=0
+FeatureInfo: isNull=false null isInt=true
+  as Value:48_50_52_
+featureHandler index=1
+FeatureInfo: isNull=false null isInt=true
+  as Value:0_2_4_
+featureHandler index=2
+FeatureInfo: isNull=false GAP_VALUE isInt=false
+  as Value:1.0_0.5_0.5_
+featureHandler index=3
+FeatureInfo: isNull=false ABSOLUTE_DURATION isInt=false
+  as Value:1.0_0.5_0.5_
+featureHandler index=4
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_PITCH isInt=true
+  as Value:48_50_52_
+featureHandler index=5
+FeatureInfo: isNull=false LOUD_SOFT_DYNAMICS isInt=true
+  as Value:96_64_96_
+featureHandler index=6
+FeatureInfo: isNull=false MOD_TOP_NOTE_PITCH isInt=true
+  as Value:0_2_4_
+featureHandler index=7
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_INTERVAL isInt=true
+  as Value:-9_2_2_
+featureHandler index=8
+FeatureInfo: isNull=false CHROMATIC_SCALE_DEGREE isInt=true
+  as Value:7_9_11_
+featureHandler index=9
+FeatureInfo: isNull=false CHROMATIC_CHORD_TONE isInt=true
+  as Value:7_9_11_
+featureHandler index=10
+FeatureInfo: isNull=false DIATONIC_KEY_SCALE_TONE isInt=true
+  as Value:5,0_6,0_7,0_
+featureHandler index=11
+FeatureInfo: isNull=false DIATONIC_CHORD_FUNCTION_TONE isInt=true
+  as Value:5,0_6,0_7,0_
+featureHandler index=12
+FeatureInfo: isNull=false SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:-1_1_1_
+featureHandler index=13
+FeatureInfo: isNull=false HALF_SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:-2_1_1_
+featureHandler index=14
+FeatureInfo: isNull=false SIMPLE_DYNAMICS isInt=true
+  as Value:2_0_0_
+featureHandler index=15
+FeatureInfo: isNull=false STACCATO_PORTATO_TENUTO isInt=false
+  as Value:1.0_1.0_1.0_
+featureHandler index=16
+FeatureInfo: isNull=false CHORD_SCALE_NONSCALE_TONE isInt=true
+  as Value:0_1_0_
+feature position=105.0: 
+ChunkList contents -------------------------------
+NoteChunk #996: position=105.0 length=0.5
+    note 50 105.0 0.5 96 0 D2
+   absoluteNoteString=D2
+NotePatternAnalysis list:-
+Dnote
+nextNoteChunk(): NoteChunk-995
+previousNoteChunk(): NoteChunk-997
+nextListObject: NoteChunk-995
+NoteChunk #995: position=105.5 length=0.5
+    note 52 105.5 0.5 107 0 E2
+   absoluteNoteString=E2
+NotePatternAnalysis list:-
+Enote
+nextNoteChunk(): NoteChunk-994
+previousNoteChunk(): NoteChunk-996
+nextListObject: NoteChunk-994
+NoteChunk #994: position=106.0 length=4.0
+    note 57 106.0 4.0 109 0 A2
+   absoluteNoteString=A2
+NotePatternAnalysis list:-
+Anote
+nextNoteChunk(): NoteChunk-993
+previousNoteChunk(): NoteChunk-995
+nextListObject: NoteChunk-993
+featureHandler index=0
+FeatureInfo: isNull=false null isInt=true
+  as Value:50_52_57_
+featureHandler index=1
+FeatureInfo: isNull=false null isInt=true
+  as Value:2_4_9_
+featureHandler index=2
+FeatureInfo: isNull=false GAP_VALUE isInt=false
+  as Value:0.5_0.5_4.5_
+featureHandler index=3
+FeatureInfo: isNull=false ABSOLUTE_DURATION isInt=false
+  as Value:0.5_0.5_4.0_
+featureHandler index=4
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_PITCH isInt=true
+  as Value:50_52_57_
+featureHandler index=5
+FeatureInfo: isNull=false LOUD_SOFT_DYNAMICS isInt=true
+  as Value:64_96_96_
+featureHandler index=6
+FeatureInfo: isNull=false MOD_TOP_NOTE_PITCH isInt=true
+  as Value:2_4_9_
+featureHandler index=7
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_INTERVAL isInt=true
+  as Value:2_2_5_
+featureHandler index=8
+FeatureInfo: isNull=false CHROMATIC_SCALE_DEGREE isInt=true
+  as Value:9_11_4_
+featureHandler index=9
+FeatureInfo: isNull=false CHROMATIC_CHORD_TONE isInt=true
+  as Value:9_11_4_
+featureHandler index=10
+FeatureInfo: isNull=false DIATONIC_KEY_SCALE_TONE isInt=true
+  as Value:6,0_7,0_3,0_
+featureHandler index=11
+FeatureInfo: isNull=false DIATONIC_CHORD_FUNCTION_TONE isInt=true
+  as Value:6,0_7,0_3,0_
+featureHandler index=12
+FeatureInfo: isNull=false SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:1_1_1_
+featureHandler index=13
+FeatureInfo: isNull=false HALF_SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:1_1_2_
+featureHandler index=14
+FeatureInfo: isNull=false SIMPLE_DYNAMICS isInt=true
+  as Value:0_0_2_
+featureHandler index=15
+FeatureInfo: isNull=false STACCATO_PORTATO_TENUTO isInt=false
+  as Value:1.0_1.0_0.89_
+featureHandler index=16
+FeatureInfo: isNull=false CHORD_SCALE_NONSCALE_TONE isInt=true
+  as Value:1_0_0_
+feature position=105.5: 
+ChunkList contents -------------------------------
+NoteChunk #995: position=105.5 length=0.5
+    note 52 105.5 0.5 107 0 E2
+   absoluteNoteString=E2
+NotePatternAnalysis list:-
+Enote
+nextNoteChunk(): NoteChunk-994
+previousNoteChunk(): NoteChunk-996
+nextListObject: NoteChunk-994
+NoteChunk #994: position=106.0 length=4.0
+    note 57 106.0 4.0 109 0 A2
+   absoluteNoteString=A2
+NotePatternAnalysis list:-
+Anote
+nextNoteChunk(): NoteChunk-993
+previousNoteChunk(): NoteChunk-995
+nextListObject: NoteChunk-993
+NoteChunk #993: position=110.5 length=1.0
+    note 56 110.5 1.0 109 0 G#2
+   absoluteNoteString=G#2
+NotePatternAnalysis list:-
+G#note
+nextNoteChunk(): NoteChunk-992
+previousNoteChunk(): NoteChunk-994
+nextListObject: NoteChunk-992
+featureHandler index=0
+FeatureInfo: isNull=false null isInt=true
+  as Value:52_57_56_
+featureHandler index=1
+FeatureInfo: isNull=false null isInt=true
+  as Value:4_9_8_
+featureHandler index=2
+FeatureInfo: isNull=false GAP_VALUE isInt=false
+  as Value:0.5_4.5_1.5_
+featureHandler index=3
+FeatureInfo: isNull=false ABSOLUTE_DURATION isInt=false
+  as Value:0.5_4.0_1.0_
+featureHandler index=4
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_PITCH isInt=true
+  as Value:52_57_56_
+featureHandler index=5
+FeatureInfo: isNull=false LOUD_SOFT_DYNAMICS isInt=true
+  as Value:64_96_96_
+featureHandler index=6
+FeatureInfo: isNull=false MOD_TOP_NOTE_PITCH isInt=true
+  as Value:4_9_8_
+featureHandler index=7
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_INTERVAL isInt=true
+  as Value:2_5_-1_
+featureHandler index=8
+FeatureInfo: isNull=false CHROMATIC_SCALE_DEGREE isInt=true
+  as Value:11_4_11_
+featureHandler index=9
+FeatureInfo: isNull=false CHROMATIC_CHORD_TONE isInt=true
+  as Value:11_4_9_
+featureHandler index=10
+FeatureInfo: isNull=false DIATONIC_KEY_SCALE_TONE isInt=true
+  as Value:7,0_3,0_7,1_
+featureHandler index=11
+FeatureInfo: isNull=false DIATONIC_CHORD_FUNCTION_TONE isInt=true
+  as Value:7,0_3,0_6,1_
+featureHandler index=12
+FeatureInfo: isNull=false SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:1_1_-1_
+featureHandler index=13
+FeatureInfo: isNull=false HALF_SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:1_2_-1_
+featureHandler index=14
+FeatureInfo: isNull=false SIMPLE_DYNAMICS isInt=true
+  as Value:0_2_2_
+featureHandler index=15
+FeatureInfo: isNull=false STACCATO_PORTATO_TENUTO isInt=false
+  as Value:1.0_0.89_0.67_
+featureHandler index=16
+FeatureInfo: isNull=false CHORD_SCALE_NONSCALE_TONE isInt=true
+  as Value:0_0_2_
+feature position=106.0: 
+ChunkList contents -------------------------------
+NoteChunk #994: position=106.0 length=4.0
+    note 57 106.0 4.0 109 0 A2
+   absoluteNoteString=A2
+NotePatternAnalysis list:-
+Anote
+nextNoteChunk(): NoteChunk-993
+previousNoteChunk(): NoteChunk-995
+nextListObject: NoteChunk-993
+NoteChunk #993: position=110.5 length=1.0
+    note 56 110.5 1.0 109 0 G#2
+   absoluteNoteString=G#2
+NotePatternAnalysis list:-
+G#note
+nextNoteChunk(): NoteChunk-992
+previousNoteChunk(): NoteChunk-994
+nextListObject: NoteChunk-992
+NoteChunk #992: position=112.0 length=4.0
+    note 52 112.0 4.0 109 0 E2
+   absoluteNoteString=E2
+NotePatternAnalysis list:-
+Enote
+nextNoteChunk(): NoteChunk-991
+previousNoteChunk(): NoteChunk-993
+nextListObject: NoteChunk-991
+featureHandler index=0
+FeatureInfo: isNull=false null isInt=true
+  as Value:57_56_52_
+featureHandler index=1
+FeatureInfo: isNull=false null isInt=true
+  as Value:9_8_4_
+featureHandler index=2
+FeatureInfo: isNull=false GAP_VALUE isInt=false
+  as Value:4.5_1.5_4.5_
+featureHandler index=3
+FeatureInfo: isNull=false ABSOLUTE_DURATION isInt=false
+  as Value:4.0_1.0_4.0_
+featureHandler index=4
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_PITCH isInt=true
+  as Value:57_56_52_
+featureHandler index=5
+FeatureInfo: isNull=false LOUD_SOFT_DYNAMICS isInt=true
+  as Value:96_96_96_
+featureHandler index=6
+FeatureInfo: isNull=false MOD_TOP_NOTE_PITCH isInt=true
+  as Value:9_8_4_
+featureHandler index=7
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_INTERVAL isInt=true
+  as Value:5_-1_-4_
+featureHandler index=8
+FeatureInfo: isNull=false CHROMATIC_SCALE_DEGREE isInt=true
+  as Value:4_11_7_
+featureHandler index=9
+FeatureInfo: isNull=false CHROMATIC_CHORD_TONE isInt=true
+  as Value:4_9_0_
+featureHandler index=10
+FeatureInfo: isNull=false DIATONIC_KEY_SCALE_TONE isInt=true
+  as Value:3,0_7,1_5,0_
+featureHandler index=11
+FeatureInfo: isNull=false DIATONIC_CHORD_FUNCTION_TONE isInt=true
+  as Value:3,0_6,1_1,0_
+featureHandler index=12
+FeatureInfo: isNull=false SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:1_-1_-1_
+featureHandler index=13
+FeatureInfo: isNull=false HALF_SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:2_-1_-1_
+featureHandler index=14
+FeatureInfo: isNull=false SIMPLE_DYNAMICS isInt=true
+  as Value:2_2_2_
+featureHandler index=15
+FeatureInfo: isNull=false STACCATO_PORTATO_TENUTO isInt=false
+  as Value:0.89_0.67_0.89_
+featureHandler index=16
+FeatureInfo: isNull=false CHORD_SCALE_NONSCALE_TONE isInt=true
+  as Value:0_2_0_
+feature position=110.5: 
+ChunkList contents -------------------------------
+NoteChunk #993: position=110.5 length=1.0
+    note 56 110.5 1.0 109 0 G#2
+   absoluteNoteString=G#2
+NotePatternAnalysis list:-
+G#note
+nextNoteChunk(): NoteChunk-992
+previousNoteChunk(): NoteChunk-994
+nextListObject: NoteChunk-992
+NoteChunk #992: position=112.0 length=4.0
+    note 52 112.0 4.0 109 0 E2
+   absoluteNoteString=E2
+NotePatternAnalysis list:-
+Enote
+nextNoteChunk(): NoteChunk-991
+previousNoteChunk(): NoteChunk-993
+nextListObject: NoteChunk-991
+NoteChunk #991: position=116.5 length=0.5
+    note 52 116.5 0.5 109 0 E2
+   absoluteNoteString=E2
+NotePatternAnalysis list:-
+Enote
+nextNoteChunk(): NoteChunk-990
+previousNoteChunk(): NoteChunk-992
+nextListObject: NoteChunk-990
+featureHandler index=0
+FeatureInfo: isNull=false null isInt=true
+  as Value:56_52_52_
+featureHandler index=1
+FeatureInfo: isNull=false null isInt=true
+  as Value:8_4_4_
+featureHandler index=2
+FeatureInfo: isNull=false GAP_VALUE isInt=false
+  as Value:1.5_4.5_1.0_
+featureHandler index=3
+FeatureInfo: isNull=false ABSOLUTE_DURATION isInt=false
+  as Value:1.0_4.0_0.5_
+featureHandler index=4
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_PITCH isInt=true
+  as Value:56_52_52_
+featureHandler index=5
+FeatureInfo: isNull=false LOUD_SOFT_DYNAMICS isInt=true
+  as Value:96_96_96_
+featureHandler index=6
+FeatureInfo: isNull=false MOD_TOP_NOTE_PITCH isInt=true
+  as Value:8_4_4_
+featureHandler index=7
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_INTERVAL isInt=true
+  as Value:-1_-4_0_
+featureHandler index=8
+FeatureInfo: isNull=false CHROMATIC_SCALE_DEGREE isInt=true
+  as Value:11_7_7_
+featureHandler index=9
+FeatureInfo: isNull=false CHROMATIC_CHORD_TONE isInt=true
+  as Value:9_0_7_
+featureHandler index=10
+FeatureInfo: isNull=false DIATONIC_KEY_SCALE_TONE isInt=true
+  as Value:7,1_5,0_5,0_
+featureHandler index=11
+FeatureInfo: isNull=false DIATONIC_CHORD_FUNCTION_TONE isInt=true
+  as Value:6,1_1,0_5,0_
+featureHandler index=12
+FeatureInfo: isNull=false SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:-1_-1_0_
+featureHandler index=13
+FeatureInfo: isNull=false HALF_SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:-1_-1_0_
+featureHandler index=14
+FeatureInfo: isNull=false SIMPLE_DYNAMICS isInt=true
+  as Value:2_2_2_
+featureHandler index=15
+FeatureInfo: isNull=false STACCATO_PORTATO_TENUTO isInt=false
+  as Value:0.67_0.89_0.0_
+featureHandler index=16
+FeatureInfo: isNull=false CHORD_SCALE_NONSCALE_TONE isInt=true
+  as Value:2_0_0_
+feature position=112.0: 
+ChunkList contents -------------------------------
+NoteChunk #992: position=112.0 length=4.0
+    note 52 112.0 4.0 109 0 E2
+   absoluteNoteString=E2
+NotePatternAnalysis list:-
+Enote
+nextNoteChunk(): NoteChunk-991
+previousNoteChunk(): NoteChunk-993
+nextListObject: NoteChunk-991
+NoteChunk #991: position=116.5 length=0.5
+    note 52 116.5 0.5 109 0 E2
+   absoluteNoteString=E2
+NotePatternAnalysis list:-
+Enote
+nextNoteChunk(): NoteChunk-990
+previousNoteChunk(): NoteChunk-992
+nextListObject: NoteChunk-990
+NoteChunk #990: position=117.5 length=0.5
+    note 56 117.5 0.5 109 0 G#2
+   absoluteNoteString=G#2
+NotePatternAnalysis list:-
+G#note
+nextNoteChunk(): NoteChunk-989
+previousNoteChunk(): NoteChunk-991
+nextListObject: NoteChunk-989
+featureHandler index=0
+FeatureInfo: isNull=false null isInt=true
+  as Value:52_52_56_
+featureHandler index=1
+FeatureInfo: isNull=false null isInt=true
+  as Value:4_4_8_
+featureHandler index=2
+FeatureInfo: isNull=false GAP_VALUE isInt=false
+  as Value:4.5_1.0_1.0_
+featureHandler index=3
+FeatureInfo: isNull=false ABSOLUTE_DURATION isInt=false
+  as Value:4.0_0.5_0.5_
+featureHandler index=4
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_PITCH isInt=true
+  as Value:52_52_56_
+featureHandler index=5
+FeatureInfo: isNull=false LOUD_SOFT_DYNAMICS isInt=true
+  as Value:96_96_96_
+featureHandler index=6
+FeatureInfo: isNull=false MOD_TOP_NOTE_PITCH isInt=true
+  as Value:4_4_8_
+featureHandler index=7
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_INTERVAL isInt=true
+  as Value:-4_0_4_
+featureHandler index=8
+FeatureInfo: isNull=false CHROMATIC_SCALE_DEGREE isInt=true
+  as Value:7_7_11_
+featureHandler index=9
+FeatureInfo: isNull=false CHROMATIC_CHORD_TONE isInt=true
+  as Value:0_7_11_
+featureHandler index=10
+FeatureInfo: isNull=false DIATONIC_KEY_SCALE_TONE isInt=true
+  as Value:5,0_5,0_7,1_
+featureHandler index=11
+FeatureInfo: isNull=false DIATONIC_CHORD_FUNCTION_TONE isInt=true
+  as Value:1,0_5,0_7,1_
+featureHandler index=12
+FeatureInfo: isNull=false SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:-1_0_1_
+featureHandler index=13
+FeatureInfo: isNull=false HALF_SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:-1_0_1_
+featureHandler index=14
+FeatureInfo: isNull=false SIMPLE_DYNAMICS isInt=true
+  as Value:2_2_2_
+featureHandler index=15
+FeatureInfo: isNull=false STACCATO_PORTATO_TENUTO isInt=false
+  as Value:0.89_0.0_0.0_
+featureHandler index=16
+FeatureInfo: isNull=false CHORD_SCALE_NONSCALE_TONE isInt=true
+  as Value:0_0_2_
+feature position=116.5: 
+ChunkList contents -------------------------------
+NoteChunk #991: position=116.5 length=0.5
+    note 52 116.5 0.5 109 0 E2
+   absoluteNoteString=E2
+NotePatternAnalysis list:-
+Enote
+nextNoteChunk(): NoteChunk-990
+previousNoteChunk(): NoteChunk-992
+nextListObject: NoteChunk-990
+NoteChunk #990: position=117.5 length=0.5
+    note 56 117.5 0.5 109 0 G#2
+   absoluteNoteString=G#2
+NotePatternAnalysis list:-
+G#note
+nextNoteChunk(): NoteChunk-989
+previousNoteChunk(): NoteChunk-991
+nextListObject: NoteChunk-989
+NoteChunk #989: position=118.5 length=0.5
+    note 59 118.5 0.5 109 0 B2
+   absoluteNoteString=B2
+NotePatternAnalysis list:-
+Bnote
+nextNoteChunk(): NoteChunk-988
+previousNoteChunk(): NoteChunk-990
+nextListObject: NoteChunk-988
+featureHandler index=0
+FeatureInfo: isNull=false null isInt=true
+  as Value:52_56_59_
+featureHandler index=1
+FeatureInfo: isNull=false null isInt=true
+  as Value:4_8_11_
+featureHandler index=2
+FeatureInfo: isNull=false GAP_VALUE isInt=false
+  as Value:1.0_1.0_1.0_
+featureHandler index=3
+FeatureInfo: isNull=false ABSOLUTE_DURATION isInt=false
+  as Value:0.5_0.5_0.5_
+featureHandler index=4
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_PITCH isInt=true
+  as Value:52_56_59_
+featureHandler index=5
+FeatureInfo: isNull=false LOUD_SOFT_DYNAMICS isInt=true
+  as Value:96_96_96_
+featureHandler index=6
+FeatureInfo: isNull=false MOD_TOP_NOTE_PITCH isInt=true
+  as Value:4_8_11_
+featureHandler index=7
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_INTERVAL isInt=true
+  as Value:0_4_3_
+featureHandler index=8
+FeatureInfo: isNull=false CHROMATIC_SCALE_DEGREE isInt=true
+  as Value:7_11_2_
+featureHandler index=9
+FeatureInfo: isNull=false CHROMATIC_CHORD_TONE isInt=true
+  as Value:7_11_2_
+featureHandler index=10
+FeatureInfo: isNull=false DIATONIC_KEY_SCALE_TONE isInt=true
+  as Value:5,0_7,1_2,0_
+featureHandler index=11
+FeatureInfo: isNull=false DIATONIC_CHORD_FUNCTION_TONE isInt=true
+  as Value:5,0_7,1_2,0_
+featureHandler index=12
+FeatureInfo: isNull=false SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:0_1_1_
+featureHandler index=13
+FeatureInfo: isNull=false HALF_SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:0_1_1_
+featureHandler index=14
+FeatureInfo: isNull=false SIMPLE_DYNAMICS isInt=true
+  as Value:2_2_2_
+featureHandler index=15
+FeatureInfo: isNull=false STACCATO_PORTATO_TENUTO isInt=false
+  as Value:0.0_0.0_0.0_
+featureHandler index=16
+FeatureInfo: isNull=false CHORD_SCALE_NONSCALE_TONE isInt=true
+  as Value:0_2_1_
+feature position=117.5: 
+ChunkList contents -------------------------------
+NoteChunk #990: position=117.5 length=0.5
+    note 56 117.5 0.5 109 0 G#2
+   absoluteNoteString=G#2
+NotePatternAnalysis list:-
+G#note
+nextNoteChunk(): NoteChunk-989
+previousNoteChunk(): NoteChunk-991
+nextListObject: NoteChunk-989
+NoteChunk #989: position=118.5 length=0.5
+    note 59 118.5 0.5 109 0 B2
+   absoluteNoteString=B2
+NotePatternAnalysis list:-
+Bnote
+nextNoteChunk(): NoteChunk-988
+previousNoteChunk(): NoteChunk-990
+nextListObject: NoteChunk-988
+NoteChunk #988: position=119.5 length=7.5
+    note 57 119.5 7.5 109 0 A2
+   absoluteNoteString=A2
+NotePatternAnalysis list:-
+Anote
+nextNoteChunk(): NoteChunk-1059
+previousNoteChunk(): NoteChunk-989
+nextListObject: ListEnd object
+featureHandler index=0
+FeatureInfo: isNull=false null isInt=true
+  as Value:56_59_57_
+featureHandler index=1
+FeatureInfo: isNull=false null isInt=true
+  as Value:8_11_9_
+featureHandler index=2
+FeatureInfo: isNull=false GAP_VALUE isInt=false
+  as Value:1.0_1.0_7.5_
+featureHandler index=3
+FeatureInfo: isNull=false ABSOLUTE_DURATION isInt=false
+  as Value:0.5_0.5_7.5_
+featureHandler index=4
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_PITCH isInt=true
+  as Value:56_59_57_
+featureHandler index=5
+FeatureInfo: isNull=false LOUD_SOFT_DYNAMICS isInt=true
+  as Value:96_96_96_
+featureHandler index=6
+FeatureInfo: isNull=false MOD_TOP_NOTE_PITCH isInt=true
+  as Value:8_11_9_
+featureHandler index=7
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_INTERVAL isInt=true
+  as Value:4_3_-2_
+featureHandler index=8
+FeatureInfo: isNull=false CHROMATIC_SCALE_DEGREE isInt=true
+  as Value:11_2_0_
+featureHandler index=9
+FeatureInfo: isNull=false CHROMATIC_CHORD_TONE isInt=true
+  as Value:11_2_10_
+featureHandler index=10
+FeatureInfo: isNull=false DIATONIC_KEY_SCALE_TONE isInt=true
+  as Value:7,1_2,0_1,0_
+featureHandler index=11
+FeatureInfo: isNull=false DIATONIC_CHORD_FUNCTION_TONE isInt=true
+  as Value:7,1_2,0_7,0_
+featureHandler index=12
+FeatureInfo: isNull=false SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:1_1_-1_
+featureHandler index=13
+FeatureInfo: isNull=false HALF_SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:1_1_-1_
+featureHandler index=14
+FeatureInfo: isNull=false SIMPLE_DYNAMICS isInt=true
+  as Value:2_2_2_
+featureHandler index=15
+FeatureInfo: isNull=false STACCATO_PORTATO_TENUTO isInt=false
+  as Value:0.0_0.0_1.0_
+featureHandler index=16
+FeatureInfo: isNull=false CHORD_SCALE_NONSCALE_TONE isInt=true
+  as Value:2_1_0_
+feature position=118.5: 
+ChunkList contents -------------------------------
+NoteChunk #989: position=118.5 length=0.5
+    note 59 118.5 0.5 109 0 B2
+   absoluteNoteString=B2
+NotePatternAnalysis list:-
+Bnote
+nextNoteChunk(): NoteChunk-988
+previousNoteChunk(): NoteChunk-990
+nextListObject: NoteChunk-988
+NoteChunk #988: position=119.5 length=7.5
+    note 57 119.5 7.5 109 0 A2
+   absoluteNoteString=A2
+NotePatternAnalysis list:-
+Anote
+nextNoteChunk(): NoteChunk-1059
+previousNoteChunk(): NoteChunk-989
+nextListObject: ListEnd object
+NoteChunk #1059: position=127.0 length=1.0
+    note 52 -1.0 1.0 109 0 E2
+   absoluteNoteString=E2
+NotePatternAnalysis list:-
+Enote
+nextNoteChunk(): NoteChunk-1060
+previousNoteChunk(): NoteChunk-988
+no nextListObject
+featureHandler index=0
+FeatureInfo: isNull=false null isInt=true
+  as Value:59_57_52_
+featureHandler index=1
+FeatureInfo: isNull=false null isInt=true
+  as Value:11_9_4_
+featureHandler index=2
+FeatureInfo: isNull=false GAP_VALUE isInt=false
+  as Value:1.0_7.5_1.0_
+featureHandler index=3
+FeatureInfo: isNull=false ABSOLUTE_DURATION isInt=false
+  as Value:0.5_7.5_1.0_
+featureHandler index=4
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_PITCH isInt=true
+  as Value:59_57_52_
+featureHandler index=5
+FeatureInfo: isNull=false LOUD_SOFT_DYNAMICS isInt=true
+  as Value:96_96_96_
+featureHandler index=6
+FeatureInfo: isNull=false MOD_TOP_NOTE_PITCH isInt=true
+  as Value:11_9_4_
+featureHandler index=7
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_INTERVAL isInt=true
+  as Value:3_-2_-5_
+featureHandler index=8
+FeatureInfo: isNull=false CHROMATIC_SCALE_DEGREE isInt=true
+  as Value:2_0_11_
+featureHandler index=9
+FeatureInfo: isNull=false CHROMATIC_CHORD_TONE isInt=true
+  as Value:2_10_7_
+featureHandler index=10
+FeatureInfo: isNull=false DIATONIC_KEY_SCALE_TONE isInt=true
+  as Value:2,0_1,0_7,0_
+featureHandler index=11
+FeatureInfo: isNull=false DIATONIC_CHORD_FUNCTION_TONE isInt=true
+  as Value:2,0_7,0_5,0_
+featureHandler index=12
+FeatureInfo: isNull=false SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:1_-1_-1_
+featureHandler index=13
+FeatureInfo: isNull=false HALF_SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:1_-1_-2_
+featureHandler index=14
+FeatureInfo: isNull=false SIMPLE_DYNAMICS isInt=true
+  as Value:2_2_2_
+featureHandler index=15
+FeatureInfo: isNull=false STACCATO_PORTATO_TENUTO isInt=false
+  as Value:0.0_1.0_1.0_
+featureHandler index=16
+FeatureInfo: isNull=false CHORD_SCALE_NONSCALE_TONE isInt=true
+  as Value:1_0_0_
+feature position=119.5: 
+ChunkList contents -------------------------------
+NoteChunk #988: position=119.5 length=7.5
+    note 57 119.5 7.5 109 0 A2
+   absoluteNoteString=A2
+NotePatternAnalysis list:-
+Anote
+nextNoteChunk(): NoteChunk-1059
+previousNoteChunk(): NoteChunk-989
+nextListObject: ListEnd object
+NoteChunk #1059: position=127.0 length=1.0
+    note 52 -1.0 1.0 109 0 E2
+   absoluteNoteString=E2
+NotePatternAnalysis list:-
+Enote
+nextNoteChunk(): NoteChunk-1060
+previousNoteChunk(): NoteChunk-988
+no nextListObject
+NoteChunk #1060: position=128.0 length=2.5
+    note 60 0.0 2.5 109 0 C3
+   absoluteNoteString=C3
+NotePatternAnalysis list:-
+Cnote
+nextNoteChunk(): NoteChunk-1061
+previousNoteChunk(): NoteChunk-1059
+no nextListObject
+featureHandler index=0
+FeatureInfo: isNull=false null isInt=true
+  as Value:57_52_60_
+featureHandler index=1
+FeatureInfo: isNull=false null isInt=true
+  as Value:9_4_0_
+featureHandler index=2
+FeatureInfo: isNull=false GAP_VALUE isInt=false
+  as Value:7.5_1.0_2.5_
+featureHandler index=3
+FeatureInfo: isNull=false ABSOLUTE_DURATION isInt=false
+  as Value:7.5_1.0_2.5_
+featureHandler index=4
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_PITCH isInt=true
+  as Value:57_52_60_
+featureHandler index=5
+FeatureInfo: isNull=false LOUD_SOFT_DYNAMICS isInt=true
+  as Value:96_96_96_
+featureHandler index=6
+FeatureInfo: isNull=false MOD_TOP_NOTE_PITCH isInt=true
+  as Value:9_4_0_
+featureHandler index=7
+FeatureInfo: isNull=false ABSOLUTE_TOP_NOTE_INTERVAL isInt=true
+  as Value:-2_-5_8_
+featureHandler index=8
+FeatureInfo: isNull=false CHROMATIC_SCALE_DEGREE isInt=true
+  as Value:0_11_3_
+featureHandler index=9
+FeatureInfo: isNull=false CHROMATIC_CHORD_TONE isInt=true
+  as Value:10_7_1_
+featureHandler index=10
+FeatureInfo: isNull=false DIATONIC_KEY_SCALE_TONE isInt=true
+  as Value:1,0_7,0_3,0_
+featureHandler index=11
+FeatureInfo: isNull=false DIATONIC_CHORD_FUNCTION_TONE isInt=true
+  as Value:7,0_5,0_2,0_
+featureHandler index=12
+FeatureInfo: isNull=false SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:-1_-1_1_
+featureHandler index=13
+FeatureInfo: isNull=false HALF_SIMPLE_MELODY_CONTOUR isInt=true
+  as Value:-1_-2_2_
+featureHandler index=14
+FeatureInfo: isNull=false SIMPLE_DYNAMICS isInt=true
+  as Value:2_2_2_
+featureHandler index=15
+FeatureInfo: isNull=false STACCATO_PORTATO_TENUTO isInt=false
+  as Value:1.0_1.0_1.0_
+featureHandler index=16
+FeatureInfo: isNull=false CHORD_SCALE_NONSCALE_TONE isInt=true
+  as Value:0_0_1_
